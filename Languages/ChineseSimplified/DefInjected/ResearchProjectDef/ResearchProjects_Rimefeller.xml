@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilDrilling.label>开采石油</OilDrilling.label>
+  <OilDrilling.description>石油开采中.</OilDrilling.description>
+
+  <DeepOilWells.label>深油井</DeepOilWells.label>
+  <DeepOilWells.description>钻得更深的井以进入新的油田.</DeepOilWells.description>
+
+  <ChemfuelRefining.label>精炼燃油</ChemfuelRefining.label>
+  <ChemfuelRefining.description>将原油提炼成化学燃料，储存在化学燃料罐中.</ChemfuelRefining.description>
+
+  <NeutroamineProduction.label>中性胺</NeutroamineProduction.label>
+  <NeutroamineProduction.description>从储存的化学燃料中产生中性胺，用于制造药物</NeutroamineProduction.description>
+
+  <SynthyleneProduction.label>聚乙烯塑料</SynthyleneProduction.label>
+  <SynthyleneProduction.description>从储存的化学燃料中生产可以选择颜色的通用的聚乙烯塑料作为建筑材料</SynthyleneProduction.description>
+
+  <Napalm.label>凝固汽油</Napalm.label>
+  <Napalm.description>高度易燃的凝固汽油，由化学燃料和聚乙烯增稠</Napalm.description>
+
+  <ArtificialFloors.label>人造地板</ArtificialFloors.label>
+  <ArtificialFloors.description>用聚乙烯塑料制造人造地板 </ArtificialFloors.description>
+
+  <SynthyleneComponents.label>聚乙烯塑料零件</SynthyleneComponents.label>
+  <SynthyleneComponents.description>用聚乙烯塑料和钢铁制作零件，扩展你钢铁的库存</SynthyleneComponents.description>
+
+  <SynthreadProduction.label>合成纤维</SynthreadProduction.label>
+  <SynthreadProduction.description>由化合燃料生产合成纤维</SynthreadProduction.description>
+
+  <SynthamideProduction.label>合成酰胺纤维</SynthamideProduction.label>
+  <SynthamideProduction.description>合成酰胺纤维，合成酰胺纤维是耐热的和强韧的合成纤维，可用于制造非常耐用的衣物。</SynthamideProduction.description>
+
+  <SynthamideCompositeProduction.label>合成酰胺复合材料</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>生产合成酰胺复合材料，一种高强度轻量防火隔离技术复合材料，由合成酰胺与复合材料制成。</SynthamideCompositeProduction.description>
+
+  <PlasteelProduction.label>塑钢</PlasteelProduction.label>
+  <PlasteelProduction.description>发现制造高强度复合材料塑钢的秘诀</PlasteelProduction.description>
+
+
+</LanguageData>

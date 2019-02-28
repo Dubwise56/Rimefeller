@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CleanOil.reportString>清理石油</CleanOil.reportString>
+  <SuperviseDrilling.reportString>监督钻井作业.</SuperviseDrilling.reportString>
+  <EmptyAutoclave.reportString>清空高压处理罐.</EmptyAutoclave.reportString>
+  <FillAutoclave.reportString>填满高压处理罐.</FillAutoclave.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmptyAutoclave.label>清空高压处理罐</EmptyAutoclave.label>
+  <EmptyAutoclave.verb>清空高压处理罐</EmptyAutoclave.verb>
+  <EmptyAutoclave.gerund>清空高压处理罐中</EmptyAutoclave.gerund>
+
+  <FillAutoclave.label>填充高压处理罐</FillAutoclave.label>
+  <FillAutoclave.verb>填充高压处理罐</FillAutoclave.verb>
+  <FillAutoclave.gerund>填充高压处理罐ing</FillAutoclave.gerund>
+
+  <CleanOil.label>清理石油</CleanOil.label>
+  <CleanOil.verb>清理石油</CleanOil.verb>
+  <CleanOil.gerund>正在清理石油</CleanOil.gerund>
+
+  <SuperviseDrilling.label>管理钻井</SuperviseDrilling.label>
+  <SuperviseDrilling.verb>管理</SuperviseDrilling.verb>
+  <SuperviseDrilling.gerund>管理ing</SuperviseDrilling.gerund>
+
+
+</LanguageData>

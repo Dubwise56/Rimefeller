@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilPipeVisibility.label>管道的可见性</OilPipeVisibility.label>
+  <OilPipeVisibility.options.0.label>隐藏</OilPipeVisibility.options.0.label>
+  <OilPipeVisibility.options.1.label>在地板下隐藏</OilPipeVisibility.options.1.label>
+  <OilPipeVisibility.options.2.label>总是可见</OilPipeVisibility.options.2.label>
+
+  <OilPumpCapacity.label>泵油能力</OilPumpCapacity.label>
+  <OilPumpCapacity.options.0.label>Cheat</OilPumpCapacity.options.0.label>
+  <OilPumpCapacity.options.1.label>250%</OilPumpCapacity.options.1.label>
+  <OilPumpCapacity.options.2.label>200%</OilPumpCapacity.options.2.label>
+  <OilPumpCapacity.options.3.label>150%</OilPumpCapacity.options.3.label>
+  <OilPumpCapacity.options.4.label>100%</OilPumpCapacity.options.4.label>
+  <OilPumpCapacity.options.5.label>75%</OilPumpCapacity.options.5.label>
+  <OilPumpCapacity.options.6.label>50%</OilPumpCapacity.options.6.label>
+  <OilPumpCapacity.options.7.label>25%</OilPumpCapacity.options.7.label>
+  <OilPumpCapacity.options.8.label>10%</OilPumpCapacity.options.8.label>
+
+  <OilGridCapacity.label>每单元石油限制</OilGridCapacity.label>
+  <OilGridCapacity.options.0.label>Cheat</OilGridCapacity.options.0.label>
+  <OilGridCapacity.options.1.label>小孩都能玩</OilGridCapacity.options.1.label>
+  <OilGridCapacity.options.2.label>简单</OilGridCapacity.options.2.label>
+  <OilGridCapacity.options.3.label>正常</OilGridCapacity.options.3.label>
+  <OilGridCapacity.options.4.label>挑战自我</OilGridCapacity.options.4.label>
+  <OilGridCapacity.options.5.label>恶心人</OilGridCapacity.options.5.label>
+  <OilGridCapacity.options.6.label>极端</OilGridCapacity.options.6.label>
+
+
+</LanguageData>

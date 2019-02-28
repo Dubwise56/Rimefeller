@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Napalm.label>制作凝固汽油</Make_Napalm.label>
+  <Make_Napalm.description>通过混合化学燃料和聚乙烯来制作凝固汽油.</Make_Napalm.description>
+  <Make_Napalm.jobString>制作凝固汽油.</Make_Napalm.jobString>
+
+  <Make_ComponentIndustrialPlastic.label>制作聚乙烯塑料零件</Make_ComponentIndustrialPlastic.label>
+  <Make_ComponentIndustrialPlastic.description>利用聚乙烯塑料代替部分钢铁制作零件.</Make_ComponentIndustrialPlastic.description>
+  <Make_ComponentIndustrialPlastic.jobString>制作零件中.</Make_ComponentIndustrialPlastic.jobString>
+
+  <Make_PlasteelComposite.label>制作塑钢</Make_PlasteelComposite.label>
+  <Make_PlasteelComposite.description>制作未固化的塑钢,在高压处理罐加工后得到玻璃钢.</Make_PlasteelComposite.description>
+  <Make_PlasteelComposite.jobString>正在制作塑钢.</Make_PlasteelComposite.jobString>
+
+  <Make_SynthamideComposite.label>制作合成酰胺复合材料</Make_SynthamideComposite.label>
+  <Make_SynthamideComposite.description>制作合成酰胺复合材料</Make_SynthamideComposite.description>
+  <Make_SynthamideComposite.jobString>制作合成酰胺复合材料中</Make_SynthamideComposite.jobString>
+
+
+</LanguageData>

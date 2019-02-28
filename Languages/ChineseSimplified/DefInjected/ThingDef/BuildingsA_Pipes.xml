@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <Filth_OilSlick.label>水面浮油</Filth_OilSlick.label>
+  <Filth_OilSlick.description>一滩易燃的油.</Filth_OilSlick.description>
+  <Filth_OilSlick.comps.0.useLabel>点燃</Filth_OilSlick.comps.0.useLabel>
+
+  <Filth_NapalmTrail.label>凝固汽油小道</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>铺设一条易燃耐烧的凝固汽油小道。</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.0.useLabel>点燃</Filth_NapalmTrail.comps.0.useLabel>
+  <Filth_NapalmTrail_Blueprint.label>凝固汽油小道 (蓝图)</Filth_NapalmTrail_Blueprint.label>
+  <Filth_NapalmTrail_Frame.label>凝固汽油小道 (建造中)</Filth_NapalmTrail_Frame.label>
+  <Filth_NapalmTrail_Frame.description>凝固汽油小道</Filth_NapalmTrail_Frame.description>
+
+  <NapalmBomb.label>凝固汽油桶</NapalmBomb.label>
+  <NapalmBomb.description>凝固汽油桶</NapalmBomb.description>
+  <NapalmBomb.comps.0.useLabel>点燃</NapalmBomb.comps.0.useLabel>
+  <NapalmBomb_Blueprint.label>凝固汽油弹 (蓝图)</NapalmBomb_Blueprint.label>
+  <NapalmBomb_Frame.label>凝固汽油弹 (建造中)</NapalmBomb_Frame.label>
+  <NapalmBomb_Frame.description>一桶凝固汽油</NapalmBomb_Frame.description>
+
+  <SparkGrid.label>自动点火器</SparkGrid.label>
+  <SparkGrid.description>通电后自动点燃易燃物品，如汽油弹.</SparkGrid.description>
+  <SparkGrid_Blueprint.label>自动点火器 (蓝图)</SparkGrid_Blueprint.label>
+  <SparkGrid_Frame.label>自动点火器 (建造中)</SparkGrid_Frame.label>
+  <SparkGrid_Frame.description>通电后自动点燃易燃物品，如汽油弹</SparkGrid_Frame.description>
+
+  <OilPipeline.label>输油管</OilPipeline.label>
+  <OilPipeline.description>用于连接各种需要管道的设施</OilPipeline.description>
+  <OilPipeline_Blueprint.label>输油管 (蓝图)</OilPipeline_Blueprint.label>
+  <OilPipeline_Frame.label>输油管 (建造中)</OilPipeline_Frame.label>
+  <OilPipeline_Frame.description>用于连接各种需要管道的设施.</OilPipeline_Frame.description>
+
+  <pipelineValve.label>管道阀门</pipelineValve.label>
+  <pipelineValve.description>打开或者关闭管道的连接.</pipelineValve.description>
+  <pipelineValve_Blueprint.label>管道阀门 (蓝图)</pipelineValve_Blueprint.label>
+  <pipelineValve_Blueprint_Install.label>管道阀门 (蓝图)</pipelineValve_Blueprint_Install.label>
+  <pipelineValve_Frame.label>管道阀门 (建造中)</pipelineValve_Frame.label>
+  <pipelineValve_Frame.description>打开或者关闭管道的连接.</pipelineValve_Frame.description>
+
+
+</LanguageData>

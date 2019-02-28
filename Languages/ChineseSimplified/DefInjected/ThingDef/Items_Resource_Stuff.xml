@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Napalm.label>凝固汽油</Napalm.label>
+  <Napalm.description>在凝固汽油中使用的高度易燃的黏性燃油，由化学燃料和聚乙烯混合而成。</Napalm.description>
+
+  <OilBarrel.label>油桶</OilBarrel.label>
+  <OilBarrel.description>一个装满原油的桶，可以被倾倒、焚烧或加工。.</OilBarrel.description>
+
+  <UncuredPlasteel.label>未固化的塑钢</UncuredPlasteel.label>
+  <UncuredPlasteel.description>未固化的塑钢，需要在高压处理罐中进行加工.</UncuredPlasteel.description>
+
+  <Synthamide.label>合成酰胺纤维</Synthamide.label>
+  <Synthamide.description>合成酰胺纤维是耐热和强合成纤维，可用于缝制经久耐用的服装或制造高强度复合材料。</Synthamide.description>
+  <Synthamide.stuffProps.stuffAdjective>合成酰胺纤维</Synthamide.stuffProps.stuffAdjective>
+
+  <Synthylene.label>聚乙烯塑料</Synthylene.label>
+  <Synthylene.description>一种合成的建筑材料。</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>聚乙烯塑料</Synthylene.stuffProps.stuffAdjective>
+
+  <SynthyleneWhite.label>白色聚乙烯塑料</SynthyleneWhite.label>
+  <SynthyleneWhite.description>一种合成的建筑材料.</SynthyleneWhite.description>
+  <SynthyleneWhite.stuffProps.stuffAdjective>白色聚乙烯塑料</SynthyleneWhite.stuffProps.stuffAdjective>
+
+  <SynthyleneBlack.label>黑色聚乙烯塑料</SynthyleneBlack.label>
+  <SynthyleneBlack.description>一种合成的建筑材料.</SynthyleneBlack.description>
+  <SynthyleneBlack.stuffProps.stuffAdjective>黑色聚乙烯塑料</SynthyleneBlack.stuffProps.stuffAdjective>
+
+  <SynthyleneGreen.label>绿色聚乙烯塑料</SynthyleneGreen.label>
+  <SynthyleneGreen.description>一种合成的建筑材料.</SynthyleneGreen.description>
+  <SynthyleneGreen.stuffProps.stuffAdjective>绿色聚乙烯塑料</SynthyleneGreen.stuffProps.stuffAdjective>
+
+  <SynthyleneBlue.label>蓝色聚乙烯塑料</SynthyleneBlue.label>
+  <SynthyleneBlue.description>一种合成的建筑材料.</SynthyleneBlue.description>
+  <SynthyleneBlue.stuffProps.stuffAdjective>蓝色聚乙烯塑料</SynthyleneBlue.stuffProps.stuffAdjective>
+
+  <SynthyleneViolet.label>紫罗兰色聚乙烯塑料(薇尔莉特色)</SynthyleneViolet.label>
+  <SynthyleneViolet.description>一种合成的建筑材料.</SynthyleneViolet.description>
+  <SynthyleneViolet.stuffProps.stuffAdjective>紫罗兰色聚乙烯塑料</SynthyleneViolet.stuffProps.stuffAdjective>
+
+  <SynthyleneOrange.label>橙色聚乙烯塑料</SynthyleneOrange.label>
+  <SynthyleneOrange.description>一种合成的建筑材料.</SynthyleneOrange.description>
+  <SynthyleneOrange.stuffProps.stuffAdjective>橙色聚乙烯塑料</SynthyleneOrange.stuffProps.stuffAdjective>
+
+  <SynthyleneYellow.label>黄色聚乙烯塑料</SynthyleneYellow.label>
+  <SynthyleneYellow.description>一种合成的建筑材料.</SynthyleneYellow.description>
+  <SynthyleneYellow.stuffProps.stuffAdjective>黄色聚乙烯塑料</SynthyleneYellow.stuffProps.stuffAdjective>
+
+  <SynthyleneRed.label>红色聚乙烯塑料</SynthyleneRed.label>
+  <SynthyleneRed.description>一种合成的建筑材料.</SynthyleneRed.description>
+  <SynthyleneRed.stuffProps.stuffAdjective>色聚乙烯塑料</SynthyleneRed.stuffProps.stuffAdjective>
+
+  <SynthyleneOlive.label>橄榄色聚乙烯塑料</SynthyleneOlive.label>
+  <SynthyleneOlive.description>一种合成的建筑材料.</SynthyleneOlive.description>
+  <SynthyleneOlive.stuffProps.stuffAdjective>橄榄色聚乙烯塑料</SynthyleneOlive.stuffProps.stuffAdjective>
+
+  <SynthyleneSand.label>沙地色聚乙烯塑料</SynthyleneSand.label>
+  <SynthyleneSand.description>一种合成的建筑材料.</SynthyleneSand.description>
+  <SynthyleneSand.stuffProps.stuffAdjective>沙地色聚乙烯塑料</SynthyleneSand.stuffProps.stuffAdjective>
+
+  <UncuredComposite.label>未固化的合成酰胺复合材料</UncuredComposite.label>
+  <UncuredComposite.description>未固化的合成酰胺复合材料，需要在高压处理罐中进行加工.</UncuredComposite.description>
+
+  <!--[Duplicated] <FiberComposite.label>Synthamide Composite</FiberComposite.label>-->
+  <!--[Duplicated] <FiberComposite.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合材料.</FiberComposite.description>-->
+  <!--[Duplicated] <FiberComposite.stuffProps.stuffAdjective>Synthamide Composite</FiberComposite.stuffProps.stuffAdjective>-->
+
+  <FiberComposite.label>合成酰胺复合材料</FiberComposite.label>
+  <FiberComposite.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>复合材料</FiberComposite.stuffProps.stuffAdjective>
+
+  <FiberCompositeWhite.label>白色合成酰胺复合材料 </FiberCompositeWhite.label>
+  <FiberCompositeWhite.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeWhite.description>
+  <FiberCompositeWhite.stuffProps.stuffAdjective>白色复合材料</FiberCompositeWhite.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlack.label>黑色合成酰胺复合材料</FiberCompositeBlack.label>
+  <FiberCompositeBlack.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeBlack.description>
+  <FiberCompositeBlack.stuffProps.stuffAdjective>黑色复合材料</FiberCompositeBlack.stuffProps.stuffAdjective>
+
+  <FiberCompositeGreen.label>绿色合成酰胺复合材料</FiberCompositeGreen.label>
+  <FiberCompositeGreen.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeGreen.description>
+  <FiberCompositeGreen.stuffProps.stuffAdjective>绿色复合材料</FiberCompositeGreen.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlue.label>蓝色合成酰胺复合材料</FiberCompositeBlue.label>
+  <FiberCompositeBlue.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeBlue.description>
+  <FiberCompositeBlue.stuffProps.stuffAdjective>蓝色复合材料</FiberCompositeBlue.stuffProps.stuffAdjective>
+
+  <FiberCompositeViolet.label>紫色合成酰胺复合材料</FiberCompositeViolet.label>
+  <FiberCompositeViolet.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeViolet.description>
+  <FiberCompositeViolet.stuffProps.stuffAdjective>紫色复合材料</FiberCompositeViolet.stuffProps.stuffAdjective>
+
+  <FiberCompositeOrange.label>橙色合成酰胺复合材料</FiberCompositeOrange.label>
+  <FiberCompositeOrange.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeOrange.description>
+  <FiberCompositeOrange.stuffProps.stuffAdjective>橙色复合材料</FiberCompositeOrange.stuffProps.stuffAdjective>
+
+  <FiberCompositeYellow.label>黄色合成酰胺复合材料</FiberCompositeYellow.label>
+  <FiberCompositeYellow.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeYellow.description>
+  <FiberCompositeYellow.stuffProps.stuffAdjective>黄色复合材料</FiberCompositeYellow.stuffProps.stuffAdjective>
+
+  <FiberCompositeRed.label>红色合成酰胺复合材料</FiberCompositeRed.label>
+  <FiberCompositeRed.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeRed.description>
+  <FiberCompositeRed.stuffProps.stuffAdjective>红色复合材料</FiberCompositeRed.stuffProps.stuffAdjective>
+
+  <FiberCompositeOlive.label>橄榄色合成酰胺复合材料</FiberCompositeOlive.label>
+  <FiberCompositeOlive.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeOlive.description>
+  <FiberCompositeOlive.stuffProps.stuffAdjective>橄榄色复合材料</FiberCompositeOlive.stuffProps.stuffAdjective>
+
+  <FiberCompositeSand.label>沙地色合成酰胺复合材料</FiberCompositeSand.label>
+  <FiberCompositeSand.description>合成酰胺复合材料是一种高强度轻重量防火隔离技术复合建筑材料.</FiberCompositeSand.description>
+  <FiberCompositeSand.stuffProps.stuffAdjective>沙地色复合材料</FiberCompositeSand.stuffProps.stuffAdjective>
+
+
+</LanguageData>

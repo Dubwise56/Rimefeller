@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CantModeAutoclave>不能在固化时改变模式</CantModeAutoclave>
+  <CuringTime>固化剩余时间: {0}</CuringTime>
+
+  <PickCompositeColour>选择颜色</PickCompositeColour>
+  <PickCompositeColourDesc>选择固化的合成酰胺复合材料的颜色</PickCompositeColourDesc>
+  <PickSynthyleneColour>选择 聚乙烯塑料的颜色</PickSynthyleneColour>
+  <PickSynthyleneColourDesc>选择聚乙烯塑料的颜色</PickSynthyleneColourDesc>
+
+  <CurePlasteel>固化塑钢</CurePlasteel>
+  <CureComposite>固化复合材料</CureComposite>
+  <CommandCompositeModeDesc>可在这个高压处理罐中切换固化塑钢或者固化复合材料</CommandCompositeModeDesc>
+
+  <FuelStorage>燃料储量: {0} / {1}L</FuelStorage>
+  <TotalFuelStorage>管道系统燃料储量: {0}L</TotalFuelStorage>
+
+  <OilStorage>石油储量: {0} / {1}L</OilStorage>
+  <WellPressure>油井压力: x{0}</WellPressure>
+  <OilWellCapacity>抽油能力: {0} L/天</OilWellCapacity>
+  <TotalOilStorage>管道系统石油储量: {0} L</TotalOilStorage>
+  <PipedOilPumpCapacity>管道输送能力: {0} L/day</PipedOilPumpCapacity>
+
+  <DrillingProgress>钻井进度: {0}%</DrillingProgress>
+
+  <CleanOilSpill>清理石油泄漏</CleanOilSpill>
+  <CleanOilSpillDesc>清理石油泄漏</CleanOilSpillDesc>
+  <DesignatorRemovePipeline>拆除管道</DesignatorRemovePipeline>
+  <DesignatorRemovePipelineDesc>拆除管道</DesignatorRemovePipelineDesc>
+
+  <PlaceDirectlyOverWell>离现有的井口太近了,直接放置在未使用的井上并再次点击它</PlaceDirectlyOverWell>
+
+  <FuelPowerplantUsage>燃料消耗: {0} L/天</FuelPowerplantUsage>
+  
+  <!-- translated by =O.W.L.S=o_Onion -->
+
+</LanguageData>

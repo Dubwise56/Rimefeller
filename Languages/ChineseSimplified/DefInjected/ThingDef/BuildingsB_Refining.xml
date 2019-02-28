@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChemfuelHopper.label>化合燃料泵</ChemfuelHopper.label>
+  <ChemfuelHopper.description>从化学燃料储存罐中泵出化学燃料到可用的/可出售的小桶里.</ChemfuelHopper.description>
+  <ChemfuelHopper_Blueprint.label>化合燃料泵 (蓝图)</ChemfuelHopper_Blueprint.label>
+  <ChemfuelHopper_Frame.label>化合燃料泵 (建造中)</ChemfuelHopper_Frame.label>
+  <ChemfuelHopper_Frame.description>从化学燃料储存罐中泵出化学燃料到可用的/可出售小桶里.</ChemfuelHopper_Frame.description>
+
+  <ChemfuelSiphon.label>化合燃料虹吸装置</ChemfuelSiphon.label>
+  <ChemfuelSiphon.description>从小桶里将化合燃料吸出来运送到存储罐中.</ChemfuelSiphon.description>
+  <ChemfuelSiphon_Blueprint.label>化合燃料虹吸装置(蓝图)</ChemfuelSiphon_Blueprint.label>
+  <ChemfuelSiphon_Frame.label>化合燃料虹吸装置(建造中)</ChemfuelSiphon_Frame.label>
+  <ChemfuelSiphon_Frame.description>从小桶里将化合燃料吸出来运送到存储罐中.</ChemfuelSiphon_Frame.description>
+
+  <RefineryLoadingBay.label>加工厂产品出口</RefineryLoadingBay.label>
+  <RefineryLoadingBay.description>加工厂产品出口.</RefineryLoadingBay.description>
+  <RefineryLoadingBay_Blueprint.label>加工厂产品出口 (蓝图)</RefineryLoadingBay_Blueprint.label>
+  <RefineryLoadingBay_Frame.label>加工厂产品出口(建造中)</RefineryLoadingBay_Frame.label>
+  <RefineryLoadingBay_Frame.description>加工厂产品出口</RefineryLoadingBay_Frame.description>
+
+  <SynthyleneRefiner.label>聚乙烯塑料加工厂</SynthyleneRefiner.label>
+  <SynthyleneRefiner.description>将化合燃料加工成可以选择颜色的聚乙烯塑料,聚乙烯塑料可以用作通用建造中材料和组件的一种成分.</SynthyleneRefiner.description>
+  <SynthyleneRefiner_Blueprint.label>聚乙烯塑料加工厂(蓝图)</SynthyleneRefiner_Blueprint.label>
+  <SynthyleneRefiner_Frame.label>聚乙烯塑料加工厂(建造中)</SynthyleneRefiner_Frame.label>
+  <SynthyleneRefiner_Frame.description>将化合燃料加工成可以选择颜色的聚乙烯塑料,聚乙烯塑料可以用作通用建造中材料和组件的一种成分</SynthyleneRefiner_Frame.description>
+
+  <SynthreadRefiner.label>合成纤维加工厂</SynthreadRefiner.label>
+  <SynthreadRefiner.description>将化学燃料加工成合成纤维，一种用于服装的纤维</SynthreadRefiner.description>
+  <SynthreadRefiner_Blueprint.label>合成纤维加工厂 (蓝图)</SynthreadRefiner_Blueprint.label>
+  <SynthreadRefiner_Frame.label>合成纤维加工厂 (建造中)</SynthreadRefiner_Frame.label>
+  <SynthreadRefiner_Frame.description>将化学燃料加工成合成纤维，一种用于服装的纤维</SynthreadRefiner_Frame.description>
+
+  <SynthamideRefiner.label>合成酰胺纤维加工厂</SynthamideRefiner.label>
+  <SynthamideRefiner.description>将化合燃料加工成合成酰胺纤维，一种高强度的合成纤维，可用于衣物</SynthamideRefiner.description>
+  <SynthamideRefiner_Blueprint.label>合成酰胺纤维加工厂 (蓝图)</SynthamideRefiner_Blueprint.label>
+  <SynthamideRefiner_Frame.label>合成酰胺纤维加工厂 (建造中)</SynthamideRefiner_Frame.label>
+  <SynthamideRefiner_Frame.description>将化合燃料加工成合成酰胺纤维，高强度的合成纤维</SynthamideRefiner_Frame.description>
+
+  <NeutroamineRefiner.label>中性胺加工厂</NeutroamineRefiner.label>
+  <NeutroamineRefiner.description>将化学燃料加工成用于制造药物的中性胺</NeutroamineRefiner.description>
+  <NeutroamineRefiner_Blueprint.label>中性胺加工厂(蓝图)</NeutroamineRefiner_Blueprint.label>
+  <NeutroamineRefiner_Frame.label>中性胺加工厂(建造中)</NeutroamineRefiner_Frame.label>
+  <NeutroamineRefiner_Frame.description>将化学燃料加工成用于制造药物的中性胺</NeutroamineRefiner_Frame.description>
+
+  <Autoclave.label>高压处理罐</Autoclave.label>
+  <Autoclave.description>将未固化的塑钢或合成酰胺复合材料制成最终产品</Autoclave.description>
+  <Autoclave_Blueprint.label>高压处理罐(蓝图)</Autoclave_Blueprint.label>
+  <Autoclave_Frame.label>高压处理罐(建造中)</Autoclave_Frame.label>
+  <Autoclave_Frame.description>将未固化的塑钢或合成酰胺复合材料制成最终产品</Autoclave_Frame.description>
+
+
+</LanguageData>
