@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<ThingDef Name="ResourceBasedMom" Abstract="True">
+	<ThingDef Name="ResourceBasedFella" Abstract="True">
 		<thingClass>ThingWithComps</thingClass>
 		<category>Item</category>
 		<resourceReadoutPriority>Middle</resourceReadoutPriority>
@@ -21,7 +21,7 @@
 		<pathCost>15</pathCost>
 	</ThingDef>
 
-  <ThingDef ParentName="ResourceBasedMom">
+  <ThingDef ParentName="ResourceBasedFella">
     <defName>Napalm</defName>
     <label>Napalm</label>
     <description>Highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</description>
@@ -61,7 +61,7 @@
     <tradeability>None</tradeability>
   </ThingDef>
 
-  <ThingDef ParentName="ResourceBasedMom">
+  <ThingDef ParentName="ResourceBasedFella">
     <defName>OilBarrel</defName>
     <label>Oil Barrel</label>
     <description>A barrel filled with crude oil, can be dumped, burned, or processed.</description>
@@ -87,7 +87,7 @@
     <tradeability>None</tradeability>
   </ThingDef>
 
-  <ThingDef ParentName="ResourceBasedMom">
+  <ThingDef ParentName="ResourceBasedFella">
     <defName>UncuredPlasteel</defName>
     <label>Uncured Plasteel</label>
     <description>Uncured plasteel, requires curing in an autoclave.</description>
@@ -170,19 +170,17 @@
     <label>Synthylene</label>
     <parent>ResourcesRaw</parent>
     <iconPath>Rimefeller/Things/Resource/synthylene</iconPath>
-    <resourceReadoutRoot>true</resourceReadoutRoot>
+    <resourceReadoutRoot>false</resourceReadoutRoot>
   </ThingCategoryDef>
 
 
 
-  <ThingDef Name="SynthyleneBase" ParentName="ResourceBasedMom"  Abstract="True">
+  <ThingDef Name="SynthyleneBase" ParentName="ResourceBasedFella"  Abstract="True">
     <description>A synthetic building material.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/synthylene</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <soundInteract>Wood_Drop</soundInteract>
-    <soundDrop>Wood_Drop</soundDrop>
     <generateCommonality>0</generateCommonality>
     <generateAllowChance>0</generateAllowChance>
     <tradeability>Sellable</tradeability>
@@ -234,7 +232,7 @@
     </stuffProps>
   </ThingDef>
 
-  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+  <!--<ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
     <defName>SynthyleneWhite</defName>
     <label>Synthylene white</label>
     <graphicData>
@@ -352,7 +350,7 @@
       <stuffAdjective>sand synthylene</stuffAdjective>
       <color>(118,108,87)</color>
     </stuffProps>
-  </ThingDef>
+  </ThingDef>-->
 
 
 
@@ -371,11 +369,11 @@
     <label>Synthamide</label>
     <parent>ResourcesRaw</parent>
     <iconPath>Rimefeller/Things/Resource/composite</iconPath>
-    <resourceReadoutRoot>true</resourceReadoutRoot>
+    <resourceReadoutRoot>false</resourceReadoutRoot>
   </ThingCategoryDef>
 
 
-  <ThingDef ParentName="ResourceBasedMom">
+  <ThingDef ParentName="ResourceBasedFella">
     <defName>UncuredComposite</defName>
     <label>Uncured Synthamide Composite</label>
     <description>Uncured Synthamide Composite, requires curing in an autoclave.</description>
@@ -402,7 +400,7 @@
 
 
 
-  <ThingDef Name="FiberCompositeBase" ParentName="ResourceBasedMom"  Abstract="True">
+  <ThingDef Name="FiberCompositeBase" ParentName="ResourceBasedFella"  Abstract="True">
     <defName>FiberComposite</defName>
     <label>Synthamide Composite</label>
     <description>Synthamide composite is a high strength light weight fire resistant spacer tech composite material, made of a polymer matrix reinforced with aramid fibres.</description>
@@ -410,8 +408,6 @@
       <texPath>Rimefeller/Things/Resource/composite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <soundInteract>Metal_Drop</soundInteract>
-    <soundDrop>Metal_Drop</soundDrop>
     <useHitPoints>false</useHitPoints>
     <statBases>
       <MarketValue>8</MarketValue>
@@ -463,7 +459,7 @@
     </stuffProps>
   </ThingDef>
 
-  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+  <!--<ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
     <defName>FiberCompositeWhite</defName>
     <label>Composite white</label>
     <graphicData>
@@ -581,7 +577,7 @@
       <stuffAdjective>sand Composite</stuffAdjective>
       <color>(118,108,87)</color>
     </stuffProps>
-  </ThingDef>
+  </ThingDef>-->
 
 
 

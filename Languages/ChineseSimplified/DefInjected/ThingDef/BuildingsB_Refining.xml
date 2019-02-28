@@ -37,6 +37,13 @@
   <SynthamideRefiner_Frame.label>合成酰胺纤维加工厂 (建造中)</SynthamideRefiner_Frame.label>
   <SynthamideRefiner_Frame.description>将化合燃料加工成合成酰胺纤维，高强度的合成纤维</SynthamideRefiner_Frame.description>
 
+  <HyperweaveRefiner.label>超织物加工厂</HyperweaveRefiner.label>
+  <HyperweaveRefiner.description>将化学燃料加工成高强度合成纤维-超织物.</HyperweaveRefiner.description>
+  <HyperweaveRefiner_Blueprint.label>超织物加工厂(蓝图)</HyperweaveRefiner_Blueprint.label>
+  <HyperweaveRefiner_Frame.label>超织物加工厂(建造中)</HyperweaveRefiner_Frame.label>
+  <HyperweaveRefiner_Frame.description>将化学燃料加工成高强度合成纤维-超织物.</HyperweaveRefiner_Frame.description>
+  
+  
   <NeutroamineRefiner.label>中性胺加工厂</NeutroamineRefiner.label>
   <NeutroamineRefiner.description>将化学燃料加工成用于制造药物的中性胺</NeutroamineRefiner.description>
   <NeutroamineRefiner_Blueprint.label>中性胺加工厂(蓝图)</NeutroamineRefiner_Blueprint.label>

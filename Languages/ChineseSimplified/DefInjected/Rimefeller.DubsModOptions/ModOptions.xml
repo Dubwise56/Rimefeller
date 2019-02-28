@@ -6,8 +6,19 @@
   <OilPipeVisibility.options.1.label>在地板下隐藏</OilPipeVisibility.options.1.label>
   <OilPipeVisibility.options.2.label>总是可见</OilPipeVisibility.options.2.label>
 
+   <CrudeToFuelRatio.label>原油燃料转化比</CrudeToFuelRatio.label>
+  <CrudeToFuelRatio.options.0.label>作弊</CrudeToFuelRatio.options.0.label>
+  <CrudeToFuelRatio.options.1.label>0.5:1</CrudeToFuelRatio.options.1.label>
+  <CrudeToFuelRatio.options.2.label>1:1</CrudeToFuelRatio.options.2.label>
+  <CrudeToFuelRatio.options.3.label>1.5:1</CrudeToFuelRatio.options.3.label>
+  <CrudeToFuelRatio.options.4.label>2:1</CrudeToFuelRatio.options.4.label>
+  <CrudeToFuelRatio.options.5.label>2.5:1</CrudeToFuelRatio.options.5.label>
+  <CrudeToFuelRatio.options.6.label>3:1</CrudeToFuelRatio.options.6.label>
+  <CrudeToFuelRatio.options.7.label>4:1</CrudeToFuelRatio.options.7.label>
+  <CrudeToFuelRatio.options.8.label>5:1</CrudeToFuelRatio.options.8.label>
+  
   <OilPumpCapacity.label>泵油能力</OilPumpCapacity.label>
-  <OilPumpCapacity.options.0.label>Cheat</OilPumpCapacity.options.0.label>
+  <OilPumpCapacity.options.0.label>作弊</OilPumpCapacity.options.0.label>
   <OilPumpCapacity.options.1.label>250%</OilPumpCapacity.options.1.label>
   <OilPumpCapacity.options.2.label>200%</OilPumpCapacity.options.2.label>
   <OilPumpCapacity.options.3.label>150%</OilPumpCapacity.options.3.label>
@@ -18,7 +29,7 @@
   <OilPumpCapacity.options.8.label>10%</OilPumpCapacity.options.8.label>
 
   <OilGridCapacity.label>每单元石油限制</OilGridCapacity.label>
-  <OilGridCapacity.options.0.label>Cheat</OilGridCapacity.options.0.label>
+  <OilGridCapacity.options.0.label>作弊</OilGridCapacity.options.0.label>
   <OilGridCapacity.options.1.label>小孩都能玩</OilGridCapacity.options.1.label>
   <OilGridCapacity.options.2.label>简单</OilGridCapacity.options.2.label>
   <OilGridCapacity.options.3.label>正常</OilGridCapacity.options.3.label>

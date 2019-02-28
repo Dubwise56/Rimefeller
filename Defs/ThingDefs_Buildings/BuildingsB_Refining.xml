@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef Name="ChemfuelHopperBase" ParentName="BuildingBase" Abstract="true">
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
     <thingClass>Building_Storage</thingClass>
     <graphicData>
       <texPath>Things/Building/Production/Hopper</texPath>
@@ -24,12 +28,13 @@
       <WorkToBuild>300</WorkToBuild>
       <MaxHitPoints>100</MaxHitPoints>
       <Flammability>4</Flammability>
+      <Mass>4</Mass>
     </statBases>
     <costList>
       <Steel>15</Steel>
     </costList>
-    <tickerType>Never</tickerType>
-    <rotatable>true</rotatable>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
     <neverMultiSelect>true</neverMultiSelect>
     <designationCategory>Rimefeller</designationCategory>
     <surfaceType>Item</surfaceType>
@@ -63,13 +68,15 @@
       </defaultStorageSettings>
     </building>
     <comps>
-      <li Class="Rimefeller.CompProperties_Pipe">
-        <mode>Oil</mode>
+      <li Class="Rimefeller.CompProperties_FuelPump">
+        <pumpRate>25</pumpRate>
       </li>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>50</basePowerConsumption>
       </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Breakdownable"/>
     </comps>
     <researchPrerequisites>
       <li>ChemfuelRefining</li>
@@ -104,13 +111,14 @@
       </defaultStorageSettings>
     </building>
     <comps>
-      <li Class="Rimefeller.CompProperties_Pipe">
-        <mode>Oil</mode>
+      <li Class="Rimefeller.CompProperties_Siphon">
       </li>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>50</basePowerConsumption>
       </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Breakdownable"/>
     </comps>
     <researchPrerequisites>
       <li>ChemfuelRefining</li>
@@ -131,9 +139,11 @@
       <fixedStorageSettings>
         <filter>
           <thingDefs>
+            <li>Napalm</li>
             <li>Synthamide</li>
             <li>Neutroamine</li>
             <li>Synthread</li>
+            <li>Hyperweave</li>
           </thingDefs>
           <categories>
             <li>Synthylene</li>
@@ -144,9 +154,11 @@
       <defaultStorageSettings>
         <filter>
           <thingDefs>
+            <li>Napalm</li>
             <li>Synthamide</li>
             <li>Neutroamine</li>
             <li>Synthread</li>
+            <li>Hyperweave</li>
           </thingDefs>
           <categories>
             <li>Synthylene</li>
@@ -170,6 +182,10 @@
 
 
   <ThingDef Name="RefineryBase" ParentName="BasedRimefellerMom" Abstract="True">
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
     <graphicData>
       <texPath>Rimefeller/Things/Building/SynthyleneRefinery</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -192,13 +208,12 @@
       <Flammability>4.0</Flammability>
       <Beauty>-12</Beauty>
       <Cleanliness>-100</Cleanliness>
+      <Mass>40</Mass>
     </statBases>
     <comps>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
-      <li Class="Rimefeller.CompProperties_Pipe">
-        <mode>Oil</mode>
-      </li>
+
       <li Class="CompProperties_HeatPusher">
         <compClass>CompHeatPusherPowered</compClass>
         <heatPerSecond>6</heatPerSecond>
@@ -257,6 +272,39 @@
       <li>SynthyleneProduction</li>
     </researchPrerequisites>
   </ThingDef>
+
+
+  <ThingDef ParentName="RefineryBase">
+    <defName>NapalmRefiner</defName>
+    <label>Napalm Refiner</label>
+    <description>Processes chemfuel into napalm, a highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/NapalmRefinery</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(4,4)</drawSize>
+    </graphicData>
+    <costList>
+      <Steel>150</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>1000</basePowerConsumption>
+      </li>
+      <li Class="Rimefeller.CompProperties_Refinery">
+        <compClass>Rimefeller.CompRefineryNapalm</compClass>
+        <Product>Napalm</Product>
+        <StackSize>20</StackSize>
+        <BufferSize>50</BufferSize>
+        <ConsumeRate>1.5</ConsumeRate>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>Napalm</li>
+    </researchPrerequisites>
+  </ThingDef>
+  
 
   <ThingDef ParentName="RefineryBase">
     <defName>SynthreadRefiner</defName>
@@ -396,6 +444,10 @@
     <label>Autoclave</label>
     <description>Bakes uncured plasteel or synthamide composite into the final product</description>
     <thingClass>Rimefeller.Building_Autoclave</thingClass>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
     <graphicData>
       <texPath>Rimefeller/Things/Building/Autoclave</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -422,6 +474,7 @@
       <WorkToBuild>15000</WorkToBuild>
       <Flammability>0.2</Flammability>
       <Beauty>-20</Beauty>
+      <Mass>40</Mass>
     </statBases>
     <comps>
       <li Class="CompProperties_Flickable" />

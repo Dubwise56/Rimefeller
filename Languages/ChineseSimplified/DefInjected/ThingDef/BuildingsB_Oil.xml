@@ -34,6 +34,12 @@
   <FuelStorage_Frame.label>化合燃料存储罐 (建造中)</FuelStorage_Frame.label>
   <FuelStorage_Frame.description>储存由炼油厂产生的化学燃料，化学燃料可以被泵送到连接的化学燃料存储罐</FuelStorage_Frame.description>
 
+   <ResourceConsole.label>资源控制台</ResourceConsole.label>
+  <ResourceConsole.description>操控炼油厂和资源加工厂的控制台。</ResourceConsole.description>
+  <ResourceConsole_Blueprint.label>资源控制台(blueprint)</ResourceConsole_Blueprint.label>
+  <ResourceConsole_Frame.label>资源控制台(building)</ResourceConsole_Frame.label>
+  <ResourceConsole_Frame.description>操控炼油厂和资源加工厂的控制台.</ResourceConsole_Frame.description>
+  
   <CrudeCracker.label>炼油厂</CrudeCracker.label>
   <CrudeCracker.description>将原油分解为化合燃料，必须将其储存在连接的化合燃料罐</CrudeCracker.description>
   <CrudeCracker_Blueprint.label>炼油厂 (蓝图)</CrudeCracker_Blueprint.label>
@@ -45,5 +51,10 @@
   <FuelPowerplant_Frame.label>化合燃料发电站 (建造中)</FuelPowerplant_Frame.label>
   <FuelPowerplant_Frame.description>通过消耗化学燃料来产生电能。必须用管道连接化学燃料储存罐.</FuelPowerplant_Frame.description>
 
+    <FuelPowerplant.label>化合燃料能量站</FuelPowerplant.label>
+  <FuelPowerplant.description>通过消耗化学燃料产生能量。必须用管道连接到化学燃料储存罐</FuelPowerplant.description>
+  <FuelPowerplant_Blueprint.label>化合燃料能量站 (蓝图)</FuelPowerplant_Blueprint.label>
+  <FuelPowerplant_Frame.label>化合燃料能量站 (建造中)</FuelPowerplant_Frame.label>
+  <FuelPowerplant_Frame.description>通过消耗化学燃料产生能量。必须用管道连接到化学燃料储存罐.</FuelPowerplant_Frame.description>
 
 </LanguageData>

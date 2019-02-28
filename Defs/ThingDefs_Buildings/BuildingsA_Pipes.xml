@@ -2,7 +2,7 @@
 <Defs>
 
   <!-- Pipes  -->
-  <ThingDef ParentName="BasedRimefellerMom" Name="DubsDirtyPipeBase" Abstract="True">
+  <ThingDef ParentName="BasedRimefellerMom" Name="RimefellerPipeBase" Abstract="True">
     <thingClass>Rimefeller.Building_Pipe</thingClass>
     <graphicData>
       <texPath>Rimefeller/Things/Building/oilPipe_Atlas</texPath>
@@ -27,7 +27,7 @@
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <statBases>
       <MaxHitPoints>80</MaxHitPoints>
-      <WorkToBuild>35</WorkToBuild>
+      <WorkToBuild>260</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
     <placingDraggableDimensions>1</placingDraggableDimensions>
@@ -212,7 +212,7 @@
     </researchPrerequisites>
   </ThingDef>
 
-  <ThingDef ParentName="DubsDirtyPipeBase">
+  <ThingDef ParentName="RimefellerPipeBase">
     <defName>OilPipeline</defName>
     <label>Oil Pipeline</label>
     <description>Plumbing for connecting plumbed things.</description>
@@ -221,9 +221,7 @@
       <Steel>1</Steel>
     </costList>
     <comps>
-      <li Class="Rimefeller.CompProperties_Pipe">
-        <mode>Oil</mode>
-      </li>
+      <li Class="Rimefeller.CompProperties_Pipe"/>
     </comps>
     <researchPrerequisites>
       <li>OilDrilling</li>
@@ -231,7 +229,7 @@
     <menuHidden>true</menuHidden>
   </ThingDef>
 
-  <ThingDef ParentName="BasedRimefellerMom" Name="ValveBase" Abstract="True">
+  <ThingDef ParentName="BasedRimefellerMom">
     <thingClass>Rimefeller.Building_Valve</thingClass>
     <altitudeLayer>Building</altitudeLayer>
     <passability>Standable</passability>
@@ -261,9 +259,7 @@
     <researchPrerequisites>
       <li>OilDrilling</li>
     </researchPrerequisites>
-  </ThingDef>
 
-  <ThingDef ParentName="ValveBase">
     <defName>pipelineValve</defName>
     <label>pipeline valve</label>
     <pathCost>75</pathCost>
@@ -274,13 +270,11 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <comps>
-      <li Class="Rimefeller.CompProperties_Pipe">
-        <mode>Oil</mode>
-      </li>
+      <li Class="Rimefeller.CompProperties_Pipe"/>
       <li Class="CompProperties_Flickable">
         <commandTexture>Rimefeller/Things/Building/Valve</commandTexture>
-        <commandLabelKey>CommandDesignateOpenCloseValveLabel</commandLabelKey>
-        <commandDescKey>CommandDesignateOpenCloseValveDesc</commandDescKey>
+        <commandLabelKey>CommandDesignateOpenCloseValveLabelRimefeller</commandLabelKey>
+        <commandDescKey>CommandDesignateOpenCloseValveDescRimefeller</commandDescKey>
       </li>
     </comps>
   </ThingDef>

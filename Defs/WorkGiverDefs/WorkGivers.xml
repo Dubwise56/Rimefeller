@@ -62,12 +62,13 @@
     <label>Operate Resource Console</label>
     <giverClass>Rimefeller.WorkGiver_OperateResourceConsole</giverClass>
     <workType>Crafting</workType>
-    <priorityInType>98</priorityInType>
+    <priorityInType>110</priorityInType>
     <verb>operate</verb>
     <gerund>operating</gerund>
     <requiredCapacities>
       <li>Manipulation</li>
     </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
   </WorkGiverDef>
-  
+
 </Defs>

@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
+  <Rimefeller.DefExtensions>
+    <defName>RimefellerExtensions</defName>
+  </Rimefeller.DefExtensions>
+
   <Rimefeller.DubsModOptions>
     <defName>OilPipeVisibility</defName>
     <label>Pipeline Visibility</label>
@@ -20,7 +24,7 @@
 
   <Rimefeller.DubsModOptions>
     <defName>CrudeToFuelRatio</defName>
-    <label>Crude To Fuel Ratio</label>
+    <label>Fuel To Crude Ratio</label>
     <tip></tip>
     <options>
       <li>
@@ -106,6 +110,49 @@
     </options>
   </Rimefeller.DubsModOptions>
 
+  <Rimefeller.DubsModOptions>
+    <defName>OilRegenRate</defName>
+    <label>Oil reservoir regen rate</label>
+    <tip></tip>
+    <options>
+      <li>
+        <label>Cheat</label>
+        <value>999</value>
+      </li>
+      <li>
+        <label>250%</label>
+        <value>2.5</value>
+      </li>
+      <li>
+        <label>200%</label>
+        <value>2</value>
+      </li>
+      <li>
+        <label>150%</label>
+        <value>1.5</value>
+      </li>
+      <li>
+        <label>100%</label>
+        <value>1</value>
+      </li>
+      <li>
+        <label>75%</label>
+        <value>0.75</value>
+      </li>
+      <li>
+        <label>50%</label>
+        <value>0.5</value>
+      </li>
+      <li>
+        <label>25%</label>
+        <value>0.25</value>
+      </li>
+      <li>
+        <label>0%</label>
+        <value>0</value>
+      </li>
+    </options>
+  </Rimefeller.DubsModOptions>
 
   <Rimefeller.DubsModOptions>
     <defName>OilGridCapacity</defName>
@@ -114,31 +161,31 @@
     <options>
       <li>
         <label>Cheat</label>
-        <value>1000</value>
+        <value>500</value>
       </li>
       <li>
         <label>Baby</label>
-        <value>200</value>
-      </li>
-      <li>
-        <label>Easy</label>
-        <value>100</value>
-      </li>
-      <li>
-        <label>Normal</label>
         <value>50</value>
       </li>
       <li>
-        <label>Challenge</label>
+        <label>Easy</label>
         <value>25</value>
       </li>
       <li>
-        <label>Nasty</label>
+        <label>Normal</label>
         <value>15</value>
       </li>
       <li>
-        <label>Extreme</label>
+        <label>Challenge</label>
+        <value>10</value>
+      </li>
+      <li>
+        <label>Nasty</label>
         <value>5</value>
+      </li>
+      <li>
+        <label>Extreme</label>
+        <value>1</value>
       </li>
     </options>
   </Rimefeller.DubsModOptions>

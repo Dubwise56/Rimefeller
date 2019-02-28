@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+  <CommandDesignateOpenCloseValveLabelRimefeller>Toggle Valve</CommandDesignateOpenCloseValveLabelRimefeller>
+  <CommandDesignateOpenCloseValveDescRimefeller>Toggle the valve open or closed</CommandDesignateOpenCloseValveDescRimefeller>
+  <ValveClosedRimefeller>Valve Closed</ValveClosedRimefeller>
+  
+  <NoUncuredPlasteel>No uncured plasteel</NoUncuredPlasteel>
+  <NoUncuredSynthamide>No uncured synthamide</NoUncuredSynthamide>
   <CantModeAutoclave>Cannot change mode while curing</CantModeAutoclave>
   <CuringTime>Curing Time: {0}</CuringTime>
   
@@ -21,7 +27,7 @@
   <OilStorage>Oil Storage: {0} / {1}L</OilStorage>
   <WellPressure>Well Pressure: x{0}</WellPressure>
   <OilWellCapacity>Well Capacity: {0} L/day</OilWellCapacity>
-  <TotalOilStorage>Piped Oil Storage: {0} L</TotalOilStorage>
+  <TotalOilStorage>Piped Oil Storage: {0} L ({1})</TotalOilStorage>
   <PipedOilPumpCapacity>Piped Capacity: {0} L/day</PipedOilPumpCapacity>
   
   <DrillingProgress>Drilling Progress: {0}</DrillingProgress>
@@ -40,6 +46,34 @@
   <DrainStorageTank>Drain Tank</DrainStorageTank>
   <DrainStorageTankDesc>Drain the contents of this tank to other available tanks</DrainStorageTankDesc>
 
-  <RaisePower>Increase Power</RaisePower>
-  <LowerPower>Reduce Power</LowerPower>
+  <RaiseRefinerPower>Increase Power</RaiseRefinerPower>
+  <LowerRefinerPower>Reduce Power</LowerRefinerPower>
+  <LowerRefinerPowerDesc>Reduces the power used by the refiner to reduce the output</LowerRefinerPowerDesc>
+  <RaiseRefinerPowerDesc>Increases the power used by the refiner to increase the output</RaiseRefinerPowerDesc>
+
+  <NoRefinerNeedsWork>No connected refineries or crackers ready for work</NoRefinerNeedsWork>
+
+  <DisableColoursDesc>This will remove the coloured versions of materials from the game. Any saved things will be changed to the plain version when you load the save</DisableColoursDesc>
+  <DisableColours>Disable Colours (Restart required)</DisableColours>
+  <DisableColoursTip>This will remove the coloured versions of materials from the game. Any saved things will be changed to the plain version when you load the save</DisableColoursTip>
+
+  <RequiresDeepScanner>A working Ground-penetrating scanner is needed to see deep oil reservoirs</RequiresDeepScanner>
+  <RequiresResourceConsole>A working Resource console is needed to see oil reservoirs</RequiresResourceConsole>
+
+  <AllowedCraftingSkill>Allowed Crafting Skill {0}</AllowedCraftingSkill>
+  <FuelStorageLimit>Fuel Production Limit {0}</FuelStorageLimit>
+  <OilStorageLimit>Oil Production Limit {0}</OilStorageLimit>
+
+  <FuelStoragelimitTip>Crackers will stop once they reach the maximum, then work again once it falls below the minimum.\n\nTick to enable</FuelStoragelimitTip>
+  
+  <OilStoragelimitTip>Oil wells will stop once they reach the maximum, then work again once it falls below the minimum.\n\nTick to enable</OilStoragelimitTip>
+
+  <FuelPumpLimit>Fuel Pump Limit</FuelPumpLimit>
+  <FuelPumpLimitTip>Pump fuel until this amount is reached, Tick to enable</FuelPumpLimitTip>
+
+  <ResourceConsoleAlert>Resource Console</ResourceConsoleAlert>
+  <ResourceConsoleAlertDesc>Open the bills tab on the resource console to change settings for oil and fuel production and add bills for refineries</ResourceConsoleAlertDesc>
+
+  <ConsoleSettings>Console Settings</ConsoleSettings>
+  <GlobalSettings>Global Settings</GlobalSettings>
 </LanguageData>

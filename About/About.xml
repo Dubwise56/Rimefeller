@@ -4,6 +4,8 @@
 	<name>Rimefeller</name>
 	<author>Dubwise</author>
 	<url></url>
-	<targetVersion>0.19.2009</targetVersion>
-	<description>Drill for oil, process into chemfuel, plastic, composites, napalm. 1.1.212</description>
+	  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+	<description>Drill for oil, process into chemfuel, plastic, composites, napalm. 1.2.341\n\nMultiplayer ready</description>
 </ModMetaData>
