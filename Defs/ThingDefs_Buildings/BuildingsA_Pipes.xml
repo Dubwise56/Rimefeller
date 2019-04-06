@@ -24,7 +24,7 @@
     </building>
     <altitudeLayer>FloorEmplacement</altitudeLayer>
     <passability>Standable</passability>
-    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>    
     <statBases>
       <MaxHitPoints>80</MaxHitPoints>
       <WorkToBuild>260</WorkToBuild>

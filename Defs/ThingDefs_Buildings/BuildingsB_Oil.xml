@@ -225,6 +225,7 @@
     </graphicData>
     <size>(3,3)</size>
     <rotatable>false</rotatable>
+    <pathCost>180</pathCost>
     <comps>
 
       <li Class="Rimefeller.CompProperties_StorageTank">
@@ -274,6 +275,7 @@
     </graphicData>
     <size>(4,2)</size>
     <rotatable>true</rotatable>
+    <pathCost>180</pathCost>
     <comps>
 
       <li Class="Rimefeller.CompProperties_StorageTank">
@@ -561,7 +563,7 @@
       <li Class="CompProperties_Breakdownable"/>
       <li Class="CompProperties_HeatPusher">
         <compClass>CompHeatPusherPowered</compClass>
-        <heatPerSecond>24</heatPerSecond>
+        <heatPerSecond>42</heatPerSecond>
       </li>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>8</explosiveRadius>

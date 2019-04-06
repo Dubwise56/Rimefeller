@@ -1,7 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
+  
+  <ThingDef ParentName="MakeableShellBase">
+    <defName>Shell_Napalm</defName>
+    <label>Napalm shell</label>
+    <description>A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars. Explodes when damaged.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Shell/Shell_Incendiary</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>2.9</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+        <explosiveExpandPerStackcount>0.4</explosiveExpandPerStackcount>
+        <startWickHitPointsPercent>0.7</startWickHitPointsPercent>
+        <wickTicks>
+          <min>30</min>
+          <max>60</max>
+        </wickTicks>
+      </li>
+    </comps>
+    <projectileWhenLoaded>Bullet_Shell_Napalm</projectileWhenLoaded>
+    <costList>
+      <Steel>15</Steel>
+      <Napalm>15</Napalm>
+    </costList>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_Shell_Napalm</defName>
+    <label>Napalm shell</label>
+    <graphicData>
+      <texPath>Things/Projectile/ShellIncendiary</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <damageDef>Flame</damageDef>
+      <!-- damage amount is the damage def default -->
+      <speed>41</speed>
+      <explosionRadius>2.9</explosionRadius>
+      <preExplosionSpawnThingDef>Filth_NapalmTrail</preExplosionSpawnThingDef>
+      <preExplosionSpawnChance>0.25</preExplosionSpawnChance>
+      <flyOverhead>true</flyOverhead>
+      <soundHitThickRoof>Artillery_HitThickRoof</soundHitThickRoof>
+      <soundExplode>MortarIncendiary_Explode</soundExplode>
+      <soundImpactAnticipate>MortarRound_PreImpact</soundImpactAnticipate>
+      <soundAmbient>MortarRound_Ambient</soundAmbient>
+      <ai_IsIncendiary>true</ai_IsIncendiary>
+    </projectile>
+  </ThingDef>
 
-	<ThingDef Name="ResourceBasedFella" Abstract="True">
+  <ThingDef Name="ResourceBasedFella" Abstract="True">
 		<thingClass>ThingWithComps</thingClass>
 		<category>Item</category>
 		<resourceReadoutPriority>Middle</resourceReadoutPriority>

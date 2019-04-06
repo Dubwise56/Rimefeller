@@ -19,6 +19,9 @@
       <li>
         <label>Always visible</label>
       </li>
+      <li>
+        <label>Always visible pipe to ground</label>
+      </li>
     </options>
   </Rimefeller.DubsModOptions>
 
