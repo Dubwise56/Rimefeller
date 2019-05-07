@@ -8,6 +8,17 @@
     <recipeUsers>
       <li>ResourceConsole</li>
     </recipeUsers>
+    <jobString></jobString>
+    <effectWorking></effectWorking>
+    <soundWorking></soundWorking>
+    <workAmount>1000</workAmount>
+    <workSpeedStat></workSpeedStat>
+    <ingredients>
+    </ingredients>
+    <fixedIngredientFilter>
+    </fixedIngredientFilter>
+    <products>
+    </products>
   </RecipeDef>
   
   <RecipeDef>
