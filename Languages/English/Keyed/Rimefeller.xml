@@ -32,8 +32,8 @@
   
   <DrillingProgress>Drilling Progress: {0}</DrillingProgress>
 
-  <CleanOilSpill>Clean Oil Spill</CleanOilSpill>
-  <CleanOilSpillDesc>Cleanup Oil Spills</CleanOilSpillDesc>
+  <CleanOilSpill>Clean Spill</CleanOilSpill>
+  <CleanOilSpillDesc>Cleanup Oil spills or Napalm trails</CleanOilSpillDesc>
   <DesignatorRemovePipeline>Deconstruct Pipeline</DesignatorRemovePipeline>
   <DesignatorRemovePipelineDesc>Deconstruct Oil Pipeline</DesignatorRemovePipelineDesc>
 

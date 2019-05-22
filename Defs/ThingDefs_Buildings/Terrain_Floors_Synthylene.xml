@@ -199,9 +199,41 @@
     <color>(108,78,55)</color>
   </TerrainDef>
 
+  <TerrainDef  ParentName="FloorBase">
+    <defName>Wood_ParquetHerring</defName>
+    <label>Parquet Herringbone</label>
+    <renderPrecedence>250</renderPrecedence>
+    <description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description>
+    <texturePath>Rimefeller/Terrain/Wood_ParquetHerring</texturePath>
+    <burnedDef>BurnedWoodPlankFloor</burnedDef>
+    <color>(108,78,55)</color>
+    <statBases>
+      <WorkToBuild>85</WorkToBuild>
+      <Flammability>0.22</Flammability>
+    </statBases>
+    <costList>
+      <WoodLog>3</WoodLog>
+    </costList>
+    <constructEffect>ConstructWood</constructEffect>
+  </TerrainDef>
 
-
-
+  <TerrainDef  ParentName="FloorBase">
+    <defName>Wood_ParquetVersailles</defName>
+    <label>Parquet Versailles</label>
+    <renderPrecedence>250</renderPrecedence>
+    <description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description>
+    <texturePath>Rimefeller/Terrain/Wood_ParquetVersailles</texturePath>
+    <burnedDef>BurnedWoodPlankFloor</burnedDef>
+    <color>(108,78,55)</color>
+    <statBases>
+      <WorkToBuild>85</WorkToBuild>
+      <Flammability>0.22</Flammability>
+    </statBases>
+    <costList>
+      <WoodLog>3</WoodLog>
+    </costList>
+    <constructEffect>ConstructWood</constructEffect>
+  </TerrainDef>
 
 
 
