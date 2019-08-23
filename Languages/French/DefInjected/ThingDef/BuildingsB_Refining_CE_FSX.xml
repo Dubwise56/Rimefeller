@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Should not show up by default; an xpath patch will enable this only if Combat Extended is running -->
+
+  <CombatExtendedFsxRefiner.label>Raffinerie de FSX</CombatExtendedFsxRefiner.label>
+  <CombatExtendedFsxRefiner.description>Transforme le carburant en FSX, produit chimique hautement explosif utilisé dans diverses applications industrielles et militaires.</CombatExtendedFsxRefiner.description>
+  
+</LanguageData>

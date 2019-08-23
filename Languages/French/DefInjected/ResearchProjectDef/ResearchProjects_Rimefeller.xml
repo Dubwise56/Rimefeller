@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilDrilling.label>Forage du pétrole</OilDrilling.label>
+  <OilDrilling.description>Forer des puits de pétrole, c'est le début de l'Or Noir.</OilDrilling.description>
+
+  <DeepOilWells.label>Puits profonds</DeepOilWells.label>
+  <DeepOilWells.description>Forer des puits plus profonds pour accéder à de nouveaux plus grands réservoirs de pétrole.</DeepOilWells.description>
+
+  <ChemfuelRefining.label>Raffinage en chemfuel</ChemfuelRefining.label>
+  <ChemfuelRefining.description>Affiner le pétrole brut en chemfuel liquide, destiné à être stocké dans des réservoirs.</ChemfuelRefining.description>
+
+  <NeutroamineProduction.label>Neutroamine</NeutroamineProduction.label>
+  <NeutroamineProduction.description>Produire de la neutroamine à partir de chemfuel liquide, utilisé pour la fabrication de médicaments.</NeutroamineProduction.description>
+
+  <SynthyleneProduction.label>Synthylène</SynthyleneProduction.label>
+  <SynthyleneProduction.description>Produire l'un des matériaux de construction générique : Le synthylène. Avec de multiples couleurs disponible ! Il se produit à partir de Chemfuel liquide.</SynthyleneProduction.description>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Gelée collante hautement inflammable utilisée dans les bombes incendiaires, composée de chemfuel liquide, épaissi avec du synthylène.</Napalm.description>
+
+  <ArtificialFloors.label>Lino</ArtificialFloors.label>
+  <ArtificialFloors.description>Produire du lino en synthylène.</ArtificialFloors.description>
+
+  <SynthyleneComponents.label>Composants en synthylène</SynthyleneComponents.label>
+  <SynthyleneComponents.description>Étendez vos réserves d’acier en fabriquant des composants avec un mélange de synthylène et d’acier.</SynthyleneComponents.description>
+
+  <SynthreadProduction.label>Synthétique</SynthreadProduction.label>
+  <SynthreadProduction.description>Produire du synthétique à base de chemfuel liquide.</SynthreadProduction.description>
+
+  <SynthamideProduction.label>Synthamide</SynthamideProduction.label>
+  <SynthamideProduction.description>Produire de la synthamide, les fibres de la synthamide sont des fibres synthétiques résistantes à la chaleur et robustes, elles peuvent être utilisées pour créer des vêtements très durables.</SynthamideProduction.description>
+  
+  <SynthamideCompositeProduction.label>Synthamide Composite</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>Produire de la Synthamide Composite, un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</SynthamideCompositeProduction.description>
+  <SynthamideCompositeProduction.discoveredLetterTitle>Synthamide Composite</SynthamideCompositeProduction.discoveredLetterTitle>
+  <SynthamideCompositeProduction.discoveredLetterText>Vous pouvez maintenant produire de la Synthamide composite ! fabriquez un composite non durci sur un banc de fabrication, construisez un autoclave, puis chargez le composite non durci dans l'autoclave pour le durcir.</SynthamideCompositeProduction.discoveredLetterText>
+  
+  <PlasteelProduction.label>Plastacier</PlasteelProduction.label>
+  <PlasteelProduction.description>Découvrez les secrets de la fabrication du Plastacier.</PlasteelProduction.description>
+  <PlasteelProduction.discoveredLetterTitle>Plastacier</PlasteelProduction.discoveredLetterTitle>
+  <PlasteelProduction.discoveredLetterText>Vous pouvez maintenant produire Plastacier! Fabriquez du Plastacier non durci sur un banc de fabrication, construisez un autoclave, puis réglez-le sur le mode de polymérisation du plasteel.</PlasteelProduction.discoveredLetterText>
+  
+  <HyperweaveProduction.label>Hyperfibre</HyperweaveProduction.label>
+  <HyperweaveProduction.description>Découvrez les secrets de la fabrication de l'hyperfibre.</HyperweaveProduction.description>
+
+</LanguageData>

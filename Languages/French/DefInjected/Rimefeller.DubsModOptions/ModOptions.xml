@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilPipeVisibility.label>Visibilité du pipeline</OilPipeVisibility.label>
+  <OilPipeVisibility.options.1.label>Caché sous les planchers</OilPipeVisibility.options.1.label>
+  <OilPipeVisibility.options.2.label>Toujours visible</OilPipeVisibility.options.2.label>
+  <OilPipeVisibility.options.3.label>Tuyau toujours visible au sol</OilPipeVisibility.options.3.label>
+  
+  <CrudeToFuelRatio.label>Ratio carburant / brut</CrudeToFuelRatio.label>
+  <OilPumpCapacity.label>Capacité des puits de pétrole</OilPumpCapacity.label>
+  <OilRegenRate.label>Ratio de régénération du réservoir de pétrole</OilRegenRate.label>
+  <OilGridCapacity.label>Limite de déversement d'hydrocarbures par cellule</OilGridCapacity.label>
+  
+</LanguageData>

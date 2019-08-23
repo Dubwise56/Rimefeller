@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <Filth_OilSlick.label>Nappe de pétrole</Filth_OilSlick.label>
+  <Filth_OilSlick.description>Une flaque d'huile inflammable.</Filth_OilSlick.description>
+  <Filth_OilSlick.comps.CompUsable.useLabel>Enflammer</Filth_OilSlick.comps.CompUsable.useLabel>
+
+  <Filth_NapalmTrail.label>Sentier de napalm</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>Un sentier de napalm</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.CompUsable.useLabel>Enflammer</Filth_NapalmTrail.comps.CompUsable.useLabel>
+  
+  <NapalmBomb.label>Bombe de napalm</NapalmBomb.label>
+  <NapalmBomb.description>Une bombe de napalm, attention : prévenez les pompiers !</NapalmBomb.description>
+  <NapalmBomb.comps.CompUsable.useLabel>Enflammer</NapalmBomb.comps.CompUsable.useLabel>
+
+  <SparkGrid.label>Grille à étincelle</SparkGrid.label>
+  <SparkGrid.description>Enflamme les objets inflammables tels que le napalm lorsqu'il est alimenté.</SparkGrid.description>
+
+  <OilPipeline.label>Oléoduc</OilPipeline.label>
+  <OilPipeline.description>Un tuyau pour transporter le pétrole</OilPipeline.description>
+
+  <pipelineValve.label>vanne d'Oléoduc</pipelineValve.label>
+  <pipelineValve.description>Ouvre ou ferme les connexions entre les Oléoduc</pipelineValve.description>
+
+
+</LanguageData>

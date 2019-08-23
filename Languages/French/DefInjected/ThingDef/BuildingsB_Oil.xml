@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilWellHead.label>Tête de puits de pétrole</OilWellHead.label>
+  <OilWellHead.description>Puits de pétrole abandonné, une fois utilisé, la pression reviendra à son maximum avec le temps. Placez un derrick directement sur le puits pour continuer à l'utiliser</OilWellHead.description>
+  
+  <DeepOilWellHead.label>Tête de puits de pétrole profond</DeepOilWellHead.label>
+  <DeepOilWellHead.description>Puits d’huile abandonné, une fois utilisé, la pression reviendra à son maximum avec le temps. Placez un derrick directement sur le puits pour continuer à l'utiliser</DeepOilWellHead.description>
+
+  <OilWell.label>Puits de pétrole</OilWell.label>
+  <OilWell.description>Extrait le pétrole des réservoirs souterrains, nécessite une console de ressources pour voir la grille de pétrole</OilWell.description>
+  <OilWell.comps.CompRefuelable.fuelLabel>Acier pour tuyau</OilWell.comps.CompRefuelable.fuelLabel>
+  <OilWell.comps.CompRefuelable.outOfFuelMessage>Ne peut pas creuser: Besoin de plus de tuyau</OilWell.comps.CompRefuelable.outOfFuelMessage>
+  <OilWell.comps.CompRefuelable.fuelGizmoLabel>Stockage des tuyau</OilWell.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <DeepOilWell.label>Puits de pétrole profond</DeepOilWell.label>
+  <DeepOilWell.description>Extrait le pétrole des réservoirs souterrains, nécessite un radar au sol pour voir la grille de pétrole profonde</DeepOilWell.description>
+  <DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>Niveau du réservoir</DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>
+  <DeepOilWell.comps.CompRefuelable.fuelLabel>Niveau du réservoir</DeepOilWell.comps.CompRefuelable.fuelLabel>
+  <DeepOilWell.comps.CompRefuelable.outOfFuelMessage>Ne peut pas creuser: Besoin de plus de tuyau</DeepOilWell.comps.CompRefuelable.outOfFuelMessage>
+  
+  <OilStorage.label>Stockage de pétrole brut</OilStorage.label>
+  <OilStorage.description>Stocke le pétrole brut des puits.</OilStorage.description>
+  <OilStorage.comps.CompStorageTank.GizmoLabel>Niveau du réservoir</OilStorage.comps.CompStorageTank.GizmoLabel>
+  
+  <FuelStorage.label>Stockage de Chemfuel</FuelStorage.label>
+  <FuelStorage.description>Stocke les combustibles chimiques produits par les craquers bruts, ces derniers peuvent être pompés vers des trémies de chemfuel connectées</FuelStorage.description>
+  <FuelStorage.comps.CompStorageTank.GizmoLabel>Niveau du réservoir</FuelStorage.comps.CompStorageTank.GizmoLabel>
+  
+  <ResourceConsole.label>Console de ressources</ResourceConsole.label>
+  <ResourceConsole.description>Une console d'ordinateur avec équipage est nécessaire pour exploiter des craquelins et des raffineries</ResourceConsole.description>
+    
+  <CrudeCracker.label>Cracker brut</CrudeCracker.label>
+  <CrudeCracker.description>Fissure le pétrole brut en chemfuel qui doit être stocké dans des réservoirs de chemfuel connectés, le chemfuel peut être pompé vers des trémies de chemfuel connectées</CrudeCracker.description>
+  <CrudeCracker.comps.CompCrudeCracker.GizmoLabel>Power mode</CrudeCracker.comps.CompCrudeCracker.GizmoLabel>
+  
+  <FuelPowerplant.label>groupe électrogène</FuelPowerplant.label>
+  <FuelPowerplant.description>Produit de l'énergie en consommant du chemfuel. Doit être canalisé dans des réservoirs de stockage de Chemfuel.</FuelPowerplant.description>
+  
+  <LargeFuelPowerplant.label>Grand groupe électrogène</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.description>Produit de l'énergie en consommant du chemfuel. Doit être canalisé dans des réservoirs de stockage de Chemfuel.</LargeFuelPowerplant.description>
+  
+</LanguageData>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Gelée collante hautement inflammable utilisée dans les bombes incendiaires, composée de Chemfuel épaissi avec du synthylène.</Napalm.description>
+  
+  <Shell_Napalm.label>Obus de Napalm</Shell_Napalm.label>
+  <Shell_Napalm.description>Une coquille remplie de gel inflammable et d'une petite charge explosive. Commence des feux lors de l'explosion. Peut être tiré à partir de mortiers. Explose lorsqu'il est endommagé.</Shell_Napalm.description>
+  <Bullet_Shell_Napalm.label>Obus de Napalm</Bullet_Shell_Napalm.label>
+   
+  <OilBarrel.label>Baril de pétrole</OilBarrel.label>
+  <OilBarrel.description>Un baril rempli de pétrole brut, peut être vidé, brûlé ou traité.</OilBarrel.description>
+
+  <UncuredPlasteel.label>Plastacier non durcie</UncuredPlasteel.label>
+  <UncuredPlasteel.description>Plastacier non durci, nécessite un durcissement dans un autoclave.</UncuredPlasteel.description>
+
+  <Synthamide.label>Synthamide</Synthamide.label>
+  <Synthamide.description>Les fibres de synthamide sont des fibres synthétiques solides et résistantes à la chaleur. Elles peuvent être utilisées pour créer des vêtements très durables ou pour créer des matériaux composites à haute résistance.</Synthamide.description>
+  <Synthamide.stuffProps.stuffAdjective>Synthamide</Synthamide.stuffProps.stuffAdjective>
+
+  <Synthylene.label>Synthylene</Synthylene.label>
+  <Synthylene.description>Un matériau de construction synthétique</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>Synthylene</Synthylene.stuffProps.stuffAdjective>
+
+  <SynthyleneWhite.label>Synthylene blanc</SynthyleneWhite.label>
+  <SynthyleneWhite.description>A synthetic building material.</SynthyleneWhite.description>
+  <SynthyleneWhite.stuffProps.stuffAdjective>Synthylene blanc</SynthyleneWhite.stuffProps.stuffAdjective>
+
+  <SynthyleneBlack.label>Synthylene noir</SynthyleneBlack.label>
+  <SynthyleneBlack.description>A synthetic building material.</SynthyleneBlack.description>
+  <SynthyleneBlack.stuffProps.stuffAdjective>Synthylene noir</SynthyleneBlack.stuffProps.stuffAdjective>
+
+  <SynthyleneGreen.label>Synthylene vert</SynthyleneGreen.label>
+  <SynthyleneGreen.description>A synthetic building material.</SynthyleneGreen.description>
+  <SynthyleneGreen.stuffProps.stuffAdjective>Synthylen vert</SynthyleneGreen.stuffProps.stuffAdjective>
+
+  <SynthyleneBlue.label>Synthylene bleue</SynthyleneBlue.label>
+  <SynthyleneBlue.description>A synthetic building material.</SynthyleneBlue.description>
+  <SynthyleneBlue.stuffProps.stuffAdjective>Synthylene bleue</SynthyleneBlue.stuffProps.stuffAdjective>
+
+  <SynthyleneViolet.label>Synthylene violet</SynthyleneViolet.label>
+  <SynthyleneViolet.description>A synthetic building material.</SynthyleneViolet.description>
+  <SynthyleneViolet.stuffProps.stuffAdjective>Synthylene violet</SynthyleneViolet.stuffProps.stuffAdjective>
+
+  <SynthyleneOrange.label>Synthylene orange</SynthyleneOrange.label>
+  <SynthyleneOrange.description>A synthetic building material.</SynthyleneOrange.description>
+  <SynthyleneOrange.stuffProps.stuffAdjective>Synthylene orange</SynthyleneOrange.stuffProps.stuffAdjective>
+
+  <SynthyleneYellow.label>Synthylene jaune</SynthyleneYellow.label>
+  <SynthyleneYellow.description>A synthetic building material.</SynthyleneYellow.description>
+  <SynthyleneYellow.stuffProps.stuffAdjective>Synthylene jaune</SynthyleneYellow.stuffProps.stuffAdjective>
+
+  <SynthyleneRed.label>Synthylene rouge</SynthyleneRed.label>
+  <SynthyleneRed.description>A synthetic building material.</SynthyleneRed.description>
+  <SynthyleneRed.stuffProps.stuffAdjective>Synthylene rouge</SynthyleneRed.stuffProps.stuffAdjective>
+
+  <SynthyleneOlive.label>Synthylene olive</SynthyleneOlive.label>
+  <SynthyleneOlive.description>A synthetic building material.</SynthyleneOlive.description>
+  <SynthyleneOlive.stuffProps.stuffAdjective>Synthylene olive</SynthyleneOlive.stuffProps.stuffAdjective>
+
+  <SynthyleneSand.label>Synthylene sable</SynthyleneSand.label>
+  <SynthyleneSand.description>A synthetic building material.</SynthyleneSand.description>
+  <SynthyleneSand.stuffProps.stuffAdjective>Synthylene sable</SynthyleneSand.stuffProps.stuffAdjective>
+
+  <UncuredComposite.label>Composite de synthamide non polymérisé</UncuredComposite.label>
+  <UncuredComposite.description>Synthamide Composite non polymérisé, nécessite un durcissement dans un autoclave.</UncuredComposite.description>
+
+  <FiberComposite.label>Synthamide composite</FiberComposite.label>
+  <FiberComposite.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>Synthamide composite</FiberComposite.stuffProps.stuffAdjective>
+
+  <FiberCompositeWhite.label>Synthamide composite blanche </FiberCompositeWhite.label>
+  <FiberCompositeWhite.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeWhite.description>
+  <FiberCompositeWhite.stuffProps.stuffAdjective>Synthamide composite blanche</FiberCompositeWhite.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlack.label>Synthamide composite noir</FiberCompositeBlack.label>
+  <FiberCompositeBlack.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeBlack.description>
+  <FiberCompositeBlack.stuffProps.stuffAdjective>Synthamide composite noir</FiberCompositeBlack.stuffProps.stuffAdjective>
+
+  <FiberCompositeGreen.label>Synthamide composite vert</FiberCompositeGreen.label>
+  <FiberCompositeGreen.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeGreen.description>
+  <FiberCompositeGreen.stuffProps.stuffAdjective>Synthamide composite vert</FiberCompositeGreen.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlue.label>Synthamide composite bleu</FiberCompositeBlue.label>
+  <FiberCompositeBlue.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeBlue.description>
+  <FiberCompositeBlue.stuffProps.stuffAdjective>Synthamide composite bleu</FiberCompositeBlue.stuffProps.stuffAdjective>
+
+  <FiberCompositeViolet.label>Synthamide composite violet </FiberCompositeViolet.label>
+  <FiberCompositeViolet.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeViolet.description>
+  <FiberCompositeViolet.stuffProps.stuffAdjective>Synthamide composite violet</FiberCompositeViolet.stuffProps.stuffAdjective>
+
+  <FiberCompositeOrange.label>Synthamide composite orange</FiberCompositeOrange.label>
+  <FiberCompositeOrange.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeOrange.description>
+  <FiberCompositeOrange.stuffProps.stuffAdjective>Synthamide composite orange</FiberCompositeOrange.stuffProps.stuffAdjective>
+
+  <FiberCompositeYellow.label>Synthamide composite jaune</FiberCompositeYellow.label>
+  <FiberCompositeYellow.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeYellow.description>
+  <FiberCompositeYellow.stuffProps.stuffAdjective>Synthamide composite jaune</FiberCompositeYellow.stuffProps.stuffAdjective>
+
+  <FiberCompositeRed.label>Synthamide composite rouge</FiberCompositeRed.label>
+  <FiberCompositeRed.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeRed.description>
+  <FiberCompositeRed.stuffProps.stuffAdjective>Synthamide composite rouge</FiberCompositeRed.stuffProps.stuffAdjective>
+
+  <FiberCompositeOlive.label>Synthamide composite olive</FiberCompositeOlive.label>
+  <FiberCompositeOlive.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeOlive.description>
+  <FiberCompositeOlive.stuffProps.stuffAdjective>Synthamide composite olive</FiberCompositeOlive.stuffProps.stuffAdjective>
+
+  <FiberCompositeSand.label>Synthamide composite sable</FiberCompositeSand.label>
+  <FiberCompositeSand.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeSand.description>
+  <FiberCompositeSand.stuffProps.stuffAdjective>Synthamide composite sable</FiberCompositeSand.stuffProps.stuffAdjective>
+  
+</LanguageData>

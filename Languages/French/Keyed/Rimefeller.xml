@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <CommandDesignateOpenCloseValveLabelRimefeller>Basculer la valve</CommandDesignateOpenCloseValveLabelRimefeller>
+  <CommandDesignateOpenCloseValveDescRimefeller>Basculer la valve entre ouvert et Fermée</CommandDesignateOpenCloseValveDescRimefeller>
+  <ValveClosedRimefeller>Valve Fermée</ValveClosedRimefeller>
+
+  <NoUncuredPlasteel>Pas de plastacier non solide</NoUncuredPlasteel>
+  <NoUncuredSynthamide>Pas de synthamide non solide</NoUncuredSynthamide>
+  <CantModeAutoclave>Impossible de changer de mode pendant le processus de solidification</CantModeAutoclave>
+  <CuringTime>Temps de solidification: {0}</CuringTime>
+  
+  <PickCompositeColour>Choisissez la couleur</PickCompositeColour>
+  <PickCompositeColourDesc>Choisissez la couleur du composite de synthamide solide</PickCompositeColourDesc>
+  <PickSynthyleneColour>Choix de couleur du Synthylène</PickSynthyleneColour>
+  <PickSynthyleneColourDesc>Choisissez la couleur du Synthylène</PickSynthyleneColourDesc>
+  
+  <CurePlasteel>Traitement du plastacier</CurePlasteel>
+  <CureComposite>Traitement du Composite</CureComposite>
+  <CommandCompositeModeDesc>Basculer entre polymérisation en Plastacier ou en composite dans cet autoclave</CommandCompositeModeDesc>
+
+  <FuelStorage>Stockage de carburant: {0} / {1}L</FuelStorage>
+  <TotalFuelStorage>Stockage de carburant canalisé: {0}L</TotalFuelStorage>
+
+  <DrillingPhase>Puits de forage</DrillingPhase>
+  <DrillingPhaseDesc>Le puits avec pétrole de construction doit être surveillé jusqu'à la fin.\n\n Un maximum de trois colons peuvent superviser le forage en même temps pour accélérer le processus. \n\nProgrès: {0}</DrillingPhaseDesc>
+  
+  <OilStorage>Stockage du pétrole: {0} / {1}L</OilStorage>
+  <WellPressure>Pression des puits: x{0}</WellPressure>
+  <OilWellCapacity>Capacité de puits: {0} L/Jour</OilWellCapacity>
+  <TotalOilStorage>Stockage du pétrole par canalisation: {0} L</TotalOilStorage>
+  <PipedOilPumpCapacity>Capacité canalisée: {0} L/Jour</PipedOilPumpCapacity>
+  
+  <DrillingProgress>Progression du forage: {0}</DrillingProgress>
+
+  <CleanOilSpill>Déversement du pétrole propre</CleanOilSpill>
+  <CleanOilSpillDesc>Nettoyage des déversements de pétrole</CleanOilSpillDesc>
+  <DesignatorRemovePipeline>Déconstruire le pipeline</DesignatorRemovePipeline>
+  <DesignatorRemovePipelineDesc>Déconstruire l'oléoduc</DesignatorRemovePipelineDesc>
+
+  <PlaceDirectlyOverWell>Trop près de la tête de puits existante, placez-le directement sur un puits inutilisé pour y accéder à nouveau</PlaceDirectlyOverWell>
+
+  <FuelPowerplantUsage>Utilisation de carburant: {0} L/Jour</FuelPowerplantUsage>
+
+  <CuringFailed>Le traitement a échoué en raison d'une perte de puissance</CuringFailed>
+
+  <DrainStorageTank>Réservoir de vidange</DrainStorageTank>
+  <DrainStorageTankDesc>Vider le contenu de ce réservoir dans d'autres réservoirs disponibles</DrainStorageTankDesc>
+
+  <RaiseRefinerPower>Augmenter la puissance</RaiseRefinerPower>
+  <LowerRefinerPower>Réduire la puissance</LowerRefinerPower>
+  <LowerRefinerPowerDesc>Réduit la puissance utilisée par le raffineur pour réduire le rendement</LowerRefinerPowerDesc>
+  <RaiseRefinerPowerDesc>Augmente la puissance utilisée par le raffineur pour augmenter le rendement</RaiseRefinerPowerDesc>
+
+  <NoRefinerNeedsWork>Pas de raffineries connectées ni de craquelin prêts à l'emploi</NoRefinerNeedsWork>
+  
+  <DisableColoursDesc>Cela supprimera les versions colorées des matériaux du jeu. Toutes les choses sauvegardées seront remplacées par la version standard lors du chargement de la sauvegarde.</DisableColoursDesc>
+  <DisableColours>Désactive les coleurs (Redémarage du jeu requis)</DisableColours>
+  <DisableColoursTip>Cela supprimera les versions colorées des matériaux du jeu. Toutes les choses sauvegardées seront remplacées par la version standard lors du chargement de la sauvegarde.</DisableColoursTip>
+
+  <RequiresDeepScanner>Un scanner de travail pénétrant dans le sol est nécessaire pour voir les réservoirs de pétrole en profondeur</RequiresDeepScanner>
+  <RequiresResourceConsole>Une console de ressources est nécessaire pour voir les réservoirs de pétrole</RequiresResourceConsole>
+
+  <AllowedCraftingSkill>Compétence d'artisanat autorisée {0}</AllowedCraftingSkill>
+  <FuelStorageLimit>Limite de la production du Fuel {0}</FuelStorageLimit>
+  <OilStorageLimit>Limit de la production du pétrol {0}</OilStorageLimit>
+
+  <FuelStoragelimitTip>Les craquelins s’arrêtent une fois qu’ils ont atteint le maximum, puis retravaillent une fois tombés au-dessous du minimum.\n\nCocher pour activer</FuelStoragelimitTip>
+  
+  <OilStoragelimitTip>Les puits de pétrole s’arrêteront dès qu’ils atteindront le maximum puis s’allongeront une fois retombés au-dessous du minimum.\n\nCocher pour activer</OilStoragelimitTip>
+
+  <FuelPumpLimit>Limite de la pompe à Fuel</FuelPumpLimit>
+  <FuelPumpLimitTip>Pomper du carburant jusqu’à atteindre ce montant, cocher pour activer</FuelPumpLimitTip>
+
+  <ResourceConsoleAlert>Console de ressource</ResourceConsoleAlert>
+  <ResourceConsoleAlertDesc>Ouvrez l'onglet Factures de la console des ressources pour modifier les paramètres de production de pétrole et de carburant et ajouter des factures pour les raffineries.</ResourceConsoleAlertDesc>
+
+  <ConsoleSettings>Paramètre de la console</ConsoleSettings>
+  <GlobalSettings>Paramètre Globaux</GlobalSettings>
+
+</LanguageData>

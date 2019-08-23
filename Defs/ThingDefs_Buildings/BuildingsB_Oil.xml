@@ -494,10 +494,6 @@
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
-      <li Class="CompProperties_HeatPusher">
-        <compClass>CompHeatPusherPowered</compClass>
-        <heatPerSecond>12</heatPerSecond>
-      </li>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>8</explosiveRadius>
         <explosiveDamageType>Flame</explosiveDamageType>
@@ -561,10 +557,6 @@
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
-      <li Class="CompProperties_HeatPusher">
-        <compClass>CompHeatPusherPowered</compClass>
-        <heatPerSecond>42</heatPerSecond>
-      </li>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>8</explosiveRadius>
         <explosiveDamageType>Flame</explosiveDamageType>

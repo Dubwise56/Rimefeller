@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilSpill.label>Marée noire</OilSpill.label>
+  <OilSpill.letterlabel>Marée noire</OilSpill.letterlabel>
+  <OilSpill.letterLabel>Marée noire</OilSpill.letterLabel>
+  <OilSpill.letterText>Un tronçon de pipeline s'est rompu et du pétrole s'est déversé. Le pétrole peut être nettoyé à l'aide de l'indicateur de pétrole propre.</OilSpill.letterText>
+
+  <DrillQuake.label>Tremblements</DrillQuake.label>
+  <DrillQuake.description>Tremblements</DrillQuake.description>
+  <DrillQuake.letterLabel>Tremblements</DrillQuake.letterLabel>
+  <DrillQuake.letterText>Les forages pétroliers excessifs ont provoqué l'instabilité du sol</DrillQuake.letterText>
+    
+</LanguageData>
