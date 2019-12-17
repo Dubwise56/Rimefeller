@@ -17,7 +17,7 @@
     </graphicData>
     <building>
       <blueprintGraphicData>
-        <texPath>Rimefeller/Things/Building/oilPipe_Atlas</texPath>
+        <texPath>Rimefeller/Things/Building/oilPipe_Atlas_Blueprint</texPath>
       </blueprintGraphicData>
       <isInert>true</isInert>
       <isEdifice>false</isEdifice>

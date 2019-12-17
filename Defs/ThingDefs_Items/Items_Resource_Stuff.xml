@@ -92,6 +92,9 @@
     <thingCategories>
       <li>Oil</li>
     </thingCategories>
+    <building>
+      <repairable>false</repairable>
+    </building>
     <comps>
         <li Class="CompProperties_Explosive">
           <explosiveRadius>1.1</explosiveRadius>

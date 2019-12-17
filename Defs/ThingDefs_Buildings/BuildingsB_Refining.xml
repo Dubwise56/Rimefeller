@@ -165,6 +165,7 @@
             <li>FiberComposite</li>
           </categories>
         </filter>
+        <priority>Low</priority>
       </defaultStorageSettings>
     </building>
     <researchPrerequisites>

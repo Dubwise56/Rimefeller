@@ -355,7 +355,6 @@
       <MaxHitPoints>250</MaxHitPoints>
       <WorkToBuild>8000</WorkToBuild>
       <Flammability>1.0</Flammability>
-      <ResearchSpeedFactor>1.0</ResearchSpeedFactor>
       <Mass>30</Mass>
     </statBases>
     <comps>
