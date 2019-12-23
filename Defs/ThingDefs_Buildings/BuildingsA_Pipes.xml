@@ -30,6 +30,7 @@
       <WorkToBuild>260</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
+     <tickerType>Never</tickerType>
     <placingDraggableDimensions>1</placingDraggableDimensions>
     <rotatable>false</rotatable>
     <neverMultiSelect>true</neverMultiSelect>
