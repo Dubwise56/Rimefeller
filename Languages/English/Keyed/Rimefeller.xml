@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+  <GenerateFloorsDesc>Generate synthylene floor styles from other flooring</GenerateFloorsDesc>
+  <GenerateFloors>Generate floors</GenerateFloors>
   <CommandDesignateOpenCloseValveLabelRimefeller>Toggle Valve</CommandDesignateOpenCloseValveLabelRimefeller>
   <CommandDesignateOpenCloseValveDescRimefeller>Toggle the valve open or closed</CommandDesignateOpenCloseValveDescRimefeller>
   <ValveClosedRimefeller>Valve Closed</ValveClosedRimefeller>

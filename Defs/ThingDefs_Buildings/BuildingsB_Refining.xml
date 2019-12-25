@@ -135,6 +135,7 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <rotatable>false</rotatable>
+    <tickerType>Never</tickerType>
     <building>
       <fixedStorageSettings>
         <filter>

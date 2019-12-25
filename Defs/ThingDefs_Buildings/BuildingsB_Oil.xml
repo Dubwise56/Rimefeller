@@ -39,7 +39,6 @@
     <rotatable>false</rotatable>
     <destroyable>true</destroyable>
     <useHitPoints>true</useHitPoints>
-    <tickerType>Normal</tickerType>
     <selectable>true</selectable>
     <size>(1,1)</size>
     <neverOverlapFloors>false</neverOverlapFloors>
@@ -54,6 +53,7 @@
       <WorkToBuild>15000</WorkToBuild>
       <Flammability>4.0</Flammability>
     </statBases>
+    <tickerType>Rare</tickerType>
     <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>    
   </ThingDef>
   

@@ -30,11 +30,11 @@
       <WorkToBuild>260</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
-     <tickerType>Never</tickerType>
     <placingDraggableDimensions>1</placingDraggableDimensions>
     <rotatable>false</rotatable>
     <neverMultiSelect>true</neverMultiSelect>
     <clearBuildingArea>false</clearBuildingArea>
+    <tickerType>Never</tickerType>
     <placeWorkers>
       <li>Rimefeller.PlaceWorker_Pipe</li>
     </placeWorkers>
@@ -236,6 +236,7 @@
     <passability>Standable</passability>
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <minifiedDef>MinifiedThing</minifiedDef>
+    <tickerType>Never</tickerType>
     <thingCategories>
       <li>Oil</li>
     </thingCategories>

@@ -3,7 +3,7 @@
 
   <TerrainDef Abstract="True" ParentName="FloorBase" Name="RimefellerLinoBase">
     <renderPrecedence>220</renderPrecedence>
-    <description>Lino flooring.</description>
+    <description>Lino flooring with artificial patterns.</description>
     <texturePath>Rimefeller/Terrain/TilesDiagonal</texturePath>
     <statBases>
       <WorkToBuild>300</WorkToBuild>
@@ -22,6 +22,15 @@
   </TerrainDef>
 
   <DesignatorDropdownGroupDef>
+    <defName>Lino_Metallic</defName>
+  </DesignatorDropdownGroupDef>
+
+
+  <DesignatorDropdownGroupDef>
+    <defName>Lino_Stony</defName>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
     <defName>Lino_Misc</defName>
   </DesignatorDropdownGroupDef>
 
@@ -29,21 +38,21 @@
     <defName>Lino_TilesDiagonal</defName>
     <label>Tiles Diagonal</label>
     <texturePath>Rimefeller/Terrain/TilesDiagonal</texturePath>
-    <designatorDropdown>Lino_Colour</designatorDropdown>
+    <designatorDropdown>Lino_Misc</designatorDropdown>
   </TerrainDef>
 
   <TerrainDef ParentName="RimefellerLinoBase">
     <defName>Lino_TilesDiamond</defName>
     <label>Tiles Diamond</label>
     <texturePath>Rimefeller/Terrain/TilesDiamond</texturePath>
-    <designatorDropdown>Lino_Colour</designatorDropdown>
+    <designatorDropdown>Lino_Misc</designatorDropdown>
   </TerrainDef>
 
   <TerrainDef ParentName="RimefellerLinoBase">
     <defName>Lino_TactileTile</defName>
     <label>Tactile Tile</label>
     <texturePath>Rimefeller/Terrain/Pavement_Tactile</texturePath>
-    <designatorDropdown>Lino_Colour</designatorDropdown>
+    <designatorDropdown>Lino_Misc</designatorDropdown>
   </TerrainDef>
 
   <TerrainDef ParentName="RimefellerLinoBase">
@@ -127,42 +136,42 @@
   </TerrainDef>
 
   <TerrainDef ParentName="LinoColourTilesBase">
-    <defName>Lino_Red</defName>
-    <label>red lino</label>
+    <defName>LinoTile_Red</defName>
+    <label>red tile lino</label>
     <color>(118,49,57)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoColourTilesBase">
-    <defName>Lino_Green</defName>
-    <label>green lino</label>
+    <defName>LinoTile_Green</defName>
+    <label>green tile lino</label>
     <renderPrecedence>199</renderPrecedence>
     <color>(89,105,62)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoColourTilesBase">
-    <defName>Lino_Blue</defName>
-    <label>blue lino</label>
+    <defName>LinoTile_Blue</defName>
+    <label>blue tile lino</label>
     <renderPrecedence>198</renderPrecedence>
     <color>(24,65,121)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoColourTilesBase">
-    <defName>Lino_White</defName>
-    <label>white lino</label>
+    <defName>LinoTile_White</defName>
+    <label>white tile lino</label>
     <renderPrecedence>197</renderPrecedence>
     <color>(195,192,192)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoColourTilesBase">
-    <defName>Lino_Dark</defName>
-    <label>dark lino</label>
+    <defName>LinoTile_Dark</defName>
+    <label>dark tile lino</label>
     <renderPrecedence>196</renderPrecedence>
     <color>(60,60,60)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoColourTilesBase">
-    <defName>Lino_Gold</defName>
-    <label>gold lino</label>
+    <defName>LinoTile_Gold</defName>
+    <label>gold tile lino</label>
     <renderPrecedence>195</renderPrecedence>
     <color>(225,179,42)</color>
   </TerrainDef>
@@ -203,7 +212,6 @@
     <defName>Wood_ParquetHerring</defName>
     <label>Parquet Herringbone</label>
     <renderPrecedence>250</renderPrecedence>
-    <description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description>
     <texturePath>Rimefeller/Terrain/Wood_ParquetHerring</texturePath>
     <burnedDef>BurnedWoodPlankFloor</burnedDef>
     <color>(108,78,55)</color>
@@ -221,7 +229,6 @@
     <defName>Wood_ParquetVersailles</defName>
     <label>Parquet Versailles</label>
     <renderPrecedence>250</renderPrecedence>
-    <description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description>
     <texturePath>Rimefeller/Terrain/Wood_ParquetVersailles</texturePath>
     <burnedDef>BurnedWoodPlankFloor</burnedDef>
     <color>(108,78,55)</color>

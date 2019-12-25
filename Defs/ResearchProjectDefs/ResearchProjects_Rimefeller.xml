@@ -112,7 +112,7 @@
     <defName>SynthyleneComponents</defName>
     <label>Synthylene Components</label>
     <tab>Rimefeller</tab>
-    <description>Stretch out your steel reserves by making components using a mixture of synthylene and steel</description>
+    <description>Stretch out your steel reserves by making components using synthylene and steel</description>
     <baseCost>2500</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
@@ -122,8 +122,21 @@
     <researchViewX>3</researchViewX>
     <researchViewY>5</researchViewY>
   </ResearchProjectDef>
-  
-  
+
+  <ResearchProjectDef>
+    <defName>SynthyleneAdvComponents</defName>
+    <label>Advanced Synthylene Components</label>
+    <tab>Rimefeller</tab>
+    <description>Stretch out your steel reserves by making advanced components using synthylene</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthyleneComponents</li>
+      <li>AdvancedFabrication</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
   
 
   <ResearchProjectDef>
