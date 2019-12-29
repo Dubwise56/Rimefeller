@@ -220,7 +220,7 @@
     <products>
       <ComponentSpacer>1</ComponentSpacer>
     </products>
-    <researchPrerequisite>SynthyleneComponents</researchPrerequisite>
+    <researchPrerequisite>SynthyleneAdvComponents</researchPrerequisite>
     <skillRequirements>
       <Crafting>8</Crafting>
     </skillRequirements>
