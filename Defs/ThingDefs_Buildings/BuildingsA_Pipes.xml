@@ -34,10 +34,11 @@
     <rotatable>false</rotatable>
     <neverMultiSelect>true</neverMultiSelect>
     <clearBuildingArea>false</clearBuildingArea>
-    <tickerType>Never</tickerType>
     <placeWorkers>
       <li>Rimefeller.PlaceWorker_Pipe</li>
     </placeWorkers>
+    <tickerType>Never</tickerType>
+    <drawerType>MapMeshOnly</drawerType>
   </ThingDef>
 
   <ThingDef ParentName="BasedRimefellerMom">
@@ -70,6 +71,7 @@
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <useHitPoints>true</useHitPoints>
     <tickerType>Normal</tickerType>
+    <drawerType>MapMeshOnly</drawerType>
     <drawDamagedOverlay>false</drawDamagedOverlay>
     <selectable>false</selectable>
     <statBases>
@@ -111,6 +113,7 @@
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <useHitPoints>true</useHitPoints>
     <tickerType>Normal</tickerType>
+    <drawerType>MapMeshOnly</drawerType>
     <drawDamagedOverlay>false</drawDamagedOverlay>
     <selectable>false</selectable>
     <rotatable>false</rotatable>
@@ -134,6 +137,10 @@
     <label>Napalm Bomb</label>
     <description>Napalm Bomb</description>
     <thingClass>Rimefeller.NapalmBomb</thingClass>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/OilBarrel</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -169,6 +176,7 @@
       <MaxHitPoints>50</MaxHitPoints>
       <WorkToBuild>5000</WorkToBuild>
       <Flammability>4.0</Flammability>
+      <Mass>25</Mass>
     </statBases>
     <researchPrerequisites>
       <li>Napalm</li>
