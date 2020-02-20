@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <ThingDef ParentName="MakeableShellBase">
+    <defName>Shell_Napalm</defName>
+    <label>Napalm shell</label>
+    <description>A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars. Explodes when damaged.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Shell/Shell_Incendiary</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>2.9</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+        <explosiveExpandPerStackcount>0.4</explosiveExpandPerStackcount>
+        <startWickHitPointsPercent>0.7</startWickHitPointsPercent>
+        <wickTicks>
+          <min>30</min>
+          <max>60</max>
+        </wickTicks>
+      </li>
+    </comps>
+    <projectileWhenLoaded>Bullet_Shell_Napalm</projectileWhenLoaded>
+    <costList>
+      <Steel>15</Steel>
+      <Napalm>15</Napalm>
+    </costList>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_Shell_Napalm</defName>
+    <label>Napalm shell</label>
+    <graphicData>
+      <texPath>Things/Projectile/ShellIncendiary</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <damageDef>Flame</damageDef>
+      <!-- damage amount is the damage def default -->
+      <speed>41</speed>
+      <explosionRadius>2.9</explosionRadius>
+      <preExplosionSpawnThingDef>Filth_NapalmTrail</preExplosionSpawnThingDef>
+      <preExplosionSpawnChance>0.25</preExplosionSpawnChance>
+      <flyOverhead>true</flyOverhead>
+      <soundHitThickRoof>Artillery_HitThickRoof</soundHitThickRoof>
+      <soundExplode>MortarIncendiary_Explode</soundExplode>
+      <soundImpactAnticipate>MortarRound_PreImpact</soundImpactAnticipate>
+      <soundAmbient>MortarRound_Ambient</soundAmbient>
+      <ai_IsIncendiary>true</ai_IsIncendiary>
+    </projectile>
+  </ThingDef>
+
+  <ThingDef Name="ResourceBasedFella" Abstract="True">
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<resourceReadoutPriority>Middle</resourceReadoutPriority>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<altitudeLayer>Item</altitudeLayer>
+		<stackLimit>75</stackLimit>
+		<statBases>
+			<Beauty>-7</Beauty>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Forbiddable"/>
+		</comps>
+		<alwaysHaulable>true</alwaysHaulable>
+		<drawGUIOverlay>true</drawGUIOverlay>
+		<rotatable>false</rotatable>
+		<pathCost>15</pathCost>
+	</ThingDef>
+
+  <ThingDef ParentName="ResourceBasedFella">
+    <defName>Napalm</defName>
+    <label>Napalm</label>
+    <description>Highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Resource/OilBarrel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>2.8</MarketValue>
+      <Flammability>3.0</Flammability>
+      <Mass>0.05</Mass>
+      <Beauty>-10</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
+    <building>
+      <repairable>false</repairable>
+    </building>
+    <comps>
+        <li Class="CompProperties_Explosive">
+          <explosiveRadius>1.1</explosiveRadius>
+          <explosiveDamageType>Flame</explosiveDamageType>
+          <explosiveExpandPerStackcount>0.037</explosiveExpandPerStackcount>
+          <startWickHitPointsPercent>0.333</startWickHitPointsPercent>
+          <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+          <preExplosionSpawnChance>1</preExplosionSpawnChance>
+          <wickTicks>
+            <min>70</min>
+            <max>150</max>
+          </wickTicks>
+        </li>
+    </comps>
+    <stackLimit>150</stackLimit>
+    <tradeNeverStack>false</tradeNeverStack>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <tradeability>None</tradeability>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBasedFella">
+    <defName>OilBarrel</defName>
+    <label>Oil Barrel</label>
+    <description>A barrel filled with crude oil, can be dumped, burned, or processed.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Resource/OilBarrel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Mass>0.05</Mass>
+      <Beauty>-10</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
+    <comps>
+      <li Class="Rimefeller.CompProperties_KickOver"/>
+    </comps>
+    <stackLimit>150</stackLimit>
+    <tradeNeverStack>false</tradeNeverStack>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <tradeability>None</tradeability>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBasedFella">
+    <defName>UncuredPlasteel</defName>
+    <label>Uncured Plasteel</label>
+    <description>Uncured plasteel, requires curing in an autoclave.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Resource/UncuredPlasteel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>2</MarketValue>
+      <MaxHitPoints>75</MaxHitPoints>
+      <Mass>0.15</Mass>
+      <Flammability>0</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stackLimit>75</stackLimit>
+  </ThingDef>
+
+
+
+
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Synthamide</defName>
+    <label>Synthamide</label>
+    <description>Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing or to create high strength composite materials.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Resource/synthamide</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(202,165,87)</color>
+    </graphicData>
+    <generateCommonality>0</generateCommonality>
+    <generateAllowChance>0</generateAllowChance>
+    <tradeability>Sellable</tradeability>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <MarketValue>5.5</MarketValue>
+      <Mass>0.032</Mass>
+      <Flammability>0.4</Flammability>
+      <DeteriorationRate>1</DeteriorationRate>
+      <StuffPower_Armor_Sharp>1.60</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.44</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>2.88</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>22</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>22</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <commonality>0.00000001</commonality>
+      <color>(202,165,87)</color>
+      <statFactors>
+        <Flammability>0</Flammability>
+        <MaxHitPoints>2</MaxHitPoints>
+      </statFactors>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+    <comps>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+  
+  
+  
+
+
+
+  <ThingCategoryDef>
+    <defName>Synthylene</defName>
+    <label>Synthylene</label>
+    <parent>ResourcesRaw</parent>
+    <iconPath>Rimefeller/Things/Resource/synthylene</iconPath>
+    <resourceReadoutRoot>false</resourceReadoutRoot>
+  </ThingCategoryDef>
+
+
+
+  <ThingDef Name="SynthyleneBase" ParentName="ResourceBasedFella"  Abstract="True">
+    <description>A synthetic building material.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Resource/synthylene</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <generateCommonality>0</generateCommonality>
+    <generateAllowChance>0</generateAllowChance>
+    <tradeability>Sellable</tradeability>
+    <statBases>
+      <MarketValue>2</MarketValue>
+      <MaxHitPoints>75</MaxHitPoints>
+      <Mass>0.2</Mass>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1</DeteriorationRate>
+      <StuffPower_Armor_Sharp>0.54</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.54</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>0.9</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>8</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>4</StuffPower_Insulation_Heat>
+      <SharpDamageMultiplier>0.4</SharpDamageMultiplier>
+      <BluntDamageMultiplier>0.9</BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>Synthylene</li>
+    </thingCategories>
+    <stackLimit>75</stackLimit>
+    <stuffProps>
+      <stuffAdjective>synthylene</stuffAdjective>
+      <categories>
+        <li>Woody</li>
+      </categories>
+      <commonality>0</commonality>
+      <color>(48,95,144)</color>
+      <constructEffect>ConstructWood</constructEffect>
+      <appearance>Planks</appearance>
+      <soundImpactStuff>BulletImpact_Wood</soundImpactStuff>
+      <statFactors>
+        <MaxHitPoints>0.3</MaxHitPoints>
+        <Beauty>1</Beauty>
+        <Flammability>1</Flammability>
+        <WorkToMake>0.6</WorkToMake>
+        <WorkToBuild>0.5</WorkToBuild>
+        <DoorOpenSpeed>1.4</DoorOpenSpeed>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>Synthylene</defName>
+    <label>Synthylene</label>
+    <stuffProps>
+      <stuffAdjective>synthylene</stuffAdjective>
+      <color>(170,170,170)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <!--<ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneWhite</defName>
+    <label>Synthylene white</label>
+    <graphicData>
+      <color>(230,230,230)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>white synthylene</stuffAdjective>
+      <color>(230,230,230)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneBlack</defName>
+    <label>Synthylene black</label>
+    <graphicData>
+      <color>(041,041,041)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>black synthylene</stuffAdjective>
+      <color>(041,041,041)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneGreen</defName>
+    <label>Synthylene green</label>
+    <graphicData>
+      <color>(153,219,200)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>green synthylene</stuffAdjective>
+      <color>(153,219,200)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneBlue</defName>
+    <label>Synthylene blue</label>
+    <graphicData>
+      <color>(118,205,221)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>blue synthylene</stuffAdjective>
+      <color>(118,205,221)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneViolet</defName>
+    <label>Synthylene violet</label>
+    <graphicData>
+      <color>(214,175,233)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>violet synthylene</stuffAdjective>
+      <color>(214,175,233)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneOrange</defName>
+    <label>Synthylene orange</label>
+    <graphicData>
+      <color>(217,128,38)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>orange synthylene</stuffAdjective>
+      <color>(217,128,38)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneYellow</defName>
+    <label>Synthylene yellow</label>
+    <graphicData>
+      <color>(239,239,164)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>yellow synthylene</stuffAdjective>
+      <color>(239,239,164)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneRed</defName>
+    <label>Synthylene red</label>
+    <graphicData>
+      <color>(175,51,52)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>red synthylene</stuffAdjective>
+      <color>(175,51,52)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneOlive</defName>
+    <label>Synthylene olive</label>
+    <graphicData>
+      <color>(57,72,51)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>olive synthylene</stuffAdjective>
+      <color>(57,72,51)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
+    <defName>SynthyleneSand</defName>
+    <label>Synthylene sand</label>
+    <graphicData>
+      <color>(118,108,87)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>sand synthylene</stuffAdjective>
+      <color>(118,108,87)</color>
+    </stuffProps>
+  </ThingDef>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <ThingCategoryDef>
+    <defName>FiberComposite</defName>
+    <label>Synthamide</label>
+    <parent>ResourcesRaw</parent>
+    <iconPath>Rimefeller/Things/Resource/composite</iconPath>
+    <resourceReadoutRoot>false</resourceReadoutRoot>
+  </ThingCategoryDef>
+
+
+  <ThingDef ParentName="ResourceBasedFella">
+    <defName>UncuredComposite</defName>
+    <label>Uncured Synthamide Composite</label>
+    <description>Uncured Synthamide Composite, requires curing in an autoclave.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Resource/composite</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(230,230,200)</color>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>2</MarketValue>
+      <MaxHitPoints>75</MaxHitPoints>
+      <Mass>0.15</Mass>
+      <Flammability>0</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>FiberComposite</li>
+    </thingCategories>
+    <stackLimit>75</stackLimit>
+  </ThingDef>
+
+
+
+
+  <ThingDef Name="FiberCompositeBase" ParentName="ResourceBasedFella"  Abstract="True">
+    <defName>FiberComposite</defName>
+    <label>Synthamide Composite</label>
+    <description>Synthamide composite is a high strength light weight fire resistant spacer tech composite material, made of a polymer matrix reinforced with aramid fibres.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Resource/composite</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>8</MarketValue>
+      <Mass>0.2</Mass>
+      <StuffPower_Armor_Sharp>1.2</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.6</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>1.0</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>2.8</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>0</StuffPower_Insulation_Heat>
+      <SharpDamageMultiplier>1.0</SharpDamageMultiplier>
+      <BluntDamageMultiplier>0.8</BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>FiberComposite</li>
+    </thingCategories>
+    <generateCommonality>0</generateCommonality>
+    <generateAllowChance>0</generateAllowChance>
+    <tradeability>Sellable</tradeability>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <commonality>0</commonality>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(160,178,181)</color>
+      <soundImpactStuff>BulletImpact_Metal</soundImpactStuff>
+      <soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+      <statFactors>
+        <MaxHitPoints>2.6</MaxHitPoints>
+        <Beauty>1</Beauty>
+        <Flammability>0</Flammability>
+        <WorkToMake>2</WorkToMake>
+        <WorkToBuild>2</WorkToBuild>
+        <MeleeWeapon_CooldownMultiplier>0.8</MeleeWeapon_CooldownMultiplier>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberComposite</defName>
+    <label>Composite</label>
+    <stuffProps>
+      <stuffAdjective>Composite</stuffAdjective>
+      <color>(202,165,87)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <!--<ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeWhite</defName>
+    <label>Composite white</label>
+    <graphicData>
+      <color>(230,230,230)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>white Composite</stuffAdjective>
+      <color>(230,230,230)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeBlack</defName>
+    <label>Composite black</label>
+    <graphicData>
+      <color>(041,041,041)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>black Composite</stuffAdjective>
+      <color>(041,041,041)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeGreen</defName>
+    <label>Composite green</label>
+    <graphicData>
+      <color>(153,219,200)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>green Composite</stuffAdjective>
+      <color>(153,219,200)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeBlue</defName>
+    <label>Composite blue</label>
+    <graphicData>
+      <color>(118,205,221)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>blue Composite</stuffAdjective>
+      <color>(118,205,221)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeViolet</defName>
+    <label>Composite violet</label>
+    <graphicData>
+      <color>(214,175,233)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>violet Composite</stuffAdjective>
+      <color>(214,175,233)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeOrange</defName>
+    <label>Composite orange</label>
+    <graphicData>
+      <color>(217,128,38)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>orange Composite</stuffAdjective>
+      <color>(217,128,38)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeYellow</defName>
+    <label>Composite yellow</label>
+    <graphicData>
+      <color>(239,239,164)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>yellow Composite</stuffAdjective>
+      <color>(239,239,164)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeRed</defName>
+    <label>Composite red</label>
+    <graphicData>
+      <color>(175,51,52)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>red Composite</stuffAdjective>
+      <color>(175,51,52)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeOlive</defName>
+    <label>Composite olive</label>
+    <graphicData>
+      <color>(57,72,51)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>olive Composite</stuffAdjective>
+      <color>(57,72,51)</color>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
+    <defName>FiberCompositeSand</defName>
+    <label>Composite sand</label>
+    <graphicData>
+      <color>(118,108,87)</color>
+    </graphicData>
+    <stuffProps>
+      <stuffAdjective>sand Composite</stuffAdjective>
+      <color>(118,108,87)</color>
+    </stuffProps>
+  </ThingDef>-->
+
+
+
+
+
+</Defs>

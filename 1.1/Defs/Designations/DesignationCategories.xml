@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <DesignationCategoryDef>
+    <defName>Rimefeller</defName>
+    <label>Rimefeller</label>
+    <description>Things for oil and plastic production.</description>
+    <order>10</order>
+    <specialDesignatorClasses>
+      <li>Designator_Cancel</li>
+      <li>Designator_Deconstruct</li>
+      <li>Rimefeller.Designator_CleanOil</li>
+      <li>Rimefeller.Designator_RemovePipeline</li>
+    </specialDesignatorClasses>
+  </DesignationCategoryDef>
+ 
+</Defs>

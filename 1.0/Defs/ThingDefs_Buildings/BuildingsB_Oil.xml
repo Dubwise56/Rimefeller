@@ -343,10 +343,6 @@
     <inspectorTabs>
       <li>Rimefeller.ITab_ResourceConsole</li>
     </inspectorTabs>
-    <building>
-      <workSpeedPenaltyOutdoors>true</workSpeedPenaltyOutdoors>
-      <workSpeedPenaltyTemperature>true</workSpeedPenaltyTemperature>
-    </building>
     <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>150</pathCost>

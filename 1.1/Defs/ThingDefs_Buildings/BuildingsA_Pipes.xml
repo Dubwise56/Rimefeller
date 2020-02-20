@@ -22,7 +22,7 @@
       <isInert>true</isInert>
       <isEdifice>false</isEdifice>
     </building>
-    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <altitudeLayer>Conduits</altitudeLayer>
     <passability>Standable</passability>
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>    
     <statBases>
@@ -158,7 +158,6 @@
       <li Class="CompProperties_Explosive">
         <explosiveRadius>4.9</explosiveRadius>
         <explosiveDamageType>Flame</explosiveDamageType>
-        <startWickOnDamageTaken>Flame</startWickOnDamageTaken>
         <startWickHitPointsPercent>0.8</startWickHitPointsPercent>
         <destroyThingOnExplosionSize>1</destroyThingOnExplosionSize>
         <preExplosionSpawnThingDef>Filth_NapalmTrail</preExplosionSpawnThingDef>

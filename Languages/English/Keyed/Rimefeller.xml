@@ -57,7 +57,6 @@
 
   <DisableColoursDesc>This will remove the coloured versions of materials from the game. Any saved things will be changed to the plain version when you load the save</DisableColoursDesc>
   <DisableColours>Disable Colours (Restart required)</DisableColours>
-  <DisableColoursTip>This will remove the coloured versions of materials from the game. Any saved things will be changed to the plain version when you load the save</DisableColoursTip>
 
   <RequiresDeepScanner>A working Ground-penetrating scanner is needed to see deep oil reservoirs</RequiresDeepScanner>
   <RequiresResourceConsole>A working Resource console is needed to see oil reservoirs</RequiresResourceConsole>

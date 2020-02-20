@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="ChemfuelHopperBase" ParentName="BuildingBase" Abstract="true">
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
+    <thingClass>Building_Storage</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/Hopper</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <damageData>
+        <rect>(0.05,0.1,0.9,0.9)</rect>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.5</fillPercent>
+    <pathCost>70</pathCost>
+    <canOverlapZones>false</canOverlapZones>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+    </inspectorTabs>
+    <castEdgeShadows>true</castEdgeShadows>
+    <statBases>
+      <WorkToBuild>300</WorkToBuild>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>4</Flammability>
+      <Mass>4</Mass>
+    </statBases>
+    <costList>
+      <Steel>15</Steel>
+    </costList>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <designationCategory>Rimefeller</designationCategory>
+    <surfaceType>Item</surfaceType>
+    <constructEffect>ConstructMetal</constructEffect>
+  </ThingDef>
+  
+  <ThingDef ParentName="ChemfuelHopperBase">
+    <defName>ChemfuelHopper</defName>
+    <label>chemfuel pump</label>
+    <description>Pumps chemfuel from chemfuel storage tanks into usable/sellable cans.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/fuelpump</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <building>
+      <fixedStorageSettings>
+        <priority>Important</priority>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+    <comps>
+      <li Class="Rimefeller.CompProperties_FuelPump">
+        <pumpRate>25</pumpRate>
+      </li>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>50</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Breakdownable"/>
+    </comps>
+    <researchPrerequisites>
+      <li>ChemfuelRefining</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="ChemfuelHopperBase">
+    <defName>ChemfuelSiphon</defName>
+    <label>chemfuel siphon</label>
+    <description>Siphons chemfuel from cans into chemfuel storage tanks.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/fuelsiphon</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <building>
+      <fixedStorageSettings>
+        <priority>Important</priority>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <priority>Important</priority>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+    <comps>
+      <li Class="Rimefeller.CompProperties_Siphon">
+      </li>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>50</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Breakdownable"/>
+    </comps>
+    <researchPrerequisites>
+      <li>ChemfuelRefining</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="ChemfuelHopperBase">
+    <defName>RefineryLoadingBay</defName>
+    <label>Refinery unloading bay</label>
+    <description>Bay required by refineries to unload product.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/loadbay</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <tickerType>Never</tickerType>
+    <building>
+      <fixedStorageSettings>
+        <filter>
+          <thingDefs>
+            <li>Napalm</li>
+            <li>Synthamide</li>
+            <li>Neutroamine</li>
+            <li>Synthread</li>
+            <li>Hyperweave</li>
+          </thingDefs>
+          <categories>
+            <li>Synthylene</li>
+            <li>FiberComposite</li>
+          </categories>
+        </filter>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <filter>
+          <thingDefs>
+            <li>Napalm</li>
+            <li>Synthamide</li>
+            <li>Neutroamine</li>
+            <li>Synthread</li>
+            <li>Hyperweave</li>
+          </thingDefs>
+          <categories>
+            <li>Synthylene</li>
+            <li>FiberComposite</li>
+          </categories>
+        </filter>
+        <priority>Low</priority>
+      </defaultStorageSettings>
+    </building>
+    <researchPrerequisites>
+      <li>SynthyleneProduction</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+
+
+
+
+
+
+
+
+
+  <ThingDef Name="RefineryBase" ParentName="BasedRimefellerMom" Abstract="True">
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/SynthyleneRefinery</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(4,4)</drawSize>
+    </graphicData>
+    <category>Building</category>
+    <tickerType>Normal</tickerType>
+    <canOverlapZones>false</canOverlapZones>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <blockWind>false</blockWind>
+    <castEdgeShadows>false</castEdgeShadows>
+    <pathCost>60</pathCost>
+    <size>(3,3)</size>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <WorkToBuild>20000</WorkToBuild>
+      <Flammability>4.0</Flammability>
+      <Beauty>-12</Beauty>
+      <Cleanliness>-100</Cleanliness>
+      <Mass>40</Mass>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Breakdownable"/>
+
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>6</heatPerSecond>
+      </li>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>8</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+        <destroyThingOnExplosionSize>2</destroyThingOnExplosionSize>
+        <startWickHitPointsPercent>0.333</startWickHitPointsPercent>
+        <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+        <preExplosionSpawnChance>1</preExplosionSpawnChance>
+        <wickTicks>
+          <min>70</min>
+          <max>150</max>
+        </wickTicks>
+      </li>
+    </comps>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+  </ThingDef>
+
+
+
+
+  
+
+  <ThingDef ParentName="RefineryBase">
+    <defName>SynthyleneRefiner</defName>
+    <label>Synthylene Refiner</label>
+    <description>Processes chemfuel into synthylene with a selection of colours, synthylene can be used as a generic building material and as an ingredient for components.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/SynthyleneRefinery</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(4,4)</drawSize>
+    </graphicData>
+    <costList>
+      <Steel>150</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>1000</basePowerConsumption>
+      </li>
+      <li Class="Rimefeller.CompProperties_Refinery">       
+        <compClass>Rimefeller.CompRefinerySynthylene</compClass>
+        <Product>Synthylene</Product>
+        <StackSize>20</StackSize>
+        <BufferSize>40</BufferSize>
+        <ConsumeRate>1.5</ConsumeRate>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>SynthyleneProduction</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+
+  <ThingDef ParentName="RefineryBase">
+    <defName>NapalmRefiner</defName>
+    <label>Napalm Refiner</label>
+    <description>Processes chemfuel into napalm, a highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/NapalmRefinery</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(4,4)</drawSize>
+    </graphicData>
+    <costList>
+      <Steel>150</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>1000</basePowerConsumption>
+      </li>
+      <li Class="Rimefeller.CompProperties_Refinery">
+        <compClass>Rimefeller.CompRefineryNapalm</compClass>
+        <Product>Napalm</Product>
+        <StackSize>20</StackSize>
+        <BufferSize>50</BufferSize>
+        <ConsumeRate>1.5</ConsumeRate>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>Napalm</li>
+    </researchPrerequisites>
+  </ThingDef>
+  
+
+  <ThingDef ParentName="RefineryBase">
+    <defName>SynthreadRefiner</defName>
+    <label>Synthread Refiner</label>
+    <description>Processes chemfuel into synthread, a synthetic fibre for clothing</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <costList>
+      <Steel>150</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>1000</basePowerConsumption>
+      </li>
+      <li Class="Rimefeller.CompProperties_Refinery">
+        <compClass>Rimefeller.CompRefineryThreader</compClass>
+        <Product>Synthread</Product>
+        <StackSize>20</StackSize>
+        <BufferSize>60</BufferSize>
+        <ConsumeRate>0.5</ConsumeRate>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>SynthreadProduction</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="RefineryBase">
+    <defName>SynthamideRefiner</defName>
+    <label>Synthamide Refiner</label>
+    <description>Processes chemfuel into Synthamide weave, a high strength synthetic fibre</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <costList>
+      <Steel>175</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>2000</basePowerConsumption>
+      </li>
+      <li Class="Rimefeller.CompProperties_Refinery">
+        <compClass>Rimefeller.CompRefineryThreader</compClass>
+        <Product>Synthamide</Product>
+        <StackSize>20</StackSize>
+        <BufferSize>60</BufferSize>
+        <ConsumeRate>0.5</ConsumeRate>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>SynthamideProduction</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="RefineryBase">
+    <defName>HyperweaveRefiner</defName>
+    <label>Hyperweave Refiner</label>
+    <description>Processes chemfuel into Hyperweave, a high strength synthetic fibre</description>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <costList>
+      <Steel>250</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+      <ComponentSpacer>3</ComponentSpacer>
+    </costList>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>3000</basePowerConsumption>
+      </li>
+      <li Class="Rimefeller.CompProperties_Refinery">
+        <compClass>Rimefeller.CompRefineryThreader</compClass>
+        <Product>Hyperweave</Product>
+        <StackSize>20</StackSize>
+        <BufferSize>220</BufferSize>
+        <ConsumeRate>0.5</ConsumeRate>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>HyperweaveProduction</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="RefineryBase">
+    <defName>NeutroamineRefiner</defName>
+    <label>Neutroamine Refiner</label>
+    <description>Processes chemfuel into Neutroamine for making medicine</description>
+    <size>(2,2)</size>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/neutroRefinery</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <costList>
+      <Steel>200</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+      <ComponentSpacer>2</ComponentSpacer>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>2500</basePowerConsumption>
+      </li>
+      <li Class="Rimefeller.CompProperties_Refinery">
+        <compClass>Rimefeller.CompRefineryNeutro</compClass>
+        <Product>Neutroamine</Product>
+        <StackSize>1</StackSize>
+        <BufferSize>4</BufferSize>
+        <ConsumeRate>0.1</ConsumeRate>
+      </li>
+    </comps>
+    <researchPrerequisites>
+      <li>NeutroamineProduction</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="BasedRimefellerMom">
+    <defName>Autoclave</defName>
+    <label>Autoclave</label>
+    <description>Bakes uncured plasteel or synthamide composite into the final product</description>
+    <thingClass>Rimefeller.Building_Autoclave</thingClass>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>Oil</li>
+    </thingCategories>
+    <graphicData>
+      <texPath>Rimefeller/Things/Building/Autoclave</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <category>Building</category>
+    <tickerType>Normal</tickerType>
+    <canOverlapZones>false</canOverlapZones>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <blockWind>false</blockWind>
+    <castEdgeShadows>false</castEdgeShadows>
+    <pathCost>60</pathCost>
+    <size>(2,2)</size>
+    <costList>
+      <Steel>150</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+      <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>15000</WorkToBuild>
+      <Flammability>0.2</Flammability>
+      <Beauty>-20</Beauty>
+      <Mass>40</Mass>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>2000</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Breakdownable"/>
+    </comps>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <researchPrerequisites>
+      <li>SynthamideCompositeProduction</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+  </ThingDef>
+
+
+</Defs>

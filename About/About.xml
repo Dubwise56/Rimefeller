@@ -4,8 +4,10 @@
 	<name>Rimefeller</name>
 	<author>Dubwise</author>
 	<url></url>
-	  <supportedVersions>
+  <supportedVersions>
     <li>1.0</li>
+    <li>1.1</li>
   </supportedVersions>
-	<description>Drill for oil, process into chemfuel, plastic, composites, napalm. 1.2.694\n\nMultiplayer ready</description>
+  <packageId>Dubwise.Rimefeller</packageId>
+	<description>Drill for oil, process into chemfuel, plastic, composites, napalm.\n\nMultiplayer ready</description>
 </ModMetaData>
