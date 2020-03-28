@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Leicht entflammbares klebriges Gelee, das in Brandbomben verwendet wird und aus mit Synthylen verdicktem Kraftstoff besteht.</Napalm.description>
+  
+  <Shell_Napalm.label>Napalm Granate</Shell_Napalm.label>
+  <Shell_Napalm.description>Eine Granate, gefüllt mit brennbarem Gel und einer kleinen Sprengladung. Bei Explosion entfachen Brände. Kann aus Mörsern abgefeuert werden. Explodiert bei Beschädigung.</Shell_Napalm.description>
+  <Bullet_Shell_Napalm.label>Obus de Napalm</Bullet_Shell_Napalm.label>
+   
+  <OilBarrel.label>Ölfass</OilBarrel.label>
+  <OilBarrel.description>Ein mit Rohöl gefülltes Fass. Kann geleert, verbrannt oder weiterverarbeitet werden.</OilBarrel.description>
+
+  <UncuredPlasteel.label>Ungehärtetes Plastahl</UncuredPlasteel.label>
+  <UncuredPlasteel.description>Ungehärteter Plastahl. Muss in einer Druckkamer ausgehärtet werden.</UncuredPlasteel.description>
+
+  <Synthamide.label>Synthamid</Synthamide.label>
+  <Synthamide.description>Synthamidfasern sind starke, hitzebeständige Kunstfasern. Sie können verwendet werden, um sehr haltbare Kleidung oder starke Verbundwerkstoffe herzustellen.</Synthamide.description>
+  <Synthamide.stuffProps.stuffAdjective>Synthamide</Synthamide.stuffProps.stuffAdjective>
+
+  <Synthylene.label>Synthylen</Synthylene.label>
+  <Synthylene.description>Synthetischer Baustoff</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>Synthylene</Synthylene.stuffProps.stuffAdjective>
+
+  <SynthyleneWhite.label>Synthylen Weiß</SynthyleneWhite.label>
+  <SynthyleneWhite.description>Ein synthetischer Baustoff.</SynthyleneWhite.description>
+  <SynthyleneWhite.stuffProps.stuffAdjective>Synthylene Weiß</SynthyleneWhite.stuffProps.stuffAdjective>
+
+  <SynthyleneBlack.label>Synthylen Schwarz</SynthyleneBlack.label>
+  <SynthyleneBlack.description>Ein synthetischer Baustoff.</SynthyleneBlack.description>
+  <SynthyleneBlack.stuffProps.stuffAdjective>Synthylene Schwarz</SynthyleneBlack.stuffProps.stuffAdjective>
+
+  <SynthyleneGreen.label>Synthylen Grün</SynthyleneGreen.label>
+  <SynthyleneGreen.description>Ein synthetischer Baustoff.</SynthyleneGreen.description>
+  <SynthyleneGreen.stuffProps.stuffAdjective>Synthylene Grün</SynthyleneGreen.stuffProps.stuffAdjective>
+
+  <SynthyleneBlue.label>Synthylen Blau</SynthyleneBlue.label>
+  <SynthyleneBlue.description>Ein synthetischer Baustoff.</SynthyleneBlue.description>
+  <SynthyleneBlue.stuffProps.stuffAdjective>Synthylene Blau</SynthyleneBlue.stuffProps.stuffAdjective>
+
+  <SynthyleneViolet.label>Synthylen Lila</SynthyleneViolet.label>
+  <SynthyleneViolet.description>Ein synthetischer Baustoff.</SynthyleneViolet.description>
+  <SynthyleneViolet.stuffProps.stuffAdjective>Synthylene Lila</SynthyleneViolet.stuffProps.stuffAdjective>
+
+  <SynthyleneOrange.label>Synthylen Orange</SynthyleneOrange.label>
+  <SynthyleneOrange.description>Ein synthetischer Baustoff.</SynthyleneOrange.description>
+  <SynthyleneOrange.stuffProps.stuffAdjective>Synthylene Orange</SynthyleneOrange.stuffProps.stuffAdjective>
+
+  <SynthyleneYellow.label>Synthylen Gelb</SynthyleneYellow.label>
+  <SynthyleneYellow.description>Ein synthetischer Baustoff.</SynthyleneYellow.description>
+  <SynthyleneYellow.stuffProps.stuffAdjective>Synthylene Gelb</SynthyleneYellow.stuffProps.stuffAdjective>
+
+  <SynthyleneRed.label>Synthylen Rot</SynthyleneRed.label>
+  <SynthyleneRed.description>Ein synthetischer Baustoff.</SynthyleneRed.description>
+  <SynthyleneRed.stuffProps.stuffAdjective>Synthylene Rot</SynthyleneRed.stuffProps.stuffAdjective>
+
+  <SynthyleneOlive.label>Synthylen Olive</SynthyleneOlive.label>
+  <SynthyleneOlive.description>Ein synthetischer Baustoff.</SynthyleneOlive.description>
+  <SynthyleneOlive.stuffProps.stuffAdjective>Synthylene Olive</SynthyleneOlive.stuffProps.stuffAdjective>
+
+  <SynthyleneSand.label>Synthylen Sandfarben</SynthyleneSand.label>
+  <SynthyleneSand.description>Ein synthetischer Baustoff.</SynthyleneSand.description>
+  <SynthyleneSand.stuffProps.stuffAdjective>Synthylene Sandfarben</SynthyleneSand.stuffProps.stuffAdjective>
+
+  <UncuredComposite.label>Ungehärtetes Synthamidverbundsmaterial</UncuredComposite.label>
+  <UncuredComposite.description>Ungehärtete Synthamid-Verbundswerkstoffe. Erfordert eine Aushärtung in einer Druckkamer.</UncuredComposite.description>
+
+  <FiberComposite.label>Synthamidverbundsmaterial</FiberComposite.label>
+  <FiberComposite.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>Synthamide composite</FiberComposite.stuffProps.stuffAdjective>
+
+  <FiberCompositeWhite.label>Synthamidverbundsmaterial Weiß </FiberCompositeWhite.label>
+  <FiberCompositeWhite.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeWhite.description>
+  <FiberCompositeWhite.stuffProps.stuffAdjective>Synthamidverbundsmaterial Weiß</FiberCompositeWhite.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlack.label>Synthamidverbundsmaterial Schwarz</FiberCompositeBlack.label>
+  <FiberCompositeBlack.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeBlack.description>
+  <FiberCompositeBlack.stuffProps.stuffAdjective>Synthamidverbundsmaterial Schwarz</FiberCompositeBlack.stuffProps.stuffAdjective>
+
+  <FiberCompositeGreen.label>Synthamidverbundsmaterial Grün</FiberCompositeGreen.label>
+  <FiberCompositeGreen.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeGreen.description>
+  <FiberCompositeGreen.stuffProps.stuffAdjective>Synthamidverbundsmaterial Grün</FiberCompositeGreen.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlue.label>Synthamidverbundsmaterial Blau</FiberCompositeBlue.label>
+  <FiberCompositeBlue.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeBlue.description>
+  <FiberCompositeBlue.stuffProps.stuffAdjective>Synthamidverbundsmaterial Blau</FiberCompositeBlue.stuffProps.stuffAdjective>
+
+  <FiberCompositeViolet.label>Synthamidverbundsmaterial Lila </FiberCompositeViolet.label>
+  <FiberCompositeViolet.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeViolet.description>
+  <FiberCompositeViolet.stuffProps.stuffAdjective>Synthamidverbundsmaterial Lila</FiberCompositeViolet.stuffProps.stuffAdjective>
+
+  <FiberCompositeOrange.label>Synthamidverbundsmaterial Orange</FiberCompositeOrange.label>
+  <FiberCompositeOrange.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeOrange.description>
+  <FiberCompositeOrange.stuffProps.stuffAdjective>Synthamidverbundsmaterial Orange</FiberCompositeOrange.stuffProps.stuffAdjective>
+
+  <FiberCompositeYellow.label>Synthamidverbundsmaterial Gelb</FiberCompositeYellow.label>
+  <FiberCompositeYellow.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeYellow.description>
+  <FiberCompositeYellow.stuffProps.stuffAdjective>Synthamidverbundsmaterial Gelb</FiberCompositeYellow.stuffProps.stuffAdjective>
+
+  <FiberCompositeRed.label>Synthamidverbundsmaterial Rot</FiberCompositeRed.label>
+  <FiberCompositeRed.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeRed.description>
+  <FiberCompositeRed.stuffProps.stuffAdjective>Synthamidverbundsmaterial Rot</FiberCompositeRed.stuffProps.stuffAdjective>
+
+  <FiberCompositeOlive.label>Synthamidverbundsmaterial Olive</FiberCompositeOlive.label>
+  <FiberCompositeOlive.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeOlive.description>
+  <FiberCompositeOlive.stuffProps.stuffAdjective>Synthamidverbundsmaterial Olive</FiberCompositeOlive.stuffProps.stuffAdjective>
+
+  <FiberCompositeSand.label>Synthamidverbundsmaterial Sandfarben</FiberCompositeSand.label>
+  <FiberCompositeSand.description>Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</FiberCompositeSand.description>
+  <FiberCompositeSand.stuffProps.stuffAdjective>Synthamidverbundsmaterial Sandfarben</FiberCompositeSand.stuffProps.stuffAdjective>
+  
+</LanguageData>

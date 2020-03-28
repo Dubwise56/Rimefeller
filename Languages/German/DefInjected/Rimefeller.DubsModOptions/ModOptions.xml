@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilPipeVisibility.label>Sichtbare Rohre</OilPipeVisibility.label>
+  <OilPipeVisibility.options.1.label>Unter dem Boden versteckt</OilPipeVisibility.options.1.label>
+  <OilPipeVisibility.options.2.label>Immer sichtbar</OilPipeVisibility.options.2.label>
+  <OilPipeVisibility.options.3.label>Rohre am Boden sichtbar</OilPipeVisibility.options.3.label>
+  
+  <CrudeToFuelRatio.label>Verhältnis von Rohöl zu Kraftstoff</CrudeToFuelRatio.label>
+  <OilPumpCapacity.label>Ölquellenkapazität</OilPumpCapacity.label>
+  <OilRegenRate.label>Wiederherstellungsrate von Ölvorkommen</OilRegenRate.label>
+  <OilGridCapacity.label>Ölverschmutzungsrate pro Zelle</OilGridCapacity.label>
+  
+</LanguageData>

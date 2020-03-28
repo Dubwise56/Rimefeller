@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CleanOil.reportString>Entfernt Ölflecken</CleanOil.reportString>
+  <SuperviseDrilling.reportString>Überwacht die Bohrarbeiten.</SuperviseDrilling.reportString>
+  <EmptyAutoclave.reportString>Leert die Druckkamer.</EmptyAutoclave.reportString>
+  <FillAutoclave.reportString>Füllt die Drukkammer auf.</FillAutoclave.reportString>
+  <OperateResourceConsole.reportString>Arbeitet an der Ressourcen-Steuerkonsole.</OperateResourceConsole.reportString>
+  
+</LanguageData>

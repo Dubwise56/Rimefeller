@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilSpill.label>Ölverschmutzung</OilSpill.label>
+  <OilSpill.letterlabel>Ölverschmutzung</OilSpill.letterlabel>
+  <OilSpill.letterLabel>Ölverschmutzung</OilSpill.letterLabel>
+  <OilSpill.letterText>Ein Leck in der Ölleitung hat Öl verschüttet. Öl kann mit dem Befehl "Öl entfernen" gereinigt werden.</OilSpill.letterText>
+
+  <DrillQuake.label>Beben</DrillQuake.label>
+  <DrillQuake.description>Beben</DrillQuake.description>
+  <DrillQuake.letterLabel>Beben</DrillQuake.letterLabel>
+  <DrillQuake.letterText>Übermäßige Ölbohrungen haben zu Bodeninstabilität geführt</DrillQuake.letterText>
+    
+</LanguageData>

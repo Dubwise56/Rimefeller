@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilDrilling.label>Ölbohrungen</OilDrilling.label>
+  <OilDrilling.description>Das Bohren nach Öl ist der erste Schritt um "das Schwarze Gold" zu gewinnen.</OilDrilling.description>
+
+  <DeepOilWells.label>Tiefe Ölbohrungen</DeepOilWells.label>
+  <DeepOilWells.description>Bohren Sie tiefere Bohrlöcher, um Zugang zu neuen, größeren Ölreservoirs zu erhalten.</DeepOilWells.description>
+
+  <ChemfuelRefining.label>Kraftstoffraffinerie</ChemfuelRefining.label>
+  <ChemfuelRefining.description>Raffiniere Rohöl zu flüssigem Chemokraftstoff, der in Tanks gelagert werden muss.</ChemfuelRefining.description>
+
+  <NeutroamineProduction.label>Neutroamin</NeutroamineProduction.label>
+  <NeutroamineProduction.description>Produziere Neutroamin aus flüssigem Kraftstoff, der zur Herstellung von Arzneimitteln und Drogen verwendet wird.</NeutroamineProduction.description>
+
+  <SynthyleneProduction.label>Synthylen</SynthyleneProduction.label>
+  <SynthyleneProduction.description>Produzieren Sie eines der generischen Baumaterialien mit vielen Variationen von Farben: Synthylen. Es wird aus raffinierten Kraftstoff gewonnen.</SynthyleneProduction.description>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Leicht entflammbares, klebriges Gelee für Brandbomben. Es bestehend aus flüssigem Kraftstoff, verdickt mit Synthylen.</Napalm.description>
+
+  <ArtificialFloors.label>Linoleum Boden</ArtificialFloors.label>
+  <ArtificialFloors.description>Herstellung von Linoleum aus Synthylen.</ArtificialFloors.description>
+
+  <SynthyleneComponents.label>Verbundwerkstoffe aus Synthylen</SynthyleneComponents.label>
+  <SynthyleneComponents.description>Erweiterne deine Stahlvorräte, indem du Komponente mit einer Mischung aus Synthylen und Stahl herstellen.</SynthyleneComponents.description>
+
+  <SynthreadProduction.label>Synthfasern</SynthreadProduction.label>
+  <SynthreadProduction.description>Herstellung von synthetischen Fasern auf Basis von flüssigem Kraftstoff.</SynthreadProduction.description>
+
+  <SynthamideProduction.label>Synthamid</SynthamideProduction.label>
+  <SynthamideProduction.description>Herstellung von Synthamidfasern. Synthamidfasern sind starke, hitzebeständige Kunstfasern. Sie können verwendet werden, um sehr haltbare Kleidung oder starke Verbundwerkstoffe herzustellen.</SynthamideProduction.description>
+  
+  <SynthamideCompositeProduction.label>Synthamidverbundsmaterial</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>Herstellung von Synthamidverbundsmaterial. Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</SynthamideCompositeProduction.description>
+  <SynthamideCompositeProduction.discoveredLetterTitle>Synthamidverbundsmaterial</SynthamideCompositeProduction.discoveredLetterTitle>
+  <SynthamideCompositeProduction.discoveredLetterText>Du kannst nun Synthamidverbundsmaterial produzieren! Stelle ungehärteten Verbundstoff auf dem Arbeitstisch her. Baue dazu einen Druckkammer und laden das ungehärteten Synthamidverbundsmaterial in die Druckkammer, um es zu härten.</SynthamideCompositeProduction.discoveredLetterText>
+  
+  <PlasteelProduction.label>Plastahl</PlasteelProduction.label>
+  <PlasteelProduction.description>Entdecke die Geheimnisse der Herstellung von Plastahl.</PlasteelProduction.description>
+  <PlasteelProduction.discoveredLetterTitle>Plastahl</PlasteelProduction.discoveredLetterTitle>
+  <PlasteelProduction.discoveredLetterText>Du kannst jetzt Plastahl produzieren! Stelle ungehärteten Plastahl auf einem Arbeitstisch her. Baue dazu einen Druckkammer und laden das ungehärteten Plastahl in die Druckkammer, um es zu härten. Stelle die Drukkamm dann auf den Plastahllpolymerisationsmodus.</PlasteelProduction.discoveredLetterText>
+  
+  <HyperweaveProduction.label>Hyperfasern</HyperweaveProduction.label>
+  <HyperweaveProduction.description>Entdecke die Geheimnisse der Herstellung von Hyperfasern.</HyperweaveProduction.description>
+
+</LanguageData>

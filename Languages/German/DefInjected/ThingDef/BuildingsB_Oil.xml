@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilWellHead.label>Ölbohrkopf</OilWellHead.label>
+  <OilWellHead.description>Eine verlassene Ölquelle. Wenn sie nicht verwendet wird, steigt der Druck mit der Zeit wieder voll an. Platzieren Sie einen neuen Ölbohrturm direkt über dem Brunnen, um ihn weiter zu verwenden</OilWellHead.description>
+  
+  <DeepOilWellHead.label>Tiefer Ölbohrkopf</DeepOilWellHead.label>
+  <DeepOilWellHead.description>Eine verlassene Ölquelle. Wenn sie nicht verwendet wird, steigt der Druck mit der Zeit wieder voll an. Platzieren Sie einen neuen Ölbohrturm direkt über dem Brunnen, um ihn weiter zu verwenden</DeepOilWellHead.description>
+
+  <OilWell.label>Ölbohrturm</OilWell.label>
+  <OilWell.description>Fördert Öl aus unterirdischen Ölquellen und benötigt eine Ressourcen Steuerkonsole, um Ölfelder anzuzeigen</OilWell.description>
+  <OilWell.comps.CompRefuelable.fuelLabel>Stahl für Rohre</OilWell.comps.CompRefuelable.fuelLabel>
+  <OilWell.comps.CompRefuelable.outOfFuelMessage>Kann nicht weiter gebohrt werden. Mehr Stahl für Rohre benötigt</OilWell.comps.CompRefuelable.outOfFuelMessage>
+  <OilWell.comps.CompRefuelable.fuelGizmoLabel>Stahllager für Rohre</OilWell.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <DeepOilWell.label>Tiefen Ölbohrturm</DeepOilWell.label>
+  <DeepOilWell.description>Fördert Öl aus tiefen unterirdischen Ölquellen und benötigt eine Ressourcen Steuerkonsole, um Ölfelder anzuzeigen</DeepOilWell.description>
+  <DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>Tankfüllstand</DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>
+  <DeepOilWell.comps.CompRefuelable.fuelLabel>Tankfüllstand</DeepOilWell.comps.CompRefuelable.fuelLabel>
+  <DeepOilWell.comps.CompRefuelable.outOfFuelMessage>Kann nicht weiter gebohrt werden. Mehr Stahl für Rohre benötigt</DeepOilWell.comps.CompRefuelable.outOfFuelMessage>
+  
+  <OilStorage.label>Roh-Öl-Tank</OilStorage.label>
+  <OilStorage.description>Speichert gefördertes Roh-Öl von Ölbohrtürmen</OilStorage.description>
+  <OilStorage.comps.CompStorageTank.GizmoLabel>Tankfüllstand</OilStorage.comps.CompStorageTank.GizmoLabel>
+  
+  <FuelStorage.label>Kraftstofftank</FuelStorage.label>
+  <FuelStorage.description>Speichert die von Roh-Ö-Crackern erzeugten Kraftstoffe, die zu angeschlossenen Kraftstofftanks gepumpt werden können</FuelStorage.description>
+  <FuelStorage.comps.CompStorageTank.GizmoLabel>Tankfüllstand</FuelStorage.comps.CompStorageTank.GizmoLabel>
+  
+  <ResourceConsole.label>Ressourcen Steuerkonsole</ResourceConsole.label>
+  <ResourceConsole.description>Für den Betrieb von Roh-Öl-Crackern und Raffinerien erforderliche Computerkonsole mit Besatzung</ResourceConsole.description>
+    
+  <CrudeCracker.label>Roh-Öl-Cracker</CrudeCracker.label>
+  <CrudeCracker.description>Spaltet Rohöl in Kraftstoff, das in angeschlossenen Kraftstofftanks gelagert werden muss. Produzierte Kraftstoffe werden in angeschlossene Kraftstofftanks gepumpt.</CrudeCracker.description>
+  <CrudeCracker.comps.CompCrudeCracker.GizmoLabel>Power-Modus</CrudeCracker.comps.CompCrudeCracker.GizmoLabel>
+  
+  <FuelPowerplant.label>Generator</FuelPowerplant.label>
+  <FuelPowerplant.description>Produziert Energie durch den Verbrauch von Kraftstoff. Muss mit Kraftstofftanks verbunden werden.</FuelPowerplant.description>
+  
+  <LargeFuelPowerplant.label>Großer Generator</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.description>Produziert große Mengen an Energie durch den Verbrauch von Kraftstoff. Muss mit Kraftstofftanks verbunden werden.</LargeFuelPowerplant.description>
+  
+</LanguageData>

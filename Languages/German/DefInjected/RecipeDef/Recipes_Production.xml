@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <Make_RefiningStub.label>RefiningStub</Make_RefiningStub.label>
+  <Make_RefiningStub.description>bah ...</Make_RefiningStub.description>
+  <Make_RefiningStub.jobString></Make_RefiningStub.jobString>
+
+  <Make_Napalm.label>Napalm herstellen</Make_Napalm.label>
+  <Make_Napalm.description>Stelle eine Charge Napalm her, indem chemischen Kraftstoff und Synthylen vermischt wird. </Make_Napalm.description>
+  <Make_Napalm.jobString>Mischt Napalm.</Make_Napalm.jobString>
+
+  <Make_ComponentIndustrialPlastic.label>Synthylenkomponente herstellen</Make_ComponentIndustrialPlastic.label>
+  <Make_ComponentIndustrialPlastic.description>Stelle Komponente her.</Make_ComponentIndustrialPlastic.description>
+  <Make_ComponentIndustrialPlastic.jobString>Fertigt Komponente</Make_ComponentIndustrialPlastic.jobString>
+
+  <Make_ComponentIndustrialPlasticX5.label>Fertige Synthylenkomponente x5</Make_ComponentIndustrialPlasticX5.label>
+  <Make_ComponentIndustrialPlasticX5.description>Stellt Komponente her.</Make_ComponentIndustrialPlasticX5.description>
+  <Make_ComponentIndustrialPlasticX5.jobString>Fertigt Komponente.</Make_ComponentIndustrialPlasticX5.jobString>
+
+  <Make_PlasteelComposite.label>Plastahl herstellen</Make_PlasteelComposite.label>
+  <Make_PlasteelComposite.description>Stelle Plastahl her.</Make_PlasteelComposite.description>
+  <Make_PlasteelComposite.jobString>Fertigt Plastahl.</Make_PlasteelComposite.jobString>
+
+  <Make_SynthamideComposite.label>Fertige Synthamidverbundsstoff</Make_SynthamideComposite.label>
+  <Make_SynthamideComposite.description>Stelle Synthamidverbundsstoff her</Make_SynthamideComposite.description>
+  <Make_SynthamideComposite.jobString>Fertigt Synthamidverbundsstoff</Make_SynthamideComposite.jobString>
+
+</LanguageData>

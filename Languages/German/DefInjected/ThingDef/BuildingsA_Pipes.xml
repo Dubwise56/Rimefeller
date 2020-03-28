@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <Filth_OilSlick.label>Ölteppich</Filth_OilSlick.label>
+  <Filth_OilSlick.description>Eine Pfütze mit brennbarem Öl.</Filth_OilSlick.description>
+  <Filth_OilSlick.comps.CompUsable.useLabel>Entzünden</Filth_OilSlick.comps.CompUsable.useLabel>
+
+  <Filth_NapalmTrail.label>Napalm Spur</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>Eine Spur aus entflambaren Napalm</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.CompUsable.useLabel>Entzünden</Filth_NapalmTrail.comps.CompUsable.useLabel>
+  
+  <NapalmBomb.label>Napalmbombe</NapalmBomb.label>
+  <NapalmBomb.description>Eine Napalmbombe, Vorsicht: Stellen sie Löschtruppen bereit!</NapalmBomb.description>
+  <NapalmBomb.comps.CompUsable.useLabel>Zünden</NapalmBomb.comps.CompUsable.useLabel>
+
+  <SparkGrid.label>Funkengitter</SparkGrid.label>
+  <SparkGrid.description>Entzündet brennbare Gegenstände wie Napalm beim Einschalten.</SparkGrid.description>
+
+  <OilPipeline.label>Rohre</OilPipeline.label>
+  <OilPipeline.description>Ein Rohr zum Transport von Öl</OilPipeline.description>
+
+  <pipelineValve.label>Rohrleitungsventil</pipelineValve.label>
+  <pipelineValve.description>Ventielverbindung zwischen Rohrleitungen zum Öffnen oder Schließen</pipelineValve.description>
+
+
+</LanguageData>

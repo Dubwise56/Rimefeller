@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChemfuelHopper.label>Kraftstoffpumpe</ChemfuelHopper.label>
+  <ChemfuelHopper.description>Pumpt Kraftstoff aus Tanks in verwendbaren / verkaufsfähigen Kanister.</ChemfuelHopper.description>
+  
+  <ChemfuelSiphon.label>Kraftstoff Siphon</ChemfuelSiphon.label>
+  <ChemfuelSiphon.description>Ein Siphon zum Auffüllen von Kraftstofftanks, in dem Kraftstoff in Kanister umgefüllt werden.</ChemfuelSiphon.description>
+  
+  <RefineryLoadingBay.label>Raffinerie Entladebuchte</RefineryLoadingBay.label>
+  <RefineryLoadingBay.description>Entladezone von Raffinerien, zum Entladen der Produkte erforderlich.</RefineryLoadingBay.description>
+  
+  <SynthyleneRefiner.label>Synthylen Raffinerie</SynthyleneRefiner.label>
+  <SynthyleneRefiner.description>Wandelt Kraftstoff mit einer Auswahl an verschiedenen Farben in Synthylen um. Synthylen kann als generischer Baustoff und als Bestandteil für Komponenten verwendet werden.</SynthyleneRefiner.description>
+  
+  <NapalmRefiner.label>Napalm Raffinerie</NapalmRefiner.label>
+  <NapalmRefiner.description>Wandelt Kraftstoff in Napalm um, ein leicht entzündliches klebriges Gelee, das in Brandbomben verwendet wird und aus mit Synthylen verdicktem Kraftstoffpulver besteht.</NapalmRefiner.description>
+  
+  <SynthreadRefiner.label>Synthfasern Raffinerie</SynthreadRefiner.label>
+  <SynthreadRefiner.description>Wandelt Kraftstoff in ein synthetisches Material um, eine synthetische Faser für Kleidung</SynthreadRefiner.description>
+  
+  <SynthamideRefiner.label>Synthamid Raffinerie</SynthamideRefiner.label>
+  <SynthamideRefiner.description>Wandelt Kraftstoff in Synthamid um, eine sehr stark belastbare synthetische Faser</SynthamideRefiner.description>
+    
+  <HyperweaveRefiner.label>Hyperfasern Raffinerie</HyperweaveRefiner.label>
+  <HyperweaveRefiner.description>Wandelt Kraftstoff in Hyperfasern um, eine extrem belastbare synthetische Faser</HyperweaveRefiner.description>
+  
+  <NeutroamineRefiner.label>Neutramin Raffinerie</NeutroamineRefiner.label>
+  <NeutroamineRefiner.description>Wandelt Kraftstoff in Neutroamin zur Herstellung von Arzneimitteln um</NeutroamineRefiner.description>
+  
+  <Autoclave.label>Druckkammer</Autoclave.label>
+  <Autoclave.description>Durch thermische Behandlung wird in diesem Autoklav ungehärtetes Palastahl gehärtet oder Synthamid-Komposit zum Endprodukt verarbeitet.</Autoclave.description>
+  
+
+</LanguageData>

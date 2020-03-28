@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GenerateFloorsDesc>Erstellt Synthylen-Bodenstile aus anderen Fußböden</GenerateFloorsDesc>
+  <GenerateFloors>Erstellt Fußböden</GenerateFloors>
+  <CommandDesignateOpenCloseValveLabelRimefeller>Ventil umschalten</CommandDesignateOpenCloseValveLabelRimefeller>
+  <CommandDesignateOpenCloseValveDescRimefeller>Öffnet oder schließt das Ventil</CommandDesignateOpenCloseValveDescRimefeller>
+  <ValveClosedRimefeller>Ventil geschlossen</ValveClosedRimefeller>
+  
+  <NoUncuredPlasteel>Kein ungehärtetes Plastahl</NoUncuredPlasteel>
+  <NoUncuredSynthamide>Keine Synthamide</NoUncuredSynthamide>
+  <CantModeAutoclave>Der Modus kann während des Aushärtenungsprozesses nicht geändert werden</CantModeAutoclave>
+  <CuringTime>Aushärtezeit: {0}</CuringTime>
+  
+  <PickCompositeColour>Wähle eine Farbe aus</PickCompositeColour>
+  <PickCompositeColourDesc>Wähle die Farbe des ausgehärteten Synthamid-Komposits</PickCompositeColourDesc>
+  <PickSynthyleneColour>Wähle die Synthylen Farbe</PickSynthyleneColour>
+  <PickSynthyleneColourDesc>Wähle die Synthylen Farbe</PickSynthyleneColourDesc>
+  
+  <CurePlasteel>Plastahl aushärten</CurePlasteel>
+  <CureComposite>Komposit aushärten</CureComposite>
+  <CommandCompositeModeDesc>Wechsel zwischen aushärten von Plastahl oder Komposit inerhalb dieses Druckkammer</CommandCompositeModeDesc>
+
+  <FuelStorage>Kraftstofftank: {0} / {1}L</FuelStorage>
+  <TotalFuelStorage>Kraftstoffspeicher in der Rohrleitungen: {0}L</TotalFuelStorage>
+
+  <DrillingPhase>Ölquelle bohren</DrillingPhase>
+  <DrillingPhaseDesc>Der Ölbohrturm wurde aufgebaut, aber die Quelle muss noch angebohrt werden.\n\nA Kolonisten mit Konstruktionsfähigkeiten müssen den Bohrvorgang überwachen, bis er abgeschlossen ist.\n\Bis zu 3 Kolonisten können die Bohrungen gleichzeitig überwachen, um den Prozess zu beschleunigen\n\nFortschritt: {0}</DrillingPhaseDesc>
+  
+  <OilStorage>Öltank: {0} / {1}L</OilStorage>
+  <WellPressure>Ölbohrungsdruck: x{0}</WellPressure>
+  <OilWellCapacity>Ölquellenkapazität: {0} L/day</OilWellCapacity>
+  <TotalOilStorage>Ölspeicher in der Rohrleitungen: {0} L ({1})</TotalOilStorage>
+  <PipedOilPumpCapacity>Leitungskapazität: {0} L/day</PipedOilPumpCapacity>
+  
+  <DrillingProgress>Bohrfortschritt: {0}</DrillingProgress>
+
+  <CleanOilSpill>Verschüttetes Material entfernen</CleanOilSpill>
+  <CleanOilSpillDesc>Säubern von Ölverschmutzungen oder Napalmpfade</CleanOilSpillDesc>
+  <DesignatorRemovePipeline>Rohrleitungen abreißen</DesignatorRemovePipeline>
+  <DesignatorRemovePipelineDesc>Abreißen von Ölrohrleitungen</DesignatorRemovePipelineDesc>
+
+  <PlaceDirectlyOverWell>Zu nah an einen bestehenden Ölbohrturm, platzieren es direkt über einer unbenutzten Ölquelle, um wieder darauf zuzugreifen zu können</PlaceDirectlyOverWell>
+
+  <FuelPowerplantUsage>Kraftstoffverbrauch: {0} L/pro Tag</FuelPowerplantUsage>
+
+  <CuringFailed>Die Aushärtung schlug aufgrund eines Stromausfalls fehl</CuringFailed>
+
+  <DrainStorageTank>Tank entleeren</DrainStorageTank>
+  <DrainStorageTankDesc>Inhalt des Tankes leeren um andere verfügbahre, angeschlossene Tanks zu füllen</DrainStorageTankDesc>
+
+  <RaiseRefinerPower>Leistung steigern</RaiseRefinerPower>
+  <LowerRefinerPower>Leistung verringern</LowerRefinerPower>
+  <LowerRefinerPowerDesc>Verringert die Leistung der Raffinerie, um weniger herzustellen</LowerRefinerPowerDesc>
+  <RaiseRefinerPowerDesc>Erhöht die Leistung der Raffinerie, um mehr herzustellen</RaiseRefinerPowerDesc>
+
+  <NoRefinerNeedsWork>Keine angeschlossenen Raffinerien oder Roh-Öl-Cracker bereit für die Arbeit</NoRefinerNeedsWork>
+
+  <DisableColoursDesc>Hierdurch werden die farbigen Versionen von Materialien aus dem Spiel entfernt. Alle gespeicherten Dinge werden beim Laden des Speichers in die schlichte Version geändert</DisableColoursDesc>
+  <DisableColours>Farben deaktivieren (Erfordert Neustart)</DisableColours>
+
+  <RequiresDeepScanner>Ein funktionierender Scanner für unterirdische Ressourcen ist erforderlich, um tiefe Ölreservoirs zu erkennen</RequiresDeepScanner>
+  <RequiresResourceConsole>Eine funktionierende Ressourcen Steuerkonsole wird benötigt, um Ölreservoirs zu sehen</RequiresResourceConsole>
+
+  <AllowedCraftingSkill>Erlaubte Handwerksfertigkeit {0}</AllowedCraftingSkill>
+  <FuelStorageLimit>Kraftstoffproduktionslimit {0}</FuelStorageLimit>
+  <OilStorageLimit>Ölproduktionslimit {0}</OilStorageLimit>
+
+  <FuelStoragelimitTip>Die Roh-Öl-Cracker werden gestopt sobald sie das Maximum erreicht wurde. Wenn das Minimum unterschritten, wird beginnen sie wieder mit der Arbeit.\n\nTick to enable</FuelStoragelimitTip>
+  
+  <OilStoragelimitTip>Die Ölförderung wird gestopt sobald sie das Maximum erreicht wurde. Wenn das Minimum unterschritten wird, beginnen sie wieder mit der Arbeit.\n\nTick to enable</OilStoragelimitTip>
+
+  <FuelPumpLimit>Kraftstoffpumpen Limit</FuelPumpLimit>
+  <FuelPumpLimitTip>Kraftstoffpumpen arbeiten bis die Zielmenge erreicht ist. Zum Aktivieren ankreuzen</FuelPumpLimitTip>
+
+  <ResourceConsoleAlert>Ressourcen Steuerkonsole</ResourceConsoleAlert>
+  <ResourceConsoleAlertDesc>Öffnen Sie die Arbeits-Registerkarte in der Ressourcenkonsole, um die Einstellungen für die Öl- und Kraftstoffproduktion zu ändern und Aufträge für die Raffinerie hinzuzufügens</ResourceConsoleAlertDesc>
+
+  <ConsoleSettings>Console Settings</ConsoleSettings>
+  <GlobalSettings>Global Settings</GlobalSettings>
+</LanguageData>

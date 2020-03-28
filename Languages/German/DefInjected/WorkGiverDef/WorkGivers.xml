@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmptyAutoclave.label>Drukkamer Leeren</EmptyAutoclave.label>
+  <EmptyAutoclave.verb>Druckkamer muss entleert werden</EmptyAutoclave.verb>
+  <EmptyAutoclave.gerund>Druckkammer wird entleert</EmptyAutoclave.gerund>
+
+  <FillAutoclave.label>Druckkammer auffüllen</FillAutoclave.label>
+  <FillAutoclave.verb>Auffüllen der Drukkamer</FillAutoclave.verb>
+  <FillAutoclave.gerund>Druckkammer wird aufgefüllt</FillAutoclave.gerund>
+
+  <CleanOil.label>Öl entfernen</CleanOil.label>
+  <CleanOil.verb>Entfernung von Öl</CleanOil.verb>
+  <CleanOil.gerund>Öl wird entfernt</CleanOil.gerund>
+
+  <SuperviseDrilling.label>Bohren überwachen</SuperviseDrilling.label>
+  <SuperviseDrilling.verb>Beaufsichtigung des Bohrens</SuperviseDrilling.verb>
+  <SuperviseDrilling.gerund>Bohrung wird überwacht</SuperviseDrilling.gerund>
+
+  <OperateResourceConsole.label>Ressourcen-Steuerkonsole benutzen</OperateResourceConsole.label>
+  <OperateResourceConsole.verb>Die Ressourcen-Steuerkonsole benutzen</OperateResourceConsole.verb>
+  <OperateResourceConsole.gerund>Die Ressourcen-Steuerkonsole wird benutzt</OperateResourceConsole.gerund>
+
+</LanguageData>
