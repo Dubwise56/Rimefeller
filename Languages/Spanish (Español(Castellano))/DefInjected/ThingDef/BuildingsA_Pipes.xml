@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <Filth_OilSlick.label>Mancha de aceite</Filth_OilSlick.label>
+  <Filth_OilSlick.description>Un charco de aceite inflamable.</Filth_OilSlick.description>
+  <Filth_OilSlick.comps.CompUsable.useLabel>Encender</Filth_OilSlick.comps.CompUsable.useLabel>
+
+  <Filth_NapalmTrail.label>Sendero Napalm</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>Un sendero Napalm</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.CompUsable.useLabel>Encender</Filth_NapalmTrail.comps.CompUsable.useLabel>
+  
+  <NapalmBomb.label>Bomba de napalm</NapalmBomb.label>
+  <NapalmBomb.description>Una bomba de napalm, ten cuidado: Avisa a los bomberos !</NapalmBomb.description>
+  <NapalmBomb.comps.CompUsable.useLabel>Encender</NapalmBomb.comps.CompUsable.useLabel>
+
+  <SparkGrid.label>Rejilla de chispa</SparkGrid.label>
+  <SparkGrid.description>Enciende objetos inflamables como el napalm cuando se alimenta.</SparkGrid.description>
+
+  <OilPipeline.label>Tubería</OilPipeline.label>
+  <OilPipeline.description>Una tubería para transportar petróleo</OilPipeline.description>
+
+  <pipelineValve.label>válvula de tubería</pipelineValve.label>
+  <pipelineValve.description>Abrir o cerrar conexiones entre tuberías</pipelineValve.description>
+
+
+</LanguageData>

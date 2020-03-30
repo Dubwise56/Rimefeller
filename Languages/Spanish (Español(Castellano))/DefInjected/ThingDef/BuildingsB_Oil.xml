@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilWellHead.label>Cabeza de pozo de petróleo</OilWellHead.label>
+  <OilWellHead.description>Pozo petrolero abandonado, una vez utilizado, la presión volverá a su máximo con el tiempo. Coloque una torre de perforación directamente en el pozo para continuar usándolo</OilWellHead.description>
+  
+  <DeepOilWellHead.label>Cabeza profunda de pozo de petróleo</DeepOilWellHead.label>
+  <DeepOilWellHead.description>Pozo petrolero abandonado, una vez utilizado, la presión volverá a su máximo con el tiempo. Coloque una torre de perforación directamente en el pozo para continuar usándolo</DeepOilWellHead.description>
+
+  <OilWell.label>Pozo de petróleo</OilWell.label>
+  <OilWell.description>Extrae petróleo de tanques subterráneos, requiere una consola de recursos para ver la red de petróleo</OilWell.description>
+  <OilWell.comps.CompRefuelable.fuelLabel>Tubo de acero</OilWell.comps.CompRefuelable.fuelLabel>
+  <OilWell.comps.CompRefuelable.outOfFuelMessage>No se puede cavar: necesita más tubería</OilWell.comps.CompRefuelable.outOfFuelMessage>
+  <OilWell.comps.CompRefuelable.fuelGizmoLabel>Almacenamiento de tuberías</OilWell.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <DeepOilWell.label>Pozo de petróleo profundo</DeepOilWell.label>
+  <DeepOilWell.description>Eextrae petróleo de tanques subterráneos, requiere radar terrestre para ver la red de petróleo profunda</DeepOilWell.description>
+  <DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>Nivel del tanque</DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>
+  <DeepOilWell.comps.CompRefuelable.fuelLabel>Nivel del tanque</DeepOilWell.comps.CompRefuelable.fuelLabel>
+  <DeepOilWell.comps.CompRefuelable.outOfFuelMessage>No se puede cavar: necesita más tubería</DeepOilWell.comps.CompRefuelable.outOfFuelMessage>
+  
+  <OilStorage.label>Almacenamiento de petróleo crudo</OilStorage.label>
+  <OilStorage.description>Almacena petróleo crudo de pozos.</OilStorage.description>
+  <OilStorage.comps.CompStorageTank.GizmoLabel>Nivel del tanque</OilStorage.comps.CompStorageTank.GizmoLabel>
+  
+  <FuelStorage.label>Almacenamiento de combustible</FuelStorage.label>
+  <FuelStorage.description>Almacena combustibles químicos producidos por galletas crudas, que pueden bombearse a las tolvas de combustible químico conectadas</FuelStorage.description>
+  <FuelStorage.comps.CompStorageTank.GizmoLabel>Nivel del tanque</FuelStorage.comps.CompStorageTank.GizmoLabel>
+  
+  <ResourceConsole.label>Consola de recursos</ResourceConsole.label>
+  <ResourceConsole.description>Se requiere una consola de computadora con tripulación para operar Crackers y refinerías</ResourceConsole.description>
+    
+  <CrudeCracker.label>Cracker</CrudeCracker.label>
+  <CrudeCracker.description>Rompe el petróleo crudo en el combustible químico que debe almacenarse en tanques de combustible conectados, el combustible se puede bombear a las tolvas de combustible conectado</CrudeCracker.description>
+  <CrudeCracker.comps.CompCrudeCracker.GizmoLabel>Power mode</CrudeCracker.comps.CompCrudeCracker.GizmoLabel>
+  
+  <FuelPowerplant.label>Generador</FuelPowerplant.label>
+  <FuelPowerplant.description>Produce energía al consumir combustible químico. Debe ser canalizado a tanques de almacenamiento de combustible.</FuelPowerplant.description>
+  
+  <LargeFuelPowerplant.label>Generador grande</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.description>Produce energía al consumir combustible químico. Debe ser canalizado a tanques de almacenamiento de combusitble.</LargeFuelPowerplant.description>
+  
+</LanguageData>

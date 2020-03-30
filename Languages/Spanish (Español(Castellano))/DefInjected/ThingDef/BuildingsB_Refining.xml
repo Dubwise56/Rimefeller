@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChemfuelHopper.label>Bomba de combustible</ChemfuelHopper.label>
+  <ChemfuelHopper.description>Bombea CHemfuel de los tanques a bidones utilizables / vendibles.</ChemfuelHopper.description>
+  
+  <ChemfuelSiphon.label>Sifón Chemfuel</ChemfuelSiphon.label>
+  <ChemfuelSiphon.description>Sifona el combustible químico Jerrican en los tanques de almacenamiento de combustible.</ChemfuelSiphon.description>
+  
+  <RefineryLoadingBay.label>Bahía de descarga de refinería</RefineryLoadingBay.label>
+  <RefineryLoadingBay.description>Bahía requerida por las refinerías para descargar sus productos.</RefineryLoadingBay.description>
+  
+  <SynthyleneRefiner.label>Refinador de sinteno</SynthyleneRefiner.label>
+  <SynthyleneRefiner.description>Transforma el combustible químico en synthylene con una selección de colores. Synthylene se puede usar como material de construcción genérico y como ingrediente para componentes.</SynthyleneRefiner.description>
+  
+  <NapalmRefiner.label>Refinador de napalm</NapalmRefiner.label>
+  <NapalmRefiner.description>Transforma el combustible en napalm, una gelatina pegajosa altamente inflamable utilizada en bombas incendiarias, hecha de polvo de combustible espesado con sinileno..</NapalmRefiner.description>
+  
+  <SynthreadRefiner.label>Refinador sintético</SynthreadRefiner.label>
+  <SynthreadRefiner.description>Transforma el combustible en un material sintético, una fibra sintética para la ropa.</SynthreadRefiner.description>
+  
+  <SynthamideRefiner.label>Refinador Synthamide</SynthamideRefiner.label>
+  <SynthamideRefiner.description>Transforma el combustible en sintamida, una fibra sintética de alta resistencia.</SynthamideRefiner.description>
+    
+  <HyperweaveRefiner.label>Refinería Hyperfiber</HyperweaveRefiner.label>
+  <HyperweaveRefiner.description>Transforma el combustible en hiperfibra, una fibra sintética de alta resistencia.</HyperweaveRefiner.description>
+  
+  <NeutroamineRefiner.label>Refinador de neutroamina</NeutroamineRefiner.label>
+  <NeutroamineRefiner.description>Transforma Chemfuel en Neutroamina para la fabricación de medicamentos.</NeutroamineRefiner.description>
+  
+  <Autoclave.label>Autoclave</Autoclave.label>
+  <Autoclave.description>Cocine el plastaciero o la sintamida sin curar para obtener el producto final</Autoclave.description>
+  
+
+</LanguageData>

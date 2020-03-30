@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilDrilling.label>Perforación de petróleo</OilDrilling.label>
+  <OilDrilling.description>La perforación de pozos petroleros es el comienzo del oro negro.</OilDrilling.description>
+
+  <DeepOilWells.label>Pozos profundos</DeepOilWells.label>
+  <DeepOilWells.description>Perfore pozos más profundos para acceder a nuevos yacimientos de petróleo más grandes.</DeepOilWells.description>
+
+  <ChemfuelRefining.label>Refinamiento de Chemfuel</ChemfuelRefining.label>
+  <ChemfuelRefining.description>Refinación de petróleo crudo en combustible líquido, destinado al almacenamiento en tanques.</ChemfuelRefining.description>
+
+  <NeutroamineProduction.label>Neutroamina</NeutroamineProduction.label>
+  <NeutroamineProduction.description>Produce neutroamina a partir de combustible líquido, que se usa para fabricar medicamentos.</NeutroamineProduction.description>
+
+  <SynthyleneProduction.label>Sinileno</SynthyleneProduction.label>
+  <SynthyleneProduction.description>Produzca uno de los materiales de construcción genéricos: Sinileno. ¡Con múltiples colores disponibles! Se produce a partir de Chemfuel líquido.</SynthyleneProduction.description>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Jalea pegajosa altamente inflamable utilizada en bombas incendiarias, compuesta de combustible líquido, espesada con sinileno.</Napalm.description>
+
+  <ArtificialFloors.label>Lino</ArtificialFloors.label>
+  <ArtificialFloors.description>Produciendo lino sintecticamente.</ArtificialFloors.description>
+
+  <SynthyleneComponents.label>Componentes de sinteno</SynthyleneComponents.label>
+  <SynthyleneComponents.description>Expanda sus reservas de acero mediante la fabricación de componentes con una mezcla de sintetileno y acero.</SynthyleneComponents.description>
+
+  <SynthreadProduction.label>Sintético</SynthreadProduction.label>
+  <SynthreadProduction.description>Produciendo sintético a base de combustible líquido.</SynthreadProduction.description>
+
+  <SynthamideProduction.label>sintamida</SynthamideProduction.label>
+  <SynthamideProduction.description>Producen sintamida, las fibras de sintamida son resistentes al calor y fibras sintéticas robustas, se pueden usar para crear prendas muy duraderas.</SynthamideProduction.description>
+  
+  <SynthamideCompositeProduction.label>Compuesto de Synthamide</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>Produzca Synthamide Composite, un material compuesto ultra duro, de alta tecnología espacial, muy duradero y resistente al fuego, ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida..</SynthamideCompositeProduction.description>
+  <SynthamideCompositeProduction.discoveredLetterTitle>Compuesto de Synthamide</SynthamideCompositeProduction.discoveredLetterTitle>
+  <SynthamideCompositeProduction.discoveredLetterText>¡Ahora puede producir Synthamide compuesto! hacer un compuesto sin curar en un banco de fabricación, construir un autoclave y luego cargar el compuesto sin curar en el autoclave para curarlo.</SynthamideCompositeProduction.discoveredLetterText>
+  
+  <PlasteelProduction.label>Plastaciero</PlasteelProduction.label>
+  <PlasteelProduction.description>Descubre los secretos de hacer Plastaciero.</PlasteelProduction.description>
+  <PlasteelProduction.discoveredLetterTitle>Plastaciero</PlasteelProduction.discoveredLetterTitle>
+  <PlasteelProduction.discoveredLetterText>¡Ahora puedes producir Plastaciero! Haga plastaciero sin endurecer en un banco de fabricación, construya un autoclave y luego póngalo en el modo de polimerización de plasteel.</PlasteelProduction.discoveredLetterText>
+  
+  <HyperweaveProduction.label>Hiperfibra</HyperweaveProduction.label>
+  <HyperweaveProduction.description>Descubre los secretos de hacer hiperfibra.</HyperweaveProduction.description>
+
+</LanguageData>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Jalea pegajosa altamente inflamable utilizada en bombas incendiarias, compuesta de Chemfuel espesado con sinileno.</Napalm.description>
+  
+  <Shell_Napalm.label>Obus de Napalm</Shell_Napalm.label>
+  <Shell_Napalm.description>Una carcasa llena de gel inflamable y una pequeña carga explosiva. Los incendios comienzan cuando la explosión. Se puede disparar desde morteros. Explota cuando está dañado.</Shell_Napalm.description>
+  <Bullet_Shell_Napalm.label>Obus de Napalm</Bullet_Shell_Napalm.label>
+   
+  <OilBarrel.label>Barril de petróleo</OilBarrel.label>
+  <OilBarrel.description>Un barril lleno de petróleo crudo, puede ser vaciado, quemado o tratado.</OilBarrel.description>
+
+  <UncuredPlasteel.label>Plastaciero sin curar</UncuredPlasteel.label>
+  <UncuredPlasteel.description>Plastaciero sin curar, requiere endurecimiento en un autoclave.</UncuredPlasteel.description>
+
+  <Synthamide.label>Synthamide</Synthamide.label>
+  <Synthamide.description>Las fibras de Synthamide son fibras sintéticas fuertes y resistentes al calor. Se pueden usar para crear prendas muy duraderas o para crear materiales compuestos de alta resistencia.</Synthamide.description>
+  <Synthamide.stuffProps.stuffAdjective>Synthamide</Synthamide.stuffProps.stuffAdjective>
+
+  <Synthylene.label>Synthylene</Synthylene.label>
+  <Synthylene.description>Material de construcción sintético</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>Synthylene</Synthylene.stuffProps.stuffAdjective>
+
+  <SynthyleneWhite.label>Synthylene blanco</SynthyleneWhite.label>
+  <SynthyleneWhite.description>Un material de construcción sintético.</SynthyleneWhite.description>
+  <SynthyleneWhite.stuffProps.stuffAdjective>Synthylene blanco</SynthyleneWhite.stuffProps.stuffAdjective>
+
+  <SynthyleneBlack.label>Synthylene negro</SynthyleneBlack.label>
+  <SynthyleneBlack.description>Un material de construcción sintético.</SynthyleneBlack.description>
+  <SynthyleneBlack.stuffProps.stuffAdjective>Synthylene negro</SynthyleneBlack.stuffProps.stuffAdjective>
+
+  <SynthyleneGreen.label>Synthylene verde</SynthyleneGreen.label>
+  <SynthyleneGreen.description>Un material de construcción sintético.</SynthyleneGreen.description>
+  <SynthyleneGreen.stuffProps.stuffAdjective>Synthylen verde</SynthyleneGreen.stuffProps.stuffAdjective>
+
+  <SynthyleneBlue.label>Synthylene azul</SynthyleneBlue.label>
+  <SynthyleneBlue.description>Un material de construcción sintético.</SynthyleneBlue.description>
+  <SynthyleneBlue.stuffProps.stuffAdjective>Synthylene azul</SynthyleneBlue.stuffProps.stuffAdjective>
+
+  <SynthyleneViolet.label>Synthylene violeta</SynthyleneViolet.label>
+  <SynthyleneViolet.description>Un material de construcción sintético.</SynthyleneViolet.description>
+  <SynthyleneViolet.stuffProps.stuffAdjective>Synthylene violeta</SynthyleneViolet.stuffProps.stuffAdjective>
+
+  <SynthyleneOrange.label>Synthylene naranja</SynthyleneOrange.label>
+  <SynthyleneOrange.description>Un material de construcción sintético.</SynthyleneOrange.description>
+  <SynthyleneOrange.stuffProps.stuffAdjective>Synthylene naranja</SynthyleneOrange.stuffProps.stuffAdjective>
+
+  <SynthyleneYellow.label>Synthylene amarillo</SynthyleneYellow.label>
+  <SynthyleneYellow.description>Un material de construcción sintético.</SynthyleneYellow.description>
+  <SynthyleneYellow.stuffProps.stuffAdjective>Synthylene amarillo</SynthyleneYellow.stuffProps.stuffAdjective>
+
+  <SynthyleneRed.label>Synthylene Rojo</SynthyleneRed.label>
+  <SynthyleneRed.description>Un material de construcción sintético.</SynthyleneRed.description>
+  <SynthyleneRed.stuffProps.stuffAdjective>Synthylene Rojo</SynthyleneRed.stuffProps.stuffAdjective>
+
+  <SynthyleneOlive.label>Synthylene aceituna</SynthyleneOlive.label>
+  <SynthyleneOlive.description>Un material de construcción sintético.</SynthyleneOlive.description>
+  <SynthyleneOlive.stuffProps.stuffAdjective>Synthylene aceituna</SynthyleneOlive.stuffProps.stuffAdjective>
+
+  <SynthyleneSand.label>Synthylene arena</SynthyleneSand.label>
+  <SynthyleneSand.description>Un material de construcción sintético.</SynthyleneSand.description>
+  <SynthyleneSand.stuffProps.stuffAdjective>Synthylene arena</SynthyleneSand.stuffProps.stuffAdjective>
+
+  <UncuredComposite.label>Compuesto de sintamida sin polimerizar</UncuredComposite.label>
+  <UncuredComposite.description>Compuesto de sintamida sin polimerizar.</UncuredComposite.description>
+
+  <FiberComposite.label>Synthamid compuesto</FiberComposite.label>
+  <FiberComposite.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>Synthamid compuesto</FiberComposite.stuffProps.stuffAdjective>
+
+  <FiberCompositeWhite.label>Sintámido compuesto blanco</FiberCompositeWhite.label>
+  <FiberCompositeWhite.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeWhite.description>
+  <FiberCompositeWhite.stuffProps.stuffAdjective>Sintámido compuesto blanco</FiberCompositeWhite.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlack.label>Synthamide composite negro</FiberCompositeBlack.label>
+  <FiberCompositeBlack.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeBlack.description>
+  <FiberCompositeBlack.stuffProps.stuffAdjective>Synthamide composite negro</FiberCompositeBlack.stuffProps.stuffAdjective>
+
+  <FiberCompositeGreen.label>Synthamide composite verde</FiberCompositeGreen.label>
+  <FiberCompositeGreen.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeGreen.description>
+  <FiberCompositeGreen.stuffProps.stuffAdjective>Synthamide composite verde</FiberCompositeGreen.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlue.label>Synthamide composite azul</FiberCompositeBlue.label>
+  <FiberCompositeBlue.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeBlue.description>
+  <FiberCompositeBlue.stuffProps.stuffAdjective>Synthamide composite azul</FiberCompositeBlue.stuffProps.stuffAdjective>
+
+  <FiberCompositeViolet.label>Synthamide composite violeta</FiberCompositeViolet.label>
+  <FiberCompositeViolet.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeViolet.description>
+  <FiberCompositeViolet.stuffProps.stuffAdjective>Synthamide composite violeta</FiberCompositeViolet.stuffProps.stuffAdjective>
+
+  <FiberCompositeOrange.label>Synthamide composite naranja</FiberCompositeOrange.label>
+  <FiberCompositeOrange.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeOrange.description>
+  <FiberCompositeOrange.stuffProps.stuffAdjective>Synthamide composite naranja</FiberCompositeOrange.stuffProps.stuffAdjective>
+
+  <FiberCompositeYellow.label>Synthamide composite amarillo</FiberCompositeYellow.label>
+  <FiberCompositeYellow.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeYellow.description>
+  <FiberCompositeYellow.stuffProps.stuffAdjective>Synthamide composite amarillo</FiberCompositeYellow.stuffProps.stuffAdjective>
+
+  <FiberCompositeRed.label>Synthamide composite rojo</FiberCompositeRed.label>
+  <FiberCompositeRed.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeRed.description>
+  <FiberCompositeRed.stuffProps.stuffAdjective>Synthamide composite rojo</FiberCompositeRed.stuffProps.stuffAdjective>
+
+  <FiberCompositeOlive.label>Synthamide composite aceituna</FiberCompositeOlive.label>
+  <FiberCompositeOlive.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeOlive.description>
+  <FiberCompositeOlive.stuffProps.stuffAdjective>Synthamide composite aceituna</FiberCompositeOlive.stuffProps.stuffAdjective>
+
+  <FiberCompositeSand.label>Synthamide composite arena</FiberCompositeSand.label>
+  <FiberCompositeSand.description>Synthamide composite, un material compuesto ultra duro, de alta tecnología espacial, muy resistente y resistente al fuego, de peso ligero, hecho de una matriz de sinteno reforzado con fibras de sintamida.</FiberCompositeSand.description>
+  <FiberCompositeSand.stuffProps.stuffAdjective>Synthamide composite arena</FiberCompositeSand.stuffProps.stuffAdjective>
+  
+</LanguageData>

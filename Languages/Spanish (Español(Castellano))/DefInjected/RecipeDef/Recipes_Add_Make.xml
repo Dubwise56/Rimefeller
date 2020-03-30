@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- Recipe Users: TableMachining -->
+
+  <Make_Shell_Napalm.label>Obus de napalm</Make_Shell_Napalm.label>
+  <Make_Shell_Napalm.description>Hacer obus que contienen Napalm.</Make_Shell_Napalm.description>
+  <Make_Shell_Napalm.jobString>obus de napalm.</Make_Shell_Napalm.jobString>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmptyAutoclave.label>Autoclave vacía</EmptyAutoclave.label>
+  <EmptyAutoclave.verb>Vaciar el autoclave.</EmptyAutoclave.verb>
+  <EmptyAutoclave.gerund>Vaciar el autoclave.</EmptyAutoclave.gerund>
+
+  <FillAutoclave.label>Autoclave completo</FillAutoclave.label>
+  <FillAutoclave.verb>Llenar el autoclave</FillAutoclave.verb>
+  <FillAutoclave.gerund>Llenar el autoclave</FillAutoclave.gerund>
+
+  <CleanOil.label>Aceite limpio</CleanOil.label>
+  <CleanOil.verb>Limpiar el aceite</CleanOil.verb>
+  <CleanOil.gerund>Limpia el aceite</CleanOil.gerund>
+
+  <SuperviseDrilling.label>Supervisar perforación</SuperviseDrilling.label>
+  <SuperviseDrilling.verb>Supervisar perforación</SuperviseDrilling.verb>
+  <SuperviseDrilling.gerund>Supervisar perforación</SuperviseDrilling.gerund>
+
+  <OperateResourceConsole.label>Uso de la consola de recursos</OperateResourceConsole.label>
+  <OperateResourceConsole.verb>Usa la consola de recursos</OperateResourceConsole.verb>
+  <OperateResourceConsole.gerund>Usa la consola de recursos</OperateResourceConsole.gerund>
+
+</LanguageData>

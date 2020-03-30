@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilPipeVisibility.label>Visibilidad de la tubería.</OilPipeVisibility.label>
+  <OilPipeVisibility.options.1.label>Escondido debajo de los pisos</OilPipeVisibility.options.1.label>
+  <OilPipeVisibility.options.2.label>Siempre visible</OilPipeVisibility.options.2.label>
+  <OilPipeVisibility.options.3.label>Tubería aún visible en el suelo</OilPipeVisibility.options.3.label>
+  
+  <CrudeToFuelRatio.label>Relación combustible / bruto</CrudeToFuelRatio.label>
+  <OilPumpCapacity.label>Capacidad del pozo de petróleo</OilPumpCapacity.label>
+  <OilRegenRate.label>Relación de regeneración del tanque de aceite</OilRegenRate.label>
+  <OilGridCapacity.label>Límite de derrame de petróleo por celda</OilGridCapacity.label>
+  
+</LanguageData>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <CommandDesignateOpenCloseValveLabelRimefeller>Válvula de palanca</CommandDesignateOpenCloseValveLabelRimefeller>
+  <CommandDesignateOpenCloseValveDescRimefeller>Alternar la válvula entre abierto y cerrado</CommandDesignateOpenCloseValveDescRimefeller>
+  <ValveClosedRimefeller>Válvula cerrada</ValveClosedRimefeller>
+
+  <NoUncuredPlasteel>Sin placas de yeso no sólidas</NoUncuredPlasteel>
+  <NoUncuredSynthamide>Sin sintamida no sólida</NoUncuredSynthamide>
+  <CantModeAutoclave>No se pueden cambiar los modos durante el proceso de solidificación</CantModeAutoclave>
+  <CuringTime>Tiempo de solidificación: {0}</CuringTime>
+  
+  <PickCompositeColour>Elegir color</PickCompositeColour>
+  <PickCompositeColourDesc>Elija el color del compuesto sólido de sintamida</PickCompositeColourDesc>
+  <PickSynthyleneColour>Elección de color de Synthylene</PickSynthyleneColour>
+  <PickSynthyleneColourDesc>Elige el color de Synthylene</PickSynthyleneColourDesc>
+  
+  <CurePlasteel>Tratamiento de plásticos</CurePlasteel>
+  <CureComposite>Tratamiento de plásticos</CureComposite>
+  <CommandCompositeModeDesc>Cambiar entre polimerización en Plastacier o compuesto en este autoclave</CommandCompositeModeDesc>
+
+  <FuelStorage>Almacenamiento de combustible: {0} / {1}L</FuelStorage>
+  <TotalFuelStorage>Almacenamiento de combustible por tuberías: {0}L</TotalFuelStorage>
+
+  <DrillingPhase>Pozo</DrillingPhase>
+  <DrillingPhaseDesc>El pozo de petróleo de construcción debe ser monitoreado hastan.\n\n Un máximo de tres colonos pueden supervisar la perforación al mismo tiempo para acelerar el proceso. \n\nProgrès: {0}</DrillingPhaseDesc>
+  
+  <OilStorage>Almacenamiento de aceite: {0} / {1}L</OilStorage>
+  <WellPressure>Presión bien: x{0}</WellPressure>
+  <OilWellCapacity>Capacidad del pozo: {0} L/día</OilWellCapacity>
+  <TotalOilStorage>Almacenamiento de petróleo por tubería: {0} L</TotalOilStorage>
+  <PipedOilPumpCapacity>Capacidad canalizada: {0} L/día</PipedOilPumpCapacity>
+  
+  <DrillingProgress>Progreso de perforación: {0}</DrillingProgress>
+
+  <CleanOilSpill>Derrame de petróleo limpio</CleanOilSpill>
+  <CleanOilSpillDesc>Limpiar derrames de petróleo</CleanOilSpillDesc>
+  <DesignatorRemovePipeline>Deconstruir la tubería</DesignatorRemovePipeline>
+  <DesignatorRemovePipelineDesc>Deconstruir la tubería</DesignatorRemovePipelineDesc>
+
+  <PlaceDirectlyOverWell>Demasiado cerca de la boca de pozo existente, colóquela directamente sobre un pozo sin usar para acceder nuevamente</PlaceDirectlyOverWell>
+
+  <FuelPowerplantUsage>Uso de combustible: {0} L/día</FuelPowerplantUsage>
+
+  <CuringFailed>El tratamiento falló debido a la pérdida de potencia.</CuringFailed>
+
+  <DrainStorageTank>Tanque de drenaje</DrainStorageTank>
+  <DrainStorageTankDesc>Vacíe el contenido de este tanque en otros tanques disponibles.</DrainStorageTankDesc>
+
+  <RaiseRefinerPower>Aumentar el poder</RaiseRefinerPower>
+  <LowerRefinerPower>Reducir el poder</LowerRefinerPower>
+  <LowerRefinerPowerDesc>Reduce la potencia utilizada por el refinador para reducir la eficiencia.</LowerRefinerPowerDesc>
+  <RaiseRefinerPowerDesc>Aumenta la potencia utilizada por el refinador para aumentar la eficiencia.</RaiseRefinerPowerDesc>
+
+  <NoRefinerNeedsWork>No hay refinerías conectadas ni galletas listas para usar</NoRefinerNeedsWork>
+  
+  <DisableColoursDesc>Esto eliminará las versiones coloreadas de los materiales del juego. Todas las cosas guardadas serán reemplazadas por la versión estándar al cargar el guardado.</DisableColoursDesc>
+  <DisableColours>Desactivar colores (Inicio del juego requerido)</DisableColours>
+  <DisableColoursTip>Esto eliminará las versiones coloreadas de los materiales del juego. Todas las cosas guardadas serán reemplazadas por la versión estándar al cargar el guardado.</DisableColoursTip>
+
+  <RequiresDeepScanner>Es necesario un escáner que funcione en el suelo para ver los tanques de aceite en profundidad.</RequiresDeepScanner>
+  <RequiresResourceConsole>Se requiere una consola de recursos para ver los tanques de aceite</RequiresResourceConsole>
+
+  <AllowedCraftingSkill>Habilidad artesanal permitida {0}</AllowedCraftingSkill>
+  <FuelStorageLimit>Límite de producción de combustible {0}</FuelStorageLimit>
+  <OilStorageLimit>Límite de producción de petróleo. {0}</OilStorageLimit>
+
+  <FuelStoragelimitTip>Las galletas se detienen una vez que alcanzan el máximo, luego funcionan nuevamente después de caer por debajo del mínimo.\n\nVerificar activor</FuelStoragelimitTip>
+  
+  <OilStoragelimitTip>Los pozos petroleros se detendrán tan pronto como alcancen el máximo y luego se alargarán una vez que caigan por debajo del mínimo.\n\nMarque para activar</OilStoragelimitTip>
+
+  <FuelPumpLimit>Límite de la bomba de combustible</FuelPumpLimit>
+  <FuelPumpLimitTip>Bombee combustible hasta alcanzar esta cantidad, verifique si está activor</FuelPumpLimitTip>
+
+  <ResourceConsoleAlert>Consola de recursos</ResourceConsoleAlert>
+  <ResourceConsoleAlertDesc>Abra la pestaña Facturas de la consola de recursos para modificar los parámetros de producción de petróleo y combustible y agregar facturas para las refinerías.</ResourceConsoleAlertDesc>
+
+  <ConsoleSettings>Configuración de la consola</ConsoleSettings>
+  <GlobalSettings>Parámetro global</GlobalSettings>
+
+</LanguageData>

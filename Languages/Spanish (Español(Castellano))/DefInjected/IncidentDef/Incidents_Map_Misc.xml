@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilSpill.label>Marea negra</OilSpill.label>
+  <OilSpill.letterlabel>Marea negra</OilSpill.letterlabel>
+  <OilSpill.letterLabel>Marea negra</OilSpill.letterLabel>
+  <OilSpill.letterText>Se rompió una sección del oleoducto y se derramó petróleo. El aceite se puede limpiar usando el indicador de aceite limpio.</OilSpill.letterText>
+
+  <DrillQuake.label>Temblores</DrillQuake.label>
+  <DrillQuake.description>Temblores</DrillQuake.description>
+  <DrillQuake.letterLabel>Temblores</DrillQuake.letterLabel>
+  <DrillQuake.letterText>La perforación petrolera excesiva ha causado inestabilidad del suelo</DrillQuake.letterText>
+    
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CleanOil.reportString>Limpiar el aceite</CleanOil.reportString>
+  <SuperviseDrilling.reportString>Supervisar las operaciones de perforación..</SuperviseDrilling.reportString>
+  <EmptyAutoclave.reportString>Vaciar el autoclave.</EmptyAutoclave.reportString>
+  <FillAutoclave.reportString>Llenar el autoclave.</FillAutoclave.reportString>
+  <OperateResourceConsole.reportString>Administrar TargetA.</OperateResourceConsole.reportString>
+  
+</LanguageData>
