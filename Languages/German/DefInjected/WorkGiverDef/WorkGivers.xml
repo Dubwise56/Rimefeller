@@ -1,24 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <EmptyAutoclave.label>Drukkamer Leeren</EmptyAutoclave.label>
-  <EmptyAutoclave.verb>Druckkamer muss entleert werden</EmptyAutoclave.verb>
-  <EmptyAutoclave.gerund>Druckkammer wird entleert</EmptyAutoclave.gerund>
+  <EmptyAutoclave.label>Entleere Druckkammer</EmptyAutoclave.label>
+  <EmptyAutoclave.verb>Entleere Druckkammer</EmptyAutoclave.verb>
+  <EmptyAutoclave.gerund>Entleert Druckkammer</EmptyAutoclave.gerund>
 
-  <FillAutoclave.label>Druckkammer auffüllen</FillAutoclave.label>
-  <FillAutoclave.verb>Auffüllen der Drukkamer</FillAutoclave.verb>
-  <FillAutoclave.gerund>Druckkammer wird aufgefüllt</FillAutoclave.gerund>
+  <FillAutoclave.label>Fülle Druckkammer</FillAutoclave.label>
+  <FillAutoclave.verb>Fülle Druckkammer</FillAutoclave.verb>
+  <FillAutoclave.gerund>Füllt Druckkammer</FillAutoclave.gerund>
 
-  <CleanOil.label>Öl entfernen</CleanOil.label>
-  <CleanOil.verb>Entfernung von Öl</CleanOil.verb>
-  <CleanOil.gerund>Öl wird entfernt</CleanOil.gerund>
+  <CleanOil.label>Entferne Öl</CleanOil.label>
+  <CleanOil.verb>Entferne Öl</CleanOil.verb>
+  <CleanOil.gerund>Entfernt Öl</CleanOil.gerund>
 
-  <SuperviseDrilling.label>Bohren überwachen</SuperviseDrilling.label>
-  <SuperviseDrilling.verb>Beaufsichtigung des Bohrens</SuperviseDrilling.verb>
-  <SuperviseDrilling.gerund>Bohrung wird überwacht</SuperviseDrilling.gerund>
+  <SuperviseDrilling.label>Überwache Bohrung</SuperviseDrilling.label>
+  <SuperviseDrilling.verb>Überwache</SuperviseDrilling.verb>
+  <SuperviseDrilling.gerund>Überwacht</SuperviseDrilling.gerund>
 
-  <OperateResourceConsole.label>Ressourcen-Steuerkonsole benutzen</OperateResourceConsole.label>
-  <OperateResourceConsole.verb>Die Ressourcen-Steuerkonsole benutzen</OperateResourceConsole.verb>
-  <OperateResourceConsole.gerund>Die Ressourcen-Steuerkonsole wird benutzt</OperateResourceConsole.gerund>
+  <OperateResourceConsole.label>Bediene Ressourcenkonsole</OperateResourceConsole.label>
+  <OperateResourceConsole.verb>Bediene</OperateResourceConsole.verb>
+  <OperateResourceConsole.gerund>Bedient Ressourcenkonsole</OperateResourceConsole.gerund>
+
 
 </LanguageData>

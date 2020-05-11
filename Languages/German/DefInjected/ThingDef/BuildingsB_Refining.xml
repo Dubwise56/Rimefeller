@@ -2,34 +2,62 @@
 <LanguageData>
 
   <ChemfuelHopper.label>Kraftstoffpumpe</ChemfuelHopper.label>
-  <ChemfuelHopper.description>Pumpt Kraftstoff aus Tanks in verwendbaren / verkaufsfähigen Kanister.</ChemfuelHopper.description>
-  
-  <ChemfuelSiphon.label>Kraftstoff Siphon</ChemfuelSiphon.label>
-  <ChemfuelSiphon.description>Ein Siphon zum Auffüllen von Kraftstofftanks, in dem Kraftstoff in Kanister umgefüllt werden.</ChemfuelSiphon.description>
-  
-  <RefineryLoadingBay.label>Raffinerie Entladebuchte</RefineryLoadingBay.label>
-  <RefineryLoadingBay.description>Entladezone von Raffinerien, zum Entladen der Produkte erforderlich.</RefineryLoadingBay.description>
-  
-  <SynthyleneRefiner.label>Synthylen Raffinerie</SynthyleneRefiner.label>
-  <SynthyleneRefiner.description>Wandelt Kraftstoff mit einer Auswahl an verschiedenen Farben in Synthylen um. Synthylen kann als generischer Baustoff und als Bestandteil für Komponenten verwendet werden.</SynthyleneRefiner.description>
-  
-  <NapalmRefiner.label>Napalm Raffinerie</NapalmRefiner.label>
-  <NapalmRefiner.description>Wandelt Kraftstoff in Napalm um, ein leicht entzündliches klebriges Gelee, das in Brandbomben verwendet wird und aus mit Synthylen verdicktem Kraftstoffpulver besteht.</NapalmRefiner.description>
-  
-  <SynthreadRefiner.label>Synthfasern Raffinerie</SynthreadRefiner.label>
-  <SynthreadRefiner.description>Wandelt Kraftstoff in ein synthetisches Material um, eine synthetische Faser für Kleidung</SynthreadRefiner.description>
-  
-  <SynthamideRefiner.label>Synthamid Raffinerie</SynthamideRefiner.label>
-  <SynthamideRefiner.description>Wandelt Kraftstoff in Synthamid um, eine sehr stark belastbare synthetische Faser</SynthamideRefiner.description>
-    
-  <HyperweaveRefiner.label>Hyperfasern Raffinerie</HyperweaveRefiner.label>
-  <HyperweaveRefiner.description>Wandelt Kraftstoff in Hyperfasern um, eine extrem belastbare synthetische Faser</HyperweaveRefiner.description>
-  
-  <NeutroamineRefiner.label>Neutramin Raffinerie</NeutroamineRefiner.label>
-  <NeutroamineRefiner.description>Wandelt Kraftstoff in Neutroamin zur Herstellung von Arzneimitteln um</NeutroamineRefiner.description>
-  
+  <ChemfuelHopper.description>Pumpt Kraftstoff aus Kraftstofftanks in verwendbare verkaufsfähigen Kanister.</ChemfuelHopper.description>
+
+  <ChemfuelSiphon.label>Kraftstoffeinlass</ChemfuelSiphon.label>
+  <ChemfuelSiphon.description>Ein Einlass der dazu verwendet werden kann, Kraftstoff in Kraftstofftanks zu füllen.</ChemfuelSiphon.description>
+
+  <RefineryLoadingBay.label>Raffiniere-Entladebucht</RefineryLoadingBay.label>
+  <RefineryLoadingBay.description>Eine Entladebucht für Raffinieren. Die Raffiniere wird hier ihre Produkte ablegen.</RefineryLoadingBay.description>
+
+  <SynthyleneRefiner.label>Raffiniere (Synthylen)</SynthyleneRefiner.label>
+  <SynthyleneRefiner.description>Wandelt Kraftstoff in farbiges Synthylen um. Synthylen kann als Baustoff oder als Bestandteil von Bauteilen verwendet werden.</SynthyleneRefiner.description>
+  <SynthyleneRefiner_Blueprint.label>Raffiniere (Synthylen) (Entwurf)</SynthyleneRefiner_Blueprint.label>
+  <SynthyleneRefiner_Blueprint_Install.label>Raffiniere (Synthylen) (Entwurf)</SynthyleneRefiner_Blueprint_Install.label>
+  <SynthyleneRefiner_Frame.label>Raffiniere (Synthylen) (im Bau)</SynthyleneRefiner_Frame.label>
+  <SynthyleneRefiner_Frame.description>Wandelt Kraftstoff in farbiges Synthylen um. Synthylen kann als Baustoff oder als Bestandteil von Bauteilen verwendet werden.</SynthyleneRefiner_Frame.description>
+
+  <NapalmRefiner.label>Raffiniere (Napalm)</NapalmRefiner.label>
+  <NapalmRefiner.description>Wandelt Kraftstoff in Napalm um. Napalm ist ein leicht entzündliches klebriges Geele, das in Brandbomben verwendet wird.</NapalmRefiner.description>
+  <NapalmRefiner_Blueprint.label>Raffiniere (Napalm) (Entwurf)</NapalmRefiner_Blueprint.label>
+  <NapalmRefiner_Blueprint_Install.label>Raffiniere (Napalm) (Entwurf)</NapalmRefiner_Blueprint_Install.label>
+  <NapalmRefiner_Frame.label>Raffiniere (Napalm) (im Bau)</NapalmRefiner_Frame.label>
+  <NapalmRefiner_Frame.description>Wandelt Kraftstoff in Napalm um. Napalm ist ein leicht entzündliches klebriges Geele, das in Brandbomben verwendet wird.</NapalmRefiner_Frame.description>
+
+  <SynthreadRefiner.label>Raffiniere (Syngarn)</SynthreadRefiner.label>
+  <SynthreadRefiner.description>Wandelt Kraftstoff in Syngarn um. Syngarn ist ein synthetisches Material welches für Kleidung verwendet wird.</SynthreadRefiner.description>
+  <SynthreadRefiner_Blueprint.label>Raffiniere (Syngarn) (Entwurf)</SynthreadRefiner_Blueprint.label>
+  <SynthreadRefiner_Blueprint_Install.label>Raffiniere (Syngarn) (Entwurf)</SynthreadRefiner_Blueprint_Install.label>
+  <SynthreadRefiner_Frame.label>Raffiniere (Syngarn) (im Bau)</SynthreadRefiner_Frame.label>
+  <SynthreadRefiner_Frame.description>Wandelt Kraftstoff in Syngarn um. Syngarn ist ein synthetisches Material welches für Kleidung verwendet wird.</SynthreadRefiner_Frame.description>
+
+  <SynthamideRefiner.label>Raffiniere (Synthamid)</SynthamideRefiner.label>
+  <SynthamideRefiner.description>Wandelt Kraftstoff in Synthamid um. Synthamid ist eine synthetische Faser.</SynthamideRefiner.description>
+  <SynthamideRefiner_Blueprint.label>Raffiniere (Synthamid) (Entwurf)</SynthamideRefiner_Blueprint.label>
+  <SynthamideRefiner_Blueprint_Install.label>Raffiniere (Synthamid) (Entwurf)</SynthamideRefiner_Blueprint_Install.label>
+  <SynthamideRefiner_Frame.label>Raffiniere (Synthamid) (im Bau)</SynthamideRefiner_Frame.label>
+  <SynthamideRefiner_Frame.description>Wandelt Kraftstoff in Synthamid um. Synthamid ist eine synthetische Faser.</SynthamideRefiner_Frame.description>
+
+  <HyperweaveRefiner.label>Raffiniere (Nanofaser)</HyperweaveRefiner.label>
+  <HyperweaveRefiner.description>Wandelt Kraftstoff in Nanofasern um. Nanofasern sind extrem belastbare synthetische Fasern die bevorzugt für extrem wiederstandsfähige Kleidung verwendet wird.</HyperweaveRefiner.description>
+  <HyperweaveRefiner_Blueprint.label>Raffiniere (Nanofaser) (Entwurf)</HyperweaveRefiner_Blueprint.label>
+  <HyperweaveRefiner_Blueprint_Install.label>Raffiniere (Nanofaser) (Entwurf)</HyperweaveRefiner_Blueprint_Install.label>
+  <HyperweaveRefiner_Frame.label>Raffiniere (Nanofaser)(im Bau)</HyperweaveRefiner_Frame.label>
+  <HyperweaveRefiner_Frame.description>Wandelt Kraftstoff in Nanofasern um. Nanofasern sind extrem belastbare synthetische Fasern die bevorzugt für extrem wiederstandsfähige Kleidung verwendet wird.</HyperweaveRefiner_Frame.description>
+
+  <NeutroamineRefiner.label>Raffiniere (Neutramin)</NeutroamineRefiner.label>
+  <NeutroamineRefiner.description>Wandelt Kraftstoff in Neutramin um. Neutramin wird vorallem zur Herstellung von Medizin verwendet.</NeutroamineRefiner.description>
+  <NeutroamineRefiner_Blueprint.label>Raffiniere (Neutramin) (Entwurf)</NeutroamineRefiner_Blueprint.label>
+  <NeutroamineRefiner_Blueprint_Install.label>Raffiniere (Neutramin) (Entwurf)</NeutroamineRefiner_Blueprint_Install.label>
+  <NeutroamineRefiner_Frame.label>Neutramin (Raffiniere) (im Bau)</NeutroamineRefiner_Frame.label>
+  <NeutroamineRefiner_Frame.description>Wandelt Kraftstoff in Neutramin um. Neutramin wird vorallem zur Herstellung von Medizin verwendet.</NeutroamineRefiner_Frame.description>
+
   <Autoclave.label>Druckkammer</Autoclave.label>
-  <Autoclave.description>Durch thermische Behandlung wird in diesem Autoklav ungehärtetes Palastahl gehärtet oder Synthamid-Komposit zum Endprodukt verarbeitet.</Autoclave.description>
-  
+  <Autoclave.description>Durch eine thermische Behandlung wird in dieser Druckkammer Plastahl gehärtet oder Synthamidverbundwerkstoff zum Endprodukt verarbeitet.</Autoclave.description>
+  <Autoclave_Blueprint.label>Druckkammer (Entwurf)</Autoclave_Blueprint.label>
+  <Autoclave_Blueprint_Install.label>Druckkammer (Entwurf)</Autoclave_Blueprint_Install.label>
+  <Autoclave_Frame.label>Druckkammer (im Bau)</Autoclave_Frame.label>
+  <Autoclave_Frame.description>Durch eine thermische Behandlung wird in dieser Druckkammer Plastahl gehärtet oder Synthamidverbundwerkstoff zum Endprodukt verarbeitet.</Autoclave_Frame.description>
+
 
 </LanguageData>

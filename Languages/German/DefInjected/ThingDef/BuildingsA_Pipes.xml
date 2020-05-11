@@ -4,25 +4,41 @@
   <!-- Pipes -->
 
   <Filth_OilSlick.label>Ölteppich</Filth_OilSlick.label>
-  <Filth_OilSlick.description>Eine Pfütze mit brennbarem Öl.</Filth_OilSlick.description>
+  <Filth_OilSlick.description>Eine Pfütze aus brennbarem Öl.</Filth_OilSlick.description>
   <Filth_OilSlick.comps.CompUsable.useLabel>Entzünden</Filth_OilSlick.comps.CompUsable.useLabel>
 
-  <Filth_NapalmTrail.label>Napalm Spur</Filth_NapalmTrail.label>
-  <Filth_NapalmTrail.description>Eine Spur aus entflambaren Napalm</Filth_NapalmTrail.description>
-  <Filth_NapalmTrail.comps.CompUsable.useLabel>Entzünden</Filth_NapalmTrail.comps.CompUsable.useLabel>
-  
+  <Filth_NapalmTrail.label>Napalmspur</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>Eine Spur aus Napalm.</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.CompUsable.useLabel>Enzünden</Filth_NapalmTrail.comps.CompUsable.useLabel>
+  <Filth_NapalmTrail_Blueprint.label>Napalmspur (Entwurf)</Filth_NapalmTrail_Blueprint.label>
+  <Filth_NapalmTrail_Frame.label>Napalmspur (im Bau)</Filth_NapalmTrail_Frame.label>
+  <Filth_NapalmTrail_Frame.description>Eine Spur aus Napalm.</Filth_NapalmTrail_Frame.description> 
+
   <NapalmBomb.label>Napalmbombe</NapalmBomb.label>
-  <NapalmBomb.description>Eine Napalmbombe, Vorsicht: Stellen sie Löschtruppen bereit!</NapalmBomb.description>
-  <NapalmBomb.comps.CompUsable.useLabel>Zünden</NapalmBomb.comps.CompUsable.useLabel>
+  <NapalmBomb.description>Eine Napalmbombe.</NapalmBomb.description>
+  <NapalmBomb.comps.CompUsable.useLabel>Entzünden</NapalmBomb.comps.CompUsable.useLabel>
+  <NapalmBomb_Blueprint.label>Napalmbombe (Entwurf)</NapalmBomb_Blueprint.label>
+  <NapalmBomb_Blueprint_Install.label>Napalmbombe (Entwurf)</NapalmBomb_Blueprint_Install.label>
+  <NapalmBomb_Frame.label>Napalmbombe (im Bau)</NapalmBomb_Frame.label>
+  <NapalmBomb_Frame.description>Eine Napalmbombe.</NapalmBomb_Frame.description>
 
   <SparkGrid.label>Funkengitter</SparkGrid.label>
-  <SparkGrid.description>Entzündet brennbare Gegenstände wie Napalm beim Einschalten.</SparkGrid.description>
+  <SparkGrid.description>Enzündet brennbare Gegenstände wie z.B Napalm beim einschalten. Kann verwendet wurden um eine gelegte Napalmspur aus der Ferne zu entzünden.</SparkGrid.description>
+  <SparkGrid_Blueprint.label>Funkengitter (Entwurf)</SparkGrid_Blueprint.label>
+  <SparkGrid_Frame.label>Funkengitter (im Bau)</SparkGrid_Frame.label>
+  <SparkGrid_Frame.description>Enzündet brennbare Gegenstände wie z.B Napalm beim einschalten. Kann verwendet wurden um eine gelegte Napalmspur aus der Ferne zu entzünden</SparkGrid_Frame.description>
 
-  <OilPipeline.label>Rohre</OilPipeline.label>
-  <OilPipeline.description>Ein Rohr zum Transport von Öl</OilPipeline.description>
+  <OilPipeline.label>Rohrleitung (Öl)</OilPipeline.label>
+  <OilPipeline.description>Eine Rohrleitung zum Transport von Öl oder Kraftstoff.</OilPipeline.description>
+  <OilPipeline_Blueprint.label>Rohrleitung (Öl) (Entwurf)</OilPipeline_Blueprint.label>
+  <OilPipeline_Frame.label>Rohrleitung (Öl) (im Bau)</OilPipeline_Frame.label>
+  <OilPipeline_Frame.description>Eine Rohrleitung zum Transport von Öl oder Kraftstoff.</OilPipeline_Frame.description>
 
   <pipelineValve.label>Rohrleitungsventil</pipelineValve.label>
-  <pipelineValve.description>Ventielverbindung zwischen Rohrleitungen zum Öffnen oder Schließen</pipelineValve.description>
-
+  <pipelineValve.description>Ein Ventil zum öffnen oder schließen einer Rohrleitung.</pipelineValve.description>
+  <pipelineValve_Blueprint.label>Rohrleitungsventil (Entwurf)</pipelineValve_Blueprint.label>
+  <pipelineValve_Blueprint_Install.label>Rohrleitungsventil (Entwurf)</pipelineValve_Blueprint_Install.label>
+  <pipelineValve_Frame.label>Rohrleitungsventil(im Bau)</pipelineValve_Frame.label>
+  <pipelineValve_Frame.description>Ein Ventil zum öffnen oder schließen einer Rohrleitung.</pipelineValve_Frame.description> 
 
 </LanguageData>

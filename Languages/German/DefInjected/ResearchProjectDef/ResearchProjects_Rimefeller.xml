@@ -4,44 +4,48 @@
   <OilDrilling.label>Ölbohrungen</OilDrilling.label>
   <OilDrilling.description>Das Bohren nach Öl ist der erste Schritt um "das Schwarze Gold" zu gewinnen.</OilDrilling.description>
 
-  <DeepOilWells.label>Tiefe Ölbohrungen</DeepOilWells.label>
-  <DeepOilWells.description>Bohren Sie tiefere Bohrlöcher, um Zugang zu neuen, größeren Ölreservoirs zu erhalten.</DeepOilWells.description>
+  <DeepOilWells.label>Tiefenölbohrungen</DeepOilWells.label>
+  <DeepOilWells.description>Bohre tiefere Bohrlöcher, um Zugang zu neuen, größeren Ölreservoirs zu erhalten.</DeepOilWells.description>
 
-  <ChemfuelRefining.label>Kraftstoffraffinerie</ChemfuelRefining.label>
-  <ChemfuelRefining.description>Raffiniere Rohöl zu flüssigem Chemokraftstoff, der in Tanks gelagert werden muss.</ChemfuelRefining.description>
+  <ChemfuelRefining.label>Kraftstofferzeugung</ChemfuelRefining.label>
+  <ChemfuelRefining.description>Verarbeite Rohöl zu Kraftstoff, der in Kraftstofftanks gelagert werden muss.</ChemfuelRefining.description>
 
-  <NeutroamineProduction.label>Neutroamin</NeutroamineProduction.label>
-  <NeutroamineProduction.description>Produziere Neutroamin aus flüssigem Kraftstoff, der zur Herstellung von Arzneimitteln und Drogen verwendet wird.</NeutroamineProduction.description>
+  <NeutroamineProduction.label>Neutroaminerzeugung</NeutroamineProduction.label>
+  <NeutroamineProduction.description>Produziere Neutroamin aus Kraftstoff, das zur Herstellung von Arzneimitteln und Drogen verwendet wird.</NeutroamineProduction.description>
 
   <SynthyleneProduction.label>Synthylen</SynthyleneProduction.label>
-  <SynthyleneProduction.description>Produzieren Sie eines der generischen Baumaterialien mit vielen Variationen von Farben: Synthylen. Es wird aus raffinierten Kraftstoff gewonnen.</SynthyleneProduction.description>
+  <SynthyleneProduction.description>Produziere eines der generischsten Baumaterialien mit vielen Variationen von Farben: Synthylen. Es wird aus raffiniertem Kraftstoff gewonnen.</SynthyleneProduction.description>
 
   <Napalm.label>Napalm</Napalm.label>
-  <Napalm.description>Leicht entflammbares, klebriges Gelee für Brandbomben. Es bestehend aus flüssigem Kraftstoff, verdickt mit Synthylen.</Napalm.description>
+  <Napalm.description>Ermöglicht die Herstellung von leicht entflammbaren, klebrigen Gelee für Brandbomben. Es besteht aus Kraftstoff, verdickt mit Synthylen.</Napalm.description>
 
-  <ArtificialFloors.label>Linoleum Boden</ArtificialFloors.label>
+  <ArtificialFloors.label>Linoleumboden</ArtificialFloors.label>
   <ArtificialFloors.description>Herstellung von Linoleum aus Synthylen.</ArtificialFloors.description>
 
-  <SynthyleneComponents.label>Verbundwerkstoffe aus Synthylen</SynthyleneComponents.label>
-  <SynthyleneComponents.description>Erweiterne deine Stahlvorräte, indem du Komponente mit einer Mischung aus Synthylen und Stahl herstellen.</SynthyleneComponents.description>
+  <SynthyleneComponents.label>Synthylenbauteile</SynthyleneComponents.label>
+  <SynthyleneComponents.description>Stelle mit Hilfe von Synthylen Bauteile her und verringere somit deinen Stahlverbrauch.</SynthyleneComponents.description>
 
-  <SynthreadProduction.label>Synthfasern</SynthreadProduction.label>
-  <SynthreadProduction.description>Herstellung von synthetischen Fasern auf Basis von flüssigem Kraftstoff.</SynthreadProduction.description>
+  <SynthyleneAdvComponents.label>Fortschrittliche Synthylenbauteile</SynthyleneAdvComponents.label>
+  <SynthyleneAdvComponents.description>Stelle mit Hilfe von Synthylen Fortschrittliche Bauteile her und verringere somit deinen Stahlverbrauch.</SynthyleneAdvComponents.description>
+
+  <SynthreadProduction.label>Syngarnherstellung</SynthreadProduction.label>
+  <SynthreadProduction.description>Ermöglicht die Herstellung von Syngarn aus Kraftstoff.</SynthreadProduction.description>
 
   <SynthamideProduction.label>Synthamid</SynthamideProduction.label>
-  <SynthamideProduction.description>Herstellung von Synthamidfasern. Synthamidfasern sind starke, hitzebeständige Kunstfasern. Sie können verwendet werden, um sehr haltbare Kleidung oder starke Verbundwerkstoffe herzustellen.</SynthamideProduction.description>
+  <SynthamideProduction.description>Ermöglicht die Herstellung von Synthamid. Synthamidfasern sind starke, hitzebeständige Kunstfasern. Diese Kunstfasern können verwendet werden, um sehr haltbare Kleidung herzustellen oder aber zu einem starken Verbundwerkstoff weiterverarbeitet werden.</SynthamideProduction.description>
+
+  <SynthamideCompositeProduction.label>Synthamidverbunswerkstoff</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>Ermöglicht die Herstellung von Synthamidverbunswerkstoff. Dieses Material ist sehr starker, dennoch leichter Verbundwerkstoff und wird vorallem in der Raumfahrt verwendet. Eine zusätzliche Einarbeitung aus Polymer- und Aramidfasern macht diesen Verbundwerkstoff feuerresistent.</SynthamideCompositeProduction.description>
+    <SynthamideCompositeProduction.discoveredLetterTitle>Synthamidverbunswerkstoff</SynthamideCompositeProduction.discoveredLetterTitle>
+  <SynthamideCompositeProduction.discoveredLetterText>Du kannst nun Synthamidverbunswerkstoff produzieren! Stelle ungehärteten Verbundstoff mit einem Arbeitstisch her. Baue nun eine Druckkammer und befülle sie mit dem ungehärteten Verbundwerkstoff. Der Synthamidverbunswerkstoff härtet in der Druckkammer aus und kann dann verwendet werden.</SynthamideCompositeProduction.discoveredLetterText>
   
-  <SynthamideCompositeProduction.label>Synthamidverbundsmaterial</SynthamideCompositeProduction.label>
-  <SynthamideCompositeProduction.description>Herstellung von Synthamidverbundsmaterial. Synthamidverbundsmaterial ist ein sehr starkes, dennoch leichtes Verbundwerkstoffe und wird in der Raumfahrt genutzt. Eine verbindung aus einer Polymermatrix und Aramidfasern macht es Feuer resisten.</SynthamideCompositeProduction.description>
-  <SynthamideCompositeProduction.discoveredLetterTitle>Synthamidverbundsmaterial</SynthamideCompositeProduction.discoveredLetterTitle>
-  <SynthamideCompositeProduction.discoveredLetterText>Du kannst nun Synthamidverbundsmaterial produzieren! Stelle ungehärteten Verbundstoff auf dem Arbeitstisch her. Baue dazu einen Druckkammer und laden das ungehärteten Synthamidverbundsmaterial in die Druckkammer, um es zu härten.</SynthamideCompositeProduction.discoveredLetterText>
-  
-  <PlasteelProduction.label>Plastahl</PlasteelProduction.label>
-  <PlasteelProduction.description>Entdecke die Geheimnisse der Herstellung von Plastahl.</PlasteelProduction.description>
+  <PlasteelProduction.label>Plastahlherstellung</PlasteelProduction.label>
+  <PlasteelProduction.description>Erlange das Wissen darüber, wie man Plastahl herstellt.</PlasteelProduction.description>
   <PlasteelProduction.discoveredLetterTitle>Plastahl</PlasteelProduction.discoveredLetterTitle>
-  <PlasteelProduction.discoveredLetterText>Du kannst jetzt Plastahl produzieren! Stelle ungehärteten Plastahl auf einem Arbeitstisch her. Baue dazu einen Druckkammer und laden das ungehärteten Plastahl in die Druckkammer, um es zu härten. Stelle die Drukkamm dann auf den Plastahllpolymerisationsmodus.</PlasteelProduction.discoveredLetterText>
-  
-  <HyperweaveProduction.label>Hyperfasern</HyperweaveProduction.label>
-  <HyperweaveProduction.description>Entdecke die Geheimnisse der Herstellung von Hyperfasern.</HyperweaveProduction.description>
+  <PlasteelProduction.discoveredLetterText>Du kannst jetzt Plastahl produzieren! Stelle ungehärteten Plastahl mit einem Arbeitstisch her. Baue nun eine Druckkammer und befülle sie mit dem ungehärteten Plastahl. Der Plastahl härtet in der Druckkammer aus und kann dann verwendet werden.</PlasteelProduction.discoveredLetterText>
+
+  <HyperweaveProduction.label>Nanofaserherstellung</HyperweaveProduction.label>
+  <HyperweaveProduction.description>Erlange das Wissen darüber, wie man Nanofasern herstellt.</HyperweaveProduction.description>
+
 
 </LanguageData>
