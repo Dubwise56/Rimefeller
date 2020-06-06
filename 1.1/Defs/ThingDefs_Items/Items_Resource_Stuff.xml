@@ -275,6 +275,7 @@
         <DoorOpenSpeed>1.4</DoorOpenSpeed>
       </statFactors>
     </stuffProps>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
   </ThingDef>
 
   <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
@@ -499,6 +500,7 @@
         <MeleeWeapon_CooldownMultiplier>0.8</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
   </ThingDef>
 
 

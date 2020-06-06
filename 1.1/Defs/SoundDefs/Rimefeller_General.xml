@@ -4,6 +4,7 @@
   <SoundDef>
     <defName>Cracker_Ambience</defName>
     <sustain>True</sustain>
+    <maxSimultaneous>2</maxSimultaneous>
     <context>MapOnly</context>
     <eventNames />
     <priorityMode>PrioritizeNearest</priorityMode>
@@ -34,6 +35,7 @@
   <SoundDef>
     <defName>FuelGen_Ambience</defName>
     <sustain>True</sustain>
+    <maxSimultaneous>2</maxSimultaneous>
     <context>MapOnly</context>
     <eventNames />
     <priorityMode>PrioritizeNearest</priorityMode>
@@ -64,6 +66,7 @@
   <SoundDef>
     <defName>DerrickDrill_Ambience</defName>
     <sustain>True</sustain>
+    <maxSimultaneous>2</maxSimultaneous>
     <context>MapOnly</context>
     <eventNames />
     <priorityMode>PrioritizeNearest</priorityMode>
