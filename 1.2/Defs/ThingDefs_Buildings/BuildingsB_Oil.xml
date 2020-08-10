@@ -227,7 +227,6 @@
     <rotatable>false</rotatable>
     <pathCost>180</pathCost>
     <comps>
-
       <li Class="Rimefeller.CompProperties_StorageTank">
         <StorageCap>10000</StorageCap>
         <Contents>Oil</Contents>
