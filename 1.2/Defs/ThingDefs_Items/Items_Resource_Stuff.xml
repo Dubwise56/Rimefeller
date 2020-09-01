@@ -196,6 +196,7 @@
     <stuffProps>
       <categories>
         <li>Fabric</li>
+        <li>Leathery</li>
       </categories>
       <commonality>0.00000001</commonality>
       <color>(202,165,87)</color>
