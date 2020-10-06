@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- Recipe Users: TableMachining -->
+
+  <Make_Shell_Napalm.label>изготовить напалмовый снаряд</Make_Shell_Napalm.label>
+  <Make_Shell_Napalm.description>Изготовить напалмовый снаряд.</Make_Shell_Napalm.description>
+  <Make_Shell_Napalm.jobString>Изготавливает напалмовый снаряд</Make_Shell_Napalm.jobString>
+
+</LanguageData>

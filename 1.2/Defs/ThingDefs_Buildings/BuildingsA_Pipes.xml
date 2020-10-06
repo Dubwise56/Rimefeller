@@ -57,6 +57,7 @@
       <isInert>true</isInert>
       <isEdifice>false</isEdifice>
       <deconstructible>false</deconstructible>
+      <repairable>false</repairable>
     </building>
     <comps>
       <li Class="CompProperties_Usable">
@@ -88,17 +89,21 @@
     <category>Building</category>
     <pathCost>100</pathCost>
     <graphicData>
-      <texPath>Rimefeller/Things/Resource/OilBarrel</texPath>
+      <texPath>Rimefeller/UI/NapalmSpill</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <description>A trail of napalm.</description>
     <thingClass>Rimefeller.NapalmTrail</thingClass>
     <placingDraggableDimensions>2</placingDraggableDimensions>
     <building>
+      <blueprintGraphicData>
+        <texPath>Rimefeller/UI/NapalmSpill_bp</texPath>
+      </blueprintGraphicData>
       <expandHomeArea>false</expandHomeArea>
       <isInert>true</isInert>
       <isEdifice>false</isEdifice>
       <deconstructible>false</deconstructible>
+      <repairable>false</repairable>
     </building>
     <comps>
       <li Class="CompProperties_Usable">
@@ -122,6 +127,7 @@
       <Cleanliness>-15</Cleanliness>
       <MaxHitPoints>100</MaxHitPoints>
       <Flammability>10.0</Flammability>
+      <WorkToBuild>1</WorkToBuild>
     </statBases>
     <costList>
       <Napalm>2</Napalm>
@@ -138,6 +144,8 @@
     <description>Napalm Bomb</description>
     <thingClass>Rimefeller.NapalmBomb</thingClass>
     <minifiedDef>MinifiedThing</minifiedDef>
+    <uiIconPath>Rimefeller/UI/NapalmBomb</uiIconPath>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <thingCategories>
       <li>Oil</li>
     </thingCategories>
@@ -149,6 +157,9 @@
     <rotatable>false</rotatable>
     <building>
       <expandHomeArea>false</expandHomeArea>
+      <isEdifice>false</isEdifice>
+      <isInert>true</isInert>
+      <repairable>false</repairable>
     </building>
     <comps>
       <li Class="CompProperties_Usable">
@@ -173,7 +184,7 @@
     </costList>
     <statBases>
       <MaxHitPoints>50</MaxHitPoints>
-      <WorkToBuild>5000</WorkToBuild>
+      <WorkToBuild>250</WorkToBuild>
       <Flammability>4.0</Flammability>
       <Mass>25</Mass>
     </statBases>

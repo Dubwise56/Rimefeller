@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Should not show up by default; an xpath patch will enable this only if Combat Extended is running -->
+
+  <CombatExtendedFsxRefiner.label>FSX-синтезатор</CombatExtendedFsxRefiner.label>
+  <CombatExtendedFsxRefiner.description>Перерабатывает химтопливо в FSX, вещество которое используется при создании взрывчатых боеприпасов. </CombatExtendedFsxRefiner.description>
+  
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <Filth_OilSlick.label>Разлитая нефть</Filth_OilSlick.label>
+  <Filth_OilSlick.description>Лужица горючей нефти.</Filth_OilSlick.description>
+  <Filth_OilSlick.comps.CompUsable.useLabel>Поджечь</Filth_OilSlick.comps.CompUsable.useLabel>
+
+  <Filth_NapalmTrail.label>Кучка напалма</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>Можно вручную насыпать на землю.</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.CompUsable.useLabel>Поджечь</Filth_NapalmTrail.comps.CompUsable.useLabel>
+  
+  <NapalmBomb.label>Бочка напалма</NapalmBomb.label>
+  <NapalmBomb.description>Бочка, наполненная напалмом. Осторожно, очень взрывоопасна (в том числе и для ваших врагов).</NapalmBomb.description>
+  <NapalmBomb.comps.CompUsable.useLabel>Поджечь</NapalmBomb.comps.CompUsable.useLabel>
+
+  <SparkGrid.label>Зажигатель</SparkGrid.label>
+  <SparkGrid.description>Поджигает ближайшие горючие субстанции, в том числе и напалм. Используйте с дистанционным выключателем.</SparkGrid.description>
+
+  <OilPipeline.label>Нефтяная труба</OilPipeline.label>
+  <OilPipeline.description>Позволяет транспортировать нефть и химтопливо между хранилищами и зданиями, принимающими их.</OilPipeline.description>
+
+  <pipelineValve.label>Нефтяной вентиль</pipelineValve.label>
+  <pipelineValve.description>Позволяет контролировать подачу нефти,перекрывая или открывая трубопровод.</pipelineValve.description>
+
+
+</LanguageData>

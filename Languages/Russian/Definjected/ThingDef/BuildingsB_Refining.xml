@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChemfuelHopper.label>слив химтоплива</ChemfuelHopper.label>
+  <ChemfuelHopper.description>Сливает химтопливо из химтопливных хранилищ в канистры, которые вы можете продать или использовтаь сами.</ChemfuelHopper.description>
+  
+  <ChemfuelSiphon.label>приемник химтоплива</ChemfuelSiphon.label>
+  <ChemfuelSiphon.description>Принимает химтопливо из канистр, равномерно заполняя им все присоединенные химтопливные хранилища.</ChemfuelSiphon.description>
+  
+  <RefineryLoadingBay.label>выгрузка синтезатора</RefineryLoadingBay.label>
+  <RefineryLoadingBay.description>Платформа, на которую синтезаторы выгружают созданную ими продукцию.</RefineryLoadingBay.description>
+  
+  <SynthyleneRefiner.label>синтеленовый синтезатор</SynthyleneRefiner.label>
+  <SynthyleneRefiner.description>Перерабатывает химтопливо в синтелен, дешевый строительный материал в различных цветовых гаммах.</SynthyleneRefiner.description>
+  
+  <NapalmRefiner.label>напалмовый синтезатор</NapalmRefiner.label>
+  <NapalmRefiner.description>Производит чрезвычайно горючую и липкую субстанцию, использующуюся при производстве зажигательных бомб. Состоит из химтоплива в смеси с синтеленом.</NapalmRefiner.description>
+  
+  <SynthreadRefiner.label>синтканевый синтезатор</SynthreadRefiner.label>
+  <SynthreadRefiner.description>Перерабатывает химтопливо в синткань, которая используется для пошива качественной одежды.</SynthreadRefiner.description>
+  
+  <SynthamideRefiner.label>синтамидовый синтезатор</SynthamideRefiner.label>
+  <SynthamideRefiner.description>Перерабатывает химтопливо в синтамид, крепкий и термостойкий синтетический материал из волокон.</SynthamideRefiner.description>
+    
+  <HyperweaveRefiner.label>гипертканевый синтезатор</HyperweaveRefiner.label>
+  <HyperweaveRefiner.description>Перерабатывает топливо в гиперткань, чрезвычайно прочный материал для пошива одежды космического уровня.</HyperweaveRefiner.description>
+  
+  <NeutroamineRefiner.label>нейтроаминовый синтезатор</NeutroamineRefiner.label>
+  <NeutroamineRefiner.description>Перерабатывает химтопливо в нейтроамин, вещество которое используется в производстве медикаментов.</NeutroamineRefiner.description>
+  
+  <Autoclave.label>автоклав</Autoclave.label>
+  <Autoclave.description>Перерабатывает сырой полимер или пласталь в конечный продукт, который вы можете продать или использовать сами.</Autoclave.description>
+  
+
+</LanguageData>
