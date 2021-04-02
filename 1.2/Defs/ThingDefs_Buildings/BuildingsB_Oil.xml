@@ -101,7 +101,7 @@
 
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>500</basePowerConsumption>
+        <basePowerConsumption>400</basePowerConsumption>
       </li>
       <li Class="CompProperties_Glower">
         <glowRadius>6</glowRadius>

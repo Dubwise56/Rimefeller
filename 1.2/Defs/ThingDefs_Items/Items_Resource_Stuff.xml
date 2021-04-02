@@ -23,9 +23,12 @@
     </comps>
     <projectileWhenLoaded>Bullet_Shell_Napalm</projectileWhenLoaded>
     <costList>
-      <Steel>15</Steel>
-      <Napalm>15</Napalm>
+      <Steel>20</Steel>
+      <Napalm>20</Napalm>
     </costList>
+	  <recipeMaker>
+		  <researchPrerequisite>Mortars</researchPrerequisite>
+	  </recipeMaker>
   </ThingDef>
   
   <ThingDef ParentName="BaseBullet">
