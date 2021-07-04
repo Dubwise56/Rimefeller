@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <ResearchTabDef>
+    <defName>Rimefeller</defName>
+    <label>Rimefeller</label>
+  </ResearchTabDef>
+  
+  <ResearchProjectDef>
+    <defName>OilDrilling</defName>
+    <label>Drill for oil</label>
+    <tab>Rimefeller</tab>
+    <description>Oil Drilling.</description>
+    <baseCost>2500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>Electricity</li>
+    </prerequisites>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>DeepOilWells</defName>
+    <label>Deep Wells</label>
+    <tab>Rimefeller</tab>
+    <description>Drill deeper wells to access new larger oil reservoirs.</description>
+    <baseCost>6000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>OilDrilling</li>
+      <li>GroundPenetratingScanner</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  
+  
+  <ResearchProjectDef>
+    <defName>ChemfuelRefining</defName>
+    <label>Chemfuel Refining</label>
+    <tab>Rimefeller</tab>
+    <description>Refine crude oil into chemfuel to be stored in chemfuel tanks.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>OilDrilling</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>NeutroamineProduction</defName>
+    <label>Neutroamine</label>
+    <tab>Rimefeller</tab>
+    <description>Produce Neutroamine from stored chemfuel, used for making medicine</description>
+    <baseCost>4500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthamideProduction</li>
+      <li>MedicineProduction</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>SynthyleneProduction</defName>
+    <label>Synthylene</label>
+    <tab>Rimefeller</tab>
+    <description>Produce the generic building material synthylene with a selection of colours from stored chemfuel</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>ChemfuelRefining</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>Napalm</defName>
+    <label>Napalm</label>
+    <tab>Rimefeller</tab>
+    <description>Highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene</description>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthyleneProduction</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>ArtificialFloors</defName>
+    <label>Artificial Flooring</label>
+    <tab>Rimefeller</tab>
+    <description>Produce artificial flooring from synthylene</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthyleneProduction</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>SynthyleneComponents</defName>
+    <label>Synthylene Components</label>
+    <tab>Rimefeller</tab>
+    <description>Stretch out your steel reserves by making components using synthylene and steel</description>
+    <baseCost>2500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthyleneProduction</li>
+      <li>Fabrication</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>SynthyleneAdvComponents</defName>
+    <label>Advanced Synthylene Components</label>
+    <tab>Rimefeller</tab>
+    <description>Stretch out your steel reserves by making advanced components using synthylene</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthyleneComponents</li>
+      <li>AdvancedFabrication</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  
+
+  <ResearchProjectDef>
+    <defName>SynthreadProduction</defName>
+    <label>Synthread</label>
+    <tab>Rimefeller</tab>
+    <description>Produce synthread from stored chemfuel</description>
+    <baseCost>2000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthyleneProduction</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>SynthamideProduction</defName>
+    <label>Synthamide</label>
+    <tab>Rimefeller</tab>
+    <description>Produce Synthamide, Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing.</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthreadProduction</li>
+      <li>Fabrication</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>SynthamideCompositeProduction</defName>
+    <label>Synthamide Composite</label>
+    <tab>Rimefeller</tab>
+    <description>Produce Synthamide Composite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres</description>
+    <discoveredLetterTitle>Synthamide Composite</discoveredLetterTitle>
+    <discoveredLetterText>You can now produce Synthamide composite! first craft uncured composite at a fabrication bench, construct an autoclave, then load uncured composite into the autoclave to cure it.</discoveredLetterText>
+    <baseCost>4000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthamideProduction</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>PlasteelProduction</defName>
+    <label>Plasteel</label>
+    <tab>Rimefeller</tab>
+    <description>Discover the secrets of making Plasteel</description>
+    <discoveredLetterTitle>Plasteel Production</discoveredLetterTitle>
+    <discoveredLetterText>You can now produce Plasteel! craft uncured Plasteel at a fabrication bench, construct an autoclave, then set the autoclave to plasteel curing mode.</discoveredLetterText>
+    <baseCost>3500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>SynthamideCompositeProduction</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>HyperweaveProduction</defName>
+    <label>Hyperweave</label>
+    <tab>Rimefeller</tab>
+    <description>Discover the secrets of making Hyperweave</description>
+    <baseCost>3500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>PlasteelProduction</li>
+    </prerequisites>
+    <researchViewX>7</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  
+</Defs>
