@@ -131,7 +131,7 @@
   <ThingDef ParentName="BasedWell">
     <defName>OilWell</defName>
     <label>Oil Well</label>
-    <description>Extracts oil from underground reservoirs, requires a resource console to view the oil grid!</description>
+    <description>Extracts oil from underground reservoirs, requires a resource console to view the oil fields, and miners to drill the well.</description>
     <costList>
       <Steel>120</Steel>
       <ComponentIndustrial>6</ComponentIndustrial>
@@ -175,7 +175,7 @@
       <drawSize>(4,7)</drawSize>
       <drawRotated>false</drawRotated>
     </graphicData>
-    <description>Extracts oil from underground reservoirs, requires a ground radar to view the deep oil grid!</description>
+    <description>Extracts oil from underground reservoirs, requires a resource console and ground radar to view the deep oil fields, and miners to drill the well</description>
     <costList>
       <Steel>120</Steel>
       <ComponentIndustrial>6</ComponentIndustrial>

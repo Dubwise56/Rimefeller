@@ -66,8 +66,8 @@
     <defName>SuperviseDrilling</defName>
     <label>Supervise Drilling</label>
     <giverClass>Rimefeller.WorkGiver_SuperviseDrilling</giverClass>
-    <workType>Construction</workType>
-    <priorityInType>35</priorityInType>
+    <workType>Mining</workType>
+    <priorityInType>110</priorityInType>
     <verb>supervise</verb>
     <gerund>supervising</gerund>
     <requiredCapacities>
