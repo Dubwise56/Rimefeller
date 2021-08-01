@@ -2,71 +2,71 @@
 <LanguageData>
   
   <!-- EN: Crude Cracker -->
-  <CrudeCracker.label>石油精炼厂</CrudeCracker.label>
+  <CrudeCracker.label>石油精煉廠</CrudeCracker.label>
   <!-- EN: Cracks crude oil into chemfuel which must be stored on connected chemfuel tanks, chemfuel can be pumped to connected chemfuel hoppers -->
-  <CrudeCracker.description>将石油精炼成化合燃料，必须将与化合燃料罐相连接，石油精炼厂生产的化合燃料可被泵送到相连接的化合燃料存储罐</CrudeCracker.description>
+  <CrudeCracker.description>將石油精煉成化合燃料，必須將與化合燃料罐相連接，石油精煉廠生產的化合燃料可被泵送到相連接的化合燃料存儲罐</CrudeCracker.description>
   <!-- EN: Power mode -->
   <CrudeCracker.comps.CompCrudeCracker.GizmoLabel>供能模式</CrudeCracker.comps.CompCrudeCracker.GizmoLabel>
   
   <!-- EN: Deep Oil Well -->
   <DeepOilWell.label>深油井</DeepOilWell.label>
   <!-- EN: Extracts oil from underground reservoirs, requires a resource console and ground radar to view the deep oil fields, and miners to drill the well -->
-  <DeepOilWell.description>从地下油田开采石油，需要连接石化控制台！</DeepOilWell.description>
+  <DeepOilWell.description>從地下油田開採石油，需要連接石化控制台！</DeepOilWell.description>
   <!-- EN: Pipe stockpile -->
   <DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>管道存量</DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Steel for pipe -->
-  <DeepOilWell.comps.CompRefuelable.fuelLabel>管道用钢铁</DeepOilWell.comps.CompRefuelable.fuelLabel>
+  <DeepOilWell.comps.CompRefuelable.fuelLabel>管道用鋼鐵</DeepOilWell.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot drill: Needs more pipe -->
-  <DeepOilWell.comps.CompRefuelable.outOfFuelMessage>不能钻孔：需要更多的管道</DeepOilWell.comps.CompRefuelable.outOfFuelMessage>
+  <DeepOilWell.comps.CompRefuelable.outOfFuelMessage>不能鑽孔：需要更多的管道</DeepOilWell.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: Deep Oil Well Head -->
   <DeepOilWellHead.label>深油井口</DeepOilWellHead.label>
   <!-- EN: Abandoned oil well, when left unused the pressure will rise back to full over time. Place a derrick directly over the well to continue using it -->
-  <DeepOilWellHead.description>被废弃的油井，不使用时压力会逐渐上升至满负荷。可将井架直接放置在井上继续使用</DeepOilWellHead.description>
+  <DeepOilWellHead.description>被廢棄的油井，不使用時壓力會逐漸上升至滿負荷。可將井架直接放置在井上繼續使用</DeepOilWellHead.description>
   
   <!-- EN: chemfuel powerplant -->
-  <FuelPowerplant.label>化合燃料发电站</FuelPowerplant.label>
+  <FuelPowerplant.label>化合燃料發電站</FuelPowerplant.label>
   <!-- EN: Produces power by consuming chemfuel. Must be piped into chemfuel storage tanks. -->
-  <FuelPowerplant.description>通过消耗化合燃料发电。必须用管道与化合燃料罐相连接。</FuelPowerplant.description>
+  <FuelPowerplant.description>通過消耗化合燃料發電。必須用管道與化合燃料罐相連接。</FuelPowerplant.description>
   
   <!-- EN: Chemfuel storage -->
-  <FuelStorage.label>化合燃料存储罐</FuelStorage.label>
+  <FuelStorage.label>化合燃料存儲罐</FuelStorage.label>
   <!-- EN: Stores chemfuel produced by crude crackers, chemfuel can be pumped to connected chemfuel hoppers -->
-  <FuelStorage.description>用于存储石油精炼厂生产的化合燃料，石油精炼厂生产的化合燃料可被泵送到相连接的化合燃料存储罐</FuelStorage.description>
+  <FuelStorage.description>用於存儲石油精煉廠生產的化合燃料，石油精煉廠生產的化合燃料可被泵送到相連接的化合燃料存儲罐</FuelStorage.description>
   <!-- EN: Tank Level -->
   <FuelStorage.comps.CompStorageTank.GizmoLabel>油箱液位</FuelStorage.comps.CompStorageTank.GizmoLabel>
   
   <!-- EN: Large chemfuel powerplant -->
-  <LargeFuelPowerplant.label>大型化合燃料发电站</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.label>大型化合燃料發電站</LargeFuelPowerplant.label>
   <!-- EN: Produces power by consuming chemfuel. Must be piped into chemfuel storage tanks. -->
-  <LargeFuelPowerplant.description>通过消耗化合燃料发电。必须用管道与化合燃料罐相连接。</LargeFuelPowerplant.description>
+  <LargeFuelPowerplant.description>通過消耗化合燃料發電。必須用管道與化合燃料罐相連接。</LargeFuelPowerplant.description>
   
   <!-- EN: Crude oil storage -->
-  <OilStorage.label>石油存储罐</OilStorage.label>
+  <OilStorage.label>石油存儲罐</OilStorage.label>
   <!-- EN: Stores crude oil from wells. -->
-  <OilStorage.description>用于存储从油井中开采的石油。</OilStorage.description>
+  <OilStorage.description>用於存儲從油井中開採的石油。</OilStorage.description>
   <!-- EN: Tank Level -->
   <OilStorage.comps.CompStorageTank.GizmoLabel>油箱液位</OilStorage.comps.CompStorageTank.GizmoLabel>
   
   <!-- EN: Oil Well -->
   <OilWell.label>油井</OilWell.label>
   <!-- EN: Extracts oil from underground reservoirs, requires a resource console to view the oil fields, and miners to drill the well. -->
-  <OilWell.description>从地下油田开采石油，需要连接石化控制台！</OilWell.description>
+  <OilWell.description>從地下油田開採石油，需要連接石化控制台！</OilWell.description>
   <!-- EN: Pipe stockpile -->
   <OilWell.comps.CompRefuelable.fuelGizmoLabel>管道存量</OilWell.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Steel for pipe -->
-  <OilWell.comps.CompRefuelable.fuelLabel>管道用钢铁</OilWell.comps.CompRefuelable.fuelLabel>
+  <OilWell.comps.CompRefuelable.fuelLabel>管道用鋼鐵</OilWell.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot drill: Needs more pipe -->
-  <OilWell.comps.CompRefuelable.outOfFuelMessage>不能钻孔：需要更多的管道</OilWell.comps.CompRefuelable.outOfFuelMessage>
+  <OilWell.comps.CompRefuelable.outOfFuelMessage>不能鑽孔：需要更多的管道</OilWell.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: Oil Well Head -->
   <OilWellHead.label>油井口</OilWellHead.label>
   <!-- EN: Abandoned oil well, when left unused the pressure will rise back to full over time. Place a derrick directly over the well to continue using it -->
-  <OilWellHead.description>被废弃的油井，不使用时压力会逐渐上升至满负荷。可将井架直接放置在井上继续使用</OilWellHead.description>
+  <OilWellHead.description>被廢棄的油井，不使用時壓力會逐漸上升至滿負荷。可將井架直接放置在井上繼續使用</OilWellHead.description>
   
   <!-- EN: Resource Console -->
   <ResourceConsole.label>石化控制台</ResourceConsole.label>
   <!-- EN: Manned computer console required to operate crude crackers and refineries -->
-  <ResourceConsole.description>用于控制石油精炼厂和石化加工厂的计算机系统</ResourceConsole.description>
+  <ResourceConsole.description>用於控制石油精煉廠和石化加工廠的計算機系統</ResourceConsole.description>
   
 </LanguageData>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Crude To Fuel Ratio -->
-  <CrudeToFuelRatio.label>石油-化合燃料转化率</CrudeToFuelRatio.label>
+  <CrudeToFuelRatio.label>石油-化合燃料轉化率</CrudeToFuelRatio.label>
   <!-- EN: Cheat -->
   <CrudeToFuelRatio.options.0.label>作弊</CrudeToFuelRatio.options.0.label>
   <!-- EN: 0.5:1 -->
@@ -23,32 +23,32 @@
   <CrudeToFuelRatio.options.8.label>5:1</CrudeToFuelRatio.options.8.label>
   
   <!-- EN: Oil spill limit per cell -->
-  <OilGridCapacity.label>每地图格石油泄漏率</OilGridCapacity.label>
+  <OilGridCapacity.label>每地圖格石油泄漏率</OilGridCapacity.label>
   <!-- EN: Cheat -->
   <OilGridCapacity.options.0.label>作弊</OilGridCapacity.options.0.label>
   <!-- EN: Baby -->
   <OilGridCapacity.options.1.label>阿巴</OilGridCapacity.options.1.label>
   <!-- EN: Easy -->
-  <OilGridCapacity.options.2.label>简单</OilGridCapacity.options.2.label>
+  <OilGridCapacity.options.2.label>簡單</OilGridCapacity.options.2.label>
   <!-- EN: Normal -->
   <OilGridCapacity.options.3.label>正常</OilGridCapacity.options.3.label>
   <!-- EN: Challenge -->
-  <OilGridCapacity.options.4.label>挑战</OilGridCapacity.options.4.label>
+  <OilGridCapacity.options.4.label>挑戰</OilGridCapacity.options.4.label>
   <!-- EN: Nasty -->
-  <OilGridCapacity.options.5.label>恶心</OilGridCapacity.options.5.label>
+  <OilGridCapacity.options.5.label>噁心</OilGridCapacity.options.5.label>
   <!-- EN: Extreme -->
-  <OilGridCapacity.options.6.label>极端</OilGridCapacity.options.6.label>
+  <OilGridCapacity.options.6.label>極端</OilGridCapacity.options.6.label>
   
   <!-- EN: Pipeline Visibility -->
-  <OilPipeVisibility.label>管道可见性</OilPipeVisibility.label>
+  <OilPipeVisibility.label>管道可見性</OilPipeVisibility.label>
   <!-- EN: Hidden -->
-  <OilPipeVisibility.options.0.label>隐藏</OilPipeVisibility.options.0.label>
+  <OilPipeVisibility.options.0.label>隱藏</OilPipeVisibility.options.0.label>
   <!-- EN: Hidden under floors -->
-  <OilPipeVisibility.options.1.label>隐藏于地板下</OilPipeVisibility.options.1.label>
+  <OilPipeVisibility.options.1.label>隱藏於地板下</OilPipeVisibility.options.1.label>
   <!-- EN: Always visible -->
-  <OilPipeVisibility.options.2.label>总是可见</OilPipeVisibility.options.2.label>
+  <OilPipeVisibility.options.2.label>總是可見</OilPipeVisibility.options.2.label>
   <!-- EN: Always visible pipe to ground -->
-  <OilPipeVisibility.options.3.label>总是可见于地板上</OilPipeVisibility.options.3.label>
+  <OilPipeVisibility.options.3.label>總是可見於地板上</OilPipeVisibility.options.3.label>
   
   <!-- EN: Oil well capacity -->
   <OilPumpCapacity.label>采油效率</OilPumpCapacity.label>

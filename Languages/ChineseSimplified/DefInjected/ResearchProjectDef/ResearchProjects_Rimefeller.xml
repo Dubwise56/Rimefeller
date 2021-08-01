@@ -1,41 +1,82 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <OilDrilling.label>开采石油</OilDrilling.label>
-  <OilDrilling.description>石油开采中.</OilDrilling.description>
-
+  
+  <!-- EN: Artificial Flooring -->
+  <ArtificialFloors.label>人造材料地板</ArtificialFloors.label>
+  <!-- EN: Produce artificial flooring from synthylene -->
+  <ArtificialFloors.description>使用聚乙烯制造地板。</ArtificialFloors.description>
+  
+  <!-- EN: Chemfuel Refining -->
+  <ChemfuelRefining.label>化合燃料精炼</ChemfuelRefining.label>
+  <!-- EN: Refine crude oil into chemfuel to be stored in chemfuel tanks. -->
+  <ChemfuelRefining.description>将石油加工成化合燃料，储存在化合燃料存储罐中。</ChemfuelRefining.description>
+  
+  <!-- EN: Deep Wells -->
   <DeepOilWells.label>深油井</DeepOilWells.label>
-  <DeepOilWells.description>钻得更深的井以进入新的油田.</DeepOilWells.description>
-
-  <ChemfuelRefining.label>精炼燃油</ChemfuelRefining.label>
-  <ChemfuelRefining.description>将原油提炼成化学燃料，储存在化学燃料罐中.</ChemfuelRefining.description>
-
-  <NeutroamineProduction.label>中性胺</NeutroamineProduction.label>
-  <NeutroamineProduction.description>从储存的化学燃料中产生中性胺，用于制造药物</NeutroamineProduction.description>
-
-  <SynthyleneProduction.label>聚乙烯塑料</SynthyleneProduction.label>
-  <SynthyleneProduction.description>从储存的化学燃料中生产可以选择颜色的通用的聚乙烯塑料作为建筑材料</SynthyleneProduction.description>
-
+  <!-- EN: Drill deeper wells to access new larger oil reservoirs. -->
+  <DeepOilWells.description>钻探得更深的油井，以便开采更大的新油田。</DeepOilWells.description>
+  
+  <!-- EN: Hyperweave -->
+  <HyperweaveProduction.label>超织物</HyperweaveProduction.label>
+  <!-- EN: Discover the secrets of making Hyperweave -->
+  <HyperweaveProduction.description>超织物合成探秘。</HyperweaveProduction.description>
+  
+  <!-- EN: Napalm -->
   <Napalm.label>凝固汽油</Napalm.label>
-  <Napalm.description>高度易燃的凝固汽油，由化学燃料和聚乙烯增稠</Napalm.description>
-
-  <ArtificialFloors.label>人造地板</ArtificialFloors.label>
-  <ArtificialFloors.description>用聚乙烯塑料制造人造地板 </ArtificialFloors.description>
-
-  <SynthyleneComponents.label>聚乙烯塑料零件</SynthyleneComponents.label>
-  <SynthyleneComponents.description>用聚乙烯塑料和钢铁制作零件，扩展你钢铁的库存</SynthyleneComponents.description>
-
+  <!-- EN: Highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene -->
+  <Napalm.description>将储存的化合燃料加工成凝固汽油，一种可用于燃烧弹的高度易燃粘性胶状物，是一种化合燃料和聚乙烯的混合物。</Napalm.description>
+  
+  <!-- EN: Neutroamine -->
+  <NeutroamineProduction.label>中性胺</NeutroamineProduction.label>
+  <!-- EN: Produce Neutroamine from stored chemfuel, used for making medicine -->
+  <NeutroamineProduction.description>将储存的化合燃料加工成中性胺，一种可用于制药的材料。</NeutroamineProduction.description>
+  
+  <!-- EN: Drill for oil -->
+  <OilDrilling.label>开采石油</OilDrilling.label>
+  <!-- EN: Oil Drilling. -->
+  <OilDrilling.description>石油开采。</OilDrilling.description>
+  
+  <!-- EN: Plasteel -->
+  <PlasteelProduction.label>玻璃钢</PlasteelProduction.label>
+  <!-- EN: Discover the secrets of making Plasteel -->
+  <PlasteelProduction.description>玻璃钢合成探秘。</PlasteelProduction.description>
+  <!-- EN: You can now produce Plasteel! craft uncured Plasteel at a fabrication bench, construct an autoclave, then set the autoclave to plasteel curing mode. -->
+  <PlasteelProduction.discoveredLetterText>你现在可以生产玻璃钢！首先在精密装配台制作未固化的玻璃钢，然后建造一个釜式反应器，最后将釜式反应器设置为固化玻璃钢模式。</PlasteelProduction.discoveredLetterText>
+  <!-- EN: Plasteel Production -->
+  <PlasteelProduction.discoveredLetterTitle>玻璃钢生产</PlasteelProduction.discoveredLetterTitle>
+  
+  <!-- EN: Synthamide Composite -->
+  <SynthamideCompositeProduction.label>聚酰胺复合材料</SynthamideCompositeProduction.label>
+  <!-- EN: Produce Synthamide Composite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres -->
+  <SynthamideCompositeProduction.description>合成聚酰胺复合材料，一种高强度轻质阻燃隔温复合材料，由多种聚合物混合制成。</SynthamideCompositeProduction.description>
+  <!-- EN: You can now produce Synthamide composite! first craft uncured composite at a fabrication bench, construct an autoclave, then load uncured composite into the autoclave to cure it. -->
+  <SynthamideCompositeProduction.discoveredLetterText>你现在可以生产聚酰胺复合材料！首先在精密装配台制作未固化的聚酰胺复合材料，然后建造一个釜式反应器，最后将釜式反应器设置为固化复合材料模式。</SynthamideCompositeProduction.discoveredLetterText>
+  <!-- EN: Synthamide Composite -->
+  <SynthamideCompositeProduction.discoveredLetterTitle>聚酰胺复合材料</SynthamideCompositeProduction.discoveredLetterTitle>
+  
+  <!-- EN: Synthamide -->
+  <SynthamideProduction.label>聚酰胺纤维</SynthamideProduction.label>
+  <!-- EN: Produce Synthamide, Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing. -->
+  <SynthamideProduction.description>将储存的化合燃料加工成聚酰胺纤维，一种高强度的织物。</SynthamideProduction.description>
+  
+  <!-- EN: Synthread -->
   <SynthreadProduction.label>合成纤维</SynthreadProduction.label>
-  <SynthreadProduction.description>由化合燃料生产合成纤维</SynthreadProduction.description>
-
-  <SynthamideProduction.label>合成酰胺纤维</SynthamideProduction.label>
-  <SynthamideProduction.description>合成酰胺纤维，合成酰胺纤维是耐热的和强韧的合成纤维，可用于制造非常耐用的衣物。</SynthamideProduction.description>
-
-  <SynthamideCompositeProduction.label>合成酰胺复合材料</SynthamideCompositeProduction.label>
-  <SynthamideCompositeProduction.description>生产合成酰胺复合材料，一种高强度轻量防火隔离技术复合材料，由合成酰胺与复合材料制成。</SynthamideCompositeProduction.description>
-
-  <PlasteelProduction.label>塑钢</PlasteelProduction.label>
-  <PlasteelProduction.description>发现制造高强度复合材料塑钢的秘诀</PlasteelProduction.description>
-
-
+  <!-- EN: Produce synthread from stored chemfuel -->
+  <SynthreadProduction.description>将储存的化合燃料加工成合成纤维，一种可用于制作服装的织物。。</SynthreadProduction.description>
+  
+  <!-- EN: Advanced Synthylene Components -->
+  <SynthyleneAdvComponents.label>高级聚乙烯零部件</SynthyleneAdvComponents.label>
+  <!-- EN: Stretch out your steel reserves by making advanced components using synthylene -->
+  <SynthyleneAdvComponents.description>使用聚乙烯塑料制作高级零部件，减缓你钢铁库存的消耗。</SynthyleneAdvComponents.description>
+  
+  <!-- EN: Synthylene Components -->
+  <SynthyleneComponents.label>聚乙烯零部件</SynthyleneComponents.label>
+  <!-- EN: Stretch out your steel reserves by making components using synthylene and steel -->
+  <SynthyleneComponents.description>使用聚乙烯塑料制作零部件，减缓你钢铁库存的消耗。</SynthyleneComponents.description>
+  
+  <!-- EN: Synthylene -->
+  <SynthyleneProduction.label>聚乙烯</SynthyleneProduction.label>
+  <!-- EN: Produce the generic building material synthylene with a selection of colours from stored chemfuel -->
+  <SynthyleneProduction.description>将储存的化合燃料加工成色泽多样的聚乙烯塑料，一种可用于建筑或制作零部件的材料。</SynthyleneProduction.description>
+  
 </LanguageData>

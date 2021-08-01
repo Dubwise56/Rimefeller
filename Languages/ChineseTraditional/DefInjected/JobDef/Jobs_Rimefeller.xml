@@ -5,15 +5,15 @@
   <CleanOil.reportString>清理石油。</CleanOil.reportString>
   
   <!-- EN: Emptying Autoclave. -->
-  <EmptyAutoclave.reportString>清空高压处理罐。</EmptyAutoclave.reportString>
+  <EmptyAutoclave.reportString>清空高壓處理罐。</EmptyAutoclave.reportString>
   
   <!-- EN: Filling Autoclave. -->
-  <FillAutoclave.reportString>填满高压处理罐。</FillAutoclave.reportString>
+  <FillAutoclave.reportString>填滿高壓處理罐。</FillAutoclave.reportString>
   
   <!-- EN: operating TargetA. -->
   <OperateResourceConsole.reportString>操作TargetA。</OperateResourceConsole.reportString>
   
   <!-- EN: Supervising drilling operation. -->
-  <SuperviseDrilling.reportString>监督钻井作业。</SuperviseDrilling.reportString>
+  <SuperviseDrilling.reportString>監督鑽井作業。</SuperviseDrilling.reportString>
   
 </LanguageData>

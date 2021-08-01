@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Composite -->
+  <Composite.label>复合材料</Composite.label>
+  
+  <!-- EN: Plastic -->
+  <Plastic.label>塑料</Plastic.label>
+  
+</LanguageData>

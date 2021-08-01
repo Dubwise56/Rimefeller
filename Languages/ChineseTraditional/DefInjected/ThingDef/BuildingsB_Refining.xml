@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Autoclave -->
+  <Autoclave.label>釜式反應器</Autoclave.label>
+  <!-- EN: Bakes uncured plasteel or synthamide composite into the final product -->
+  <Autoclave.description>將未固化的玻璃鋼或聚酰胺複合材料加工成最終產品。</Autoclave.description>
+  
+  <!-- EN: chemfuel pump -->
+  <ChemfuelHopper.label>化合燃料泵</ChemfuelHopper.label>
+  <!-- EN: Pumps chemfuel from chemfuel storage tanks into usable/sellable cans. -->
+  <ChemfuelHopper.description>將化學燃料存儲罐中的化合燃料泵出到可用的/可出售的小桶中。</ChemfuelHopper.description>
+  
+  <!-- EN: chemfuel siphon -->
+  <ChemfuelSiphon.label>化合燃料抽取裝置</ChemfuelSiphon.label>
+  <!-- EN: Siphons chemfuel from cans into chemfuel storage tanks. -->
+  <ChemfuelSiphon.description>將小桶中中的化合燃料抽出到化學燃料存儲罐中。</ChemfuelSiphon.description>
+  
+  <!-- EN: Hyperweave Refiner -->
+  <HyperweaveRefiner.label>超織物合成裝置</HyperweaveRefiner.label>
+  <!-- EN: Processes chemfuel into Hyperweave, a high strength synthetic fibre -->
+  <HyperweaveRefiner.description>將化合燃料加工成超織物，一種超高強度的織物。</HyperweaveRefiner.description>
+  
+  <!-- EN: Napalm Refiner -->
+  <NapalmRefiner.label>凝固汽油精煉裝置</NapalmRefiner.label>
+  <!-- EN: Processes chemfuel into napalm, a highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene. -->
+  <NapalmRefiner.description>將化合燃料加工成凝固汽油，一種可用於燃燒彈的高度易燃粘性膠狀物，是一種化合燃料和聚乙烯的混合物。</NapalmRefiner.description>
+  
+  <!-- EN: Neutroamine Refiner -->
+  <NeutroamineRefiner.label>中性胺精煉裝置</NeutroamineRefiner.label>
+  <!-- EN: Processes chemfuel into Neutroamine for making medicine -->
+  <NeutroamineRefiner.description>將化合燃料加工成中性胺，一種可用於制藥的材料。</NeutroamineRefiner.description>
+  
+  <!-- EN: Refinery unloading bay -->
+  <RefineryLoadingBay.label>石化產品出口</RefineryLoadingBay.label>
+  <!-- EN: Bay required by refineries to unload product. -->
+  <RefineryLoadingBay.description>石油化工產品的產出口。</RefineryLoadingBay.description>
+  
+  <!-- EN: Synthamide Refiner -->
+  <SynthamideRefiner.label>聚酰胺纖維合成裝置</SynthamideRefiner.label>
+  <!-- EN: Processes chemfuel into Synthamide weave, a high strength synthetic fibre -->
+  <SynthamideRefiner.description>將化合燃料加工成聚酰胺纖維，一種高強度的織物。</SynthamideRefiner.description>
+  
+  <!-- EN: Synthread Refiner -->
+  <SynthreadRefiner.label>合成纖維合成裝置</SynthreadRefiner.label>
+  <!-- EN: Processes chemfuel into synthread, a synthetic fibre for clothing -->
+  <SynthreadRefiner.description>將化合燃料加工成合成纖維，一種可用於製作服裝的織物。</SynthreadRefiner.description>
+  
+  <!-- EN: Synthylene Refiner -->
+  <SynthyleneRefiner.label>聚乙烯合成裝置</SynthyleneRefiner.label>
+  <!-- EN: Processes chemfuel into synthylene with a selection of colours, synthylene can be used as a generic building material and as an ingredient for components. -->
+  <SynthyleneRefiner.description>將化合燃料加工成色澤多樣的聚乙烯塑料，一種可用於建築或製作零部件的材料。</SynthyleneRefiner.description>
+  
+</LanguageData>
