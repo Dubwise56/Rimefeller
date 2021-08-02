@@ -9,14 +9,14 @@
   <CleanOil.verb>清理</CleanOil.verb>
   
   <!-- EN: Empty Autoclave -->
-  <EmptyAutoclave.label>清空釜式反应器</EmptyAutoclave.label>
+  <EmptyAutoclave.label>清空釜式反應器</EmptyAutoclave.label>
   <!-- EN: Emptying Autoclave -->
   <EmptyAutoclave.gerund>清空</EmptyAutoclave.gerund>
   <!-- EN: Empty Autoclave -->
   <EmptyAutoclave.verb>清空</EmptyAutoclave.verb>
   
   <!-- EN: Fill Autoclave -->
-  <FillAutoclave.label>填充釜式反应器</FillAutoclave.label>
+  <FillAutoclave.label>填充釜式反應器</FillAutoclave.label>
   <!-- EN: Filling Autoclave -->
   <FillAutoclave.gerund>填充</FillAutoclave.gerund>
   <!-- EN: Fill Autoclave -->

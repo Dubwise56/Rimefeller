@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Tremors -->
+  <DrillQuake.label>微震</DrillQuake.label>
+  <!-- EN: Tremors -->
+  <DrillQuake.letterLabel>微震</DrillQuake.letterLabel>
+  <!-- EN: Excessive oil drilling has caused ground instability. -->
+  <DrillQuake.letterText>过度的石油钻探已导致地表不稳定。</DrillQuake.letterText>
+  
+  <!-- EN: Oil spill -->
+  <OilSpill.label>石油泄漏</OilSpill.label>
+  <!-- EN: Oil Spill -->
+  <OilSpill.letterLabel>石油泄漏</OilSpill.letterLabel>
+  <!-- EN: A section of pipeline has broken and Oil has spilled out, Oil can be cleaned using the clean oil designator. -->
+  <OilSpill.letterText>一处石油管道破裂而泄漏，可以使用“清理石油”命令来清除。</OilSpill.letterText>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Napalm trail -->
+  <Filth_NapalmTrail.label>凝固汽油路</Filth_NapalmTrail.label>
+  <!-- EN: A trail of napalm. -->
+  <Filth_NapalmTrail.description>用凝固汽油鋪設的路面。</Filth_NapalmTrail.description>
+  <!-- EN: Ignite -->
+  <Filth_NapalmTrail.comps.CompUsable.useLabel>點燃</Filth_NapalmTrail.comps.CompUsable.useLabel>
+  
+  <!-- EN: Oil Slick -->
+  <Filth_OilSlick.label>浮油</Filth_OilSlick.label>
+  <!-- EN: A puddle of flammable oil. -->
+  <Filth_OilSlick.description>浮在水面上的一灘易燃石油。</Filth_OilSlick.description>
+  <!-- EN: Ignite -->
+  <Filth_OilSlick.comps.CompUsable.useLabel>點燃</Filth_OilSlick.comps.CompUsable.useLabel>
+  
+  <!-- EN: Napalm Bomb -->
+  <NapalmBomb.label>凝固汽油桶</NapalmBomb.label>
+  <!-- EN: Napalm Bomb -->
+  <NapalmBomb.description>凝固汽油桶</NapalmBomb.description>
+  <!-- EN: Ignite -->
+  <NapalmBomb.comps.CompUsable.useLabel>點燃</NapalmBomb.comps.CompUsable.useLabel>
+  
+  <!-- EN: Oil Pipeline -->
+  <OilPipeline.label>輸油管道</OilPipeline.label>
+  <!-- EN: Plumbing for connecting plumbed things. -->
+  <OilPipeline.description>用於設備之間的石油傳輸。</OilPipeline.description>
+  
+  <!-- EN: pipeline valve -->
+  <pipelineValve.label>石油閥門</pipelineValve.label>
+  <!-- EN: Opens or closes connections between pipelines. -->
+  <pipelineValve.description>打開或關閉輸油管道之間的連通。</pipelineValve.description>
+  
+  <!-- EN: Spark Grid -->
+  <SparkGrid.label>自動點火裝置</SparkGrid.label>
+  <!-- EN: Ignites flammable things such as napalm when powered. -->
+  <SparkGrid.description>通電後自動點燃凝固汽油等易燃物品。</SparkGrid.description>
+  
+</LanguageData>

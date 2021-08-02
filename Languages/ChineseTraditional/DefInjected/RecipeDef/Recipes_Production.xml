@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make synthylene component -->
+  <Make_ComponentIndustrialPlastic.label>製作聚乙烯零部件</Make_ComponentIndustrialPlastic.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrialPlastic.description>製作零部件。</Make_ComponentIndustrialPlastic.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrialPlastic.jobString>正在製作零部件。</Make_ComponentIndustrialPlastic.jobString>
+  
+  <!-- EN: make synthylene component x5 -->
+  <Make_ComponentIndustrialPlasticX5.label>製作聚乙烯零部件（5份）</Make_ComponentIndustrialPlasticX5.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrialPlasticX5.description>製作零部件。</Make_ComponentIndustrialPlasticX5.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrialPlasticX5.jobString>正在製作零部件。</Make_ComponentIndustrialPlasticX5.jobString>
+  
+  <!-- EN: make advanced Synthylene component -->
+  <Make_ComponentSpacerSynthylene.label>製作高級聚乙烯零部件</Make_ComponentSpacerSynthylene.label>
+  <!-- EN: Make an advanced Synthylene component. -->
+  <Make_ComponentSpacerSynthylene.description>製作高級聚乙烯零部件。</Make_ComponentSpacerSynthylene.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacerSynthylene.jobString>正在製作高級聚乙烯零部件。</Make_ComponentSpacerSynthylene.jobString>
+  
+  <!-- EN: make Napalm -->
+  <Make_Napalm.label>製作凝固汽油</Make_Napalm.label>
+  <!-- EN: Make a batch of napalm by mixing chemfuel and synthylene. (Machining Table) -->
+  <Make_Napalm.description>將化合燃料與聚乙烯混合來製作凝固汽油。</Make_Napalm.description>
+  <!-- EN: Mixing napalm. -->
+  <Make_Napalm.jobString>正在混合凝固汽油。</Make_Napalm.jobString>
+  
+  <!-- EN: make Plasteel -->
+  <Make_PlasteelComposite.label>製作玻璃鋼</Make_PlasteelComposite.label>
+  <!-- EN: Make Plasteel. -->
+  <Make_PlasteelComposite.description>製作玻璃鋼。</Make_PlasteelComposite.description>
+  <!-- EN: Making Plasteel. -->
+  <Make_PlasteelComposite.jobString>正在製作玻璃鋼。</Make_PlasteelComposite.jobString>
+  
+  <!-- EN: RefiningStub -->
+  <Make_RefiningStub.label>精煉（兼容舊存檔）</Make_RefiningStub.label>
+  <!-- EN: bah -->
+  <Make_RefiningStub.description>請刪除</Make_RefiningStub.description>
+  <Make_RefiningStub.jobString />
+  
+  <!-- EN: make Synthamide Composite -->
+  <Make_SynthamideComposite.label>製作複合材料</Make_SynthamideComposite.label>
+  <!-- EN: Make Synthamide Composite. -->
+  <Make_SynthamideComposite.description>製作聚酰胺複合材料。</Make_SynthamideComposite.description>
+  <!-- EN: Making Synthamide Composite. -->
+  <Make_SynthamideComposite.jobString>正在製作聚酰胺複合材料。</Make_SynthamideComposite.jobString>
+  
+</LanguageData>
