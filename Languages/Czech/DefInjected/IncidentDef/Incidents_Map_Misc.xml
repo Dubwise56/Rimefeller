@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<OilSpill.label>Únik ropy</OilSpill.label>
+
+	<OilSpill.letterlabel>Únik ropy</OilSpill.letterlabel>
+
+	<OilSpill.lettertext>Část ropovodu se rozbila a unikla ropa. Může být odstraněna pomocí příkazu k odstranění ropy.</OilSpill.lettertext>
+
+	<DrillQuake.label>Otřesy</DrillQuake.label>
+
+	<DrillQuake.letterlabel>Otřesy</DrillQuake.letterlabel>
+
+	<DrillQuake.lettertext>Intenzivní hloubení ropných vrtů způsobilo seismickou aktivitu.</DrillQuake.lettertext>
+
+</LanguageData>

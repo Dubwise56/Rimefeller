@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Autoclave.label>Autokláv</Autoclave.label>
+
+	<Autoclave.description>Vypéká z nevytvrzené plastoceli nebo synthamidového kompozitu konečný produkt</Autoclave.description>
+
+	<SynthamideRefiner.label>Rafinerie Synthamidu</SynthamideRefiner.label>
+
+	<SynthamideRefiner.description>Zpracovává chemické palivo na synthamidovou tkaninu, pevné, syntetické vlákno.</SynthamideRefiner.description>
+
+	<SynthreadRefiner.label>Rafinerie na syntetická vlákna</SynthreadRefiner.label>
+
+	<SynthreadRefiner.description>Zpracovává chemické palivo na syntetické vlákno, ze kterého lze vyrábět oblečení</SynthreadRefiner.description>
+
+	<ChemfuelHopper.label>Čerpadlo chemického paliva</ChemfuelHopper.label>
+
+	<ChemfuelHopper.description>Čerpá chemické palivo z nádrží do kanystrů, které lze následně prodat či z nich něco vyrobit.</ChemfuelHopper.description>
+
+	<ChemfuelSiphon.label>Násoska na chemické palivo</ChemfuelSiphon.label>
+
+	<ChemfuelSiphon.description>Čerpá chemické palivo z kanistrů do skladovacích nádrží.</ChemfuelSiphon.description>
+
+	<NeutroamineRefiner.label>Rafinerie neutroamin</NeutroamineRefiner.label>
+
+	<NeutroamineRefiner.description>Zpracovává chemické palivo na neutroamina, ze kterých se syntetizují léky</NeutroamineRefiner.description>
+
+	<NapalmRefiner.label>Rafinerie napalmu</NapalmRefiner.label>
+
+	<NapalmRefiner.description>Zpracovává chemické palivo na napalm, vysoce lepkavou, hustou kapalinu, ze které se vyrábějí zápalné bomby. Napalm se skládá z chemického paliva a synthylenu, který jej zahusťuje.</NapalmRefiner.description>
+
+	<HyperweaveRefiner.label>Rafinerie nanovláken</HyperweaveRefiner.label>
+
+	<HyperweaveRefiner.description>Zpracovává chemické palivo na pevná, syntetická nanovlákna</HyperweaveRefiner.description>
+
+	<SynthyleneRefiner.label>Rafinerie synthylenu</SynthyleneRefiner.label>
+
+	<SynthyleneRefiner.description>Zpracovává chemické palivo na libovolně barevný synthylen, který lze používat jako stavební materiál či z něj vyrábět komponenty.</SynthyleneRefiner.description>
+
+	<RefineryLoadingBay.label>Vykládací rampa rafinérie</RefineryLoadingBay.label>
+
+	<RefineryLoadingBay.description>Rampa, která musí stát u rafinérií, aby měly kam vykládat své výrobky.</RefineryLoadingBay.description>
+
+</LanguageData>

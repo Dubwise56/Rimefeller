@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<EmptyAutoclave.label>Vyprázdnit autokláv</EmptyAutoclave.label>
+
+	<EmptyAutoclave.verb>Vyprázdnit autokláv</EmptyAutoclave.verb>
+
+	<EmptyAutoclave.gerund>Vyprazdňuje autokláv</EmptyAutoclave.gerund>
+
+	<FillAutoclave.label>Naplnit autokláv</FillAutoclave.label>
+
+	<FillAutoclave.verb>Naplnit autokláv</FillAutoclave.verb>
+
+	<FillAutoclave.gerund>Plní autokláv</FillAutoclave.gerund>
+
+	<CleanOil.label>Vyčistit ropnou skvrnu</CleanOil.label>
+
+	<CleanOil.verb>Vyčistit ropnou skrvnu</CleanOil.verb>
+
+	<CleanOil.gerund>Čistí ropnou skvrnu</CleanOil.gerund>
+
+	<SuperviseDrilling.label>Dohlížet na vrtání</SuperviseDrilling.label>
+
+	<SuperviseDrilling.verb>Dohlížet na vrtání</SuperviseDrilling.verb>
+
+	<SuperviseDrilling.gerund>Dohlíží na vrtání</SuperviseDrilling.gerund>
+
+	<OperateResourceConsole.label>Pracovat na surovinové konzoli</OperateResourceConsole.label>
+
+	<OperateResourceConsole.verb>Pracovat na konzoli</OperateResourceConsole.verb>
+
+	<OperateResourceConsole.gerund>Pracuje na konzoli</OperateResourceConsole.gerund>
+
+</LanguageData>

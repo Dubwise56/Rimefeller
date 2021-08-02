@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilPipeVisibility.label>Viditelnost ropovodů</OilPipeVisibility.label>
+  <OilPipeVisibility.options.0.label>Skryté</OilPipeVisibility.options.0.label>
+  <OilPipeVisibility.options.1.label>Skryté pod podlahami</OilPipeVisibility.options.1.label>
+  <OilPipeVisibility.options.2.label>Vždy viditelné</OilPipeVisibility.options.2.label>
+  <OilPipeVisibility.options.3.label>Vždy viditelná trubka do země</OilPipeVisibility.options.3.label>
+  
+  <CrudeToFuelRatio.label>Poměr surová ropa/palivo</CrudeToFuelRatio.label>
+  <OilPumpCapacity.label>Kapacita vrtů</OilPumpCapacity.label>
+  <OilRegenRate.label>Obnova ložisek ropy</OilRegenRate.label>
+  <OilGridCapacity.label>Kapacita ropy na políčko</OilGridCapacity.label>
+  
+</LanguageData>

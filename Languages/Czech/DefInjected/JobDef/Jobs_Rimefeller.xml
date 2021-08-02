@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CleanOil.reportstring>Odstraňuje ropu.</CleanOil.reportstring>
+
+	<SuperviseDrilling.reportstring>Dohlíží na hloubení vrtu.</SuperviseDrilling.reportstring>
+
+	<EmptyAutoclave.reportstring>Vyprazdňuje autokláv.</EmptyAutoclave.reportstring>
+
+	<FillAutoclave.reportstring>Plní autokláv.</FillAutoclave.reportstring>
+
+	<OperateResourceConsole.reportstring>Pracuje na: TargetA.</OperateResourceConsole.reportstring>
+
+</LanguageData>
