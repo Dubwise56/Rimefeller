@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <Filth_OilSlick.label>Óleo derramado</Filth_OilSlick.label>
+  <Filth_OilSlick.description>Uma poça de óleo combustível.</Filth_OilSlick.description>
+  <Filth_OilSlick.comps.CompUsable.useLabel>Colocar fogo</Filth_OilSlick.comps.CompUsable.useLabel>
+
+  <Filth_NapalmTrail.label>Pilha de napalm</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>Pode ser derramado manualmente no solo.</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.CompUsable.useLabel>Colocar fogo</Filth_NapalmTrail.comps.CompUsable.useLabel>
+
+  <NapalmBomb.label>Barril de napalm</NapalmBomb.label>
+  <NapalmBomb.description>Um barril cheio de napalm. Cuidado, muito explosivo (inclusive para seus inimigos).</NapalmBomb.description>
+  <NapalmBomb.comps.CompUsable.useLabel>Colocar fogo</NapalmBomb.comps.CompUsable.useLabel>
+
+  <SparkGrid.label>Igniter</SparkGrid.label>
+  <SparkGrid.description>Incendeia substâncias inflamáveis ​​próximas, incluindo napalm. Use com um switch remoto.</SparkGrid.description>
+
+  <OilPipeline.label>Tubo de óleo</OilPipeline.label>
+  <OilPipeline.description>Permite o transporte de óleo e combustível químico entre as instalações de armazenamento e os edifícios que os recebem.</OilPipeline.description>
+
+  <pipelineValve.label>Válvula de óleo</pipelineValve.label>
+  <pipelineValve.description>Permite que você controle o fornecimento de óleo fechando ou abrindo o oleoduto.</pipelineValve.description>
+
+
+
+</LanguageData>

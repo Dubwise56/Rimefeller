@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Uma substância extremamente inflamável e pegajosa usada na fabricação de bombas incendiárias. Consiste em combustível químico misturado com sintelen.</Napalm.description>
+
+  <Shell_Napalm.label>Projétil napalm</Shell_Napalm.label>
+  <Shell_Napalm.description>Um projétil cheio de uma mistura combustível e uma pequena carga de explosivos. Provoca incêndio na área da explosão. Pode ser usado como projétil em morteiros. Explode em dano.</Shell_Napalm.description>
+  <Bullet_Shell_Napalm.label>Projétil napalm</Bullet_Shell_Napalm.label>
+
+  <OilBarrel.label>Barril de óleo</OilBarrel.label>
+  <OilBarrel.description>Um barril cheio de óleo que você pode derramar, queimar ou vender.</OilBarrel.description>
+
+  <UncuredPlasteel.label>Plastal bruto</UncuredPlasteel.label>
+  <UncuredPlasteel.description>Folhas de plasteel inacabadas aguardando autoclavagem.</UncuredPlasteel.description>
+
+  <Synthamide.label>Sintamida</Synthamide.label>
+  <Synthamide.description>Fibras sintéticas fortes e resistentes ao calor que podem ser usadas em roupas robustas.</Synthamide.description>
+  <Synthamide.stuffProps.stuffAdjective>sintamida</Synthamide.stuffProps.stuffAdjective>
+
+  <Synthylene.label>Sintelen</Synthylene.label>
+  <Synthylene.description>Material de construção barato feito de materiais sintéticos.</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>Sintelena</Synthylene.stuffProps.stuffAdjective>
+
+  <SynthyleneWhite.label>Sinteleno branco</SynthyleneWhite.label>
+  <SynthyleneWhite.description>Material de construção barato feito de materiais sintéticos.</SynthyleneWhite.description>
+  <SynthyleneWhite.stuffProps.stuffAdjective>sintelena branca</SynthyleneWhite.stuffProps.stuffAdjective>
+
+  <SynthyleneBlack.label>Black sintelen</SynthyleneBlack.label>
+  <SynthyleneBlack.description>Material de construção barato feito de materiais sintéticos.</SynthyleneBlack.description>
+  <SynthyleneBlack.stuffProps.stuffAdjective>sintelena negra</SynthyleneBlack.stuffProps.stuffAdjective>
+
+  <SynthyleneGreen.label>Sintelen Verde</SynthyleneGreen.label>
+  <SynthyleneGreen.description>Material de construção barato feito de materiais sintéticos.</SynthyleneGreen.description>
+  <SynthyleneGreen.stuffProps.stuffAdjective>sintelena verde</SynthyleneGreen.stuffProps.stuffAdjective>
+
+  <SynthyleneBlue.label>Sinteleno azul</SynthyleneBlue.label>
+  <SynthyleneBlue.description>Material de construção barato feito de materiais sintéticos.</SynthyleneBlue.description>
+  <SynthyleneBlue.stuffProps.stuffAdjective>sintelene azul</SynthyleneBlue.stuffProps.stuffAdjective>
+
+  <SynthyleneViolet.label>Sintelen roxo</SynthyleneViolet.label>
+  <SynthyleneViolet.description>Material de construção barato feito de materiais sintéticos.</SynthyleneViolet.description>
+  <SynthyleneViolet.stuffProps.stuffAdjective>sintelene roxa</SynthyleneViolet.stuffProps.stuffAdjective>
+
+  <SynthyleneOrange.label>Sinteleno laranja</SynthyleneOrange.label>
+  <SynthyleneOrange.description>Material de construção barato feito de materiais sintéticos.</SynthyleneOrange.description>
+  <SynthyleneOrange.stuffProps.stuffAdjective>sintelene laranja</SynthyleneOrange.stuffProps.stuffAdjective>
+
+  <SynthyleneYellow.label>Sinteleno amarelo</SynthyleneYellow.label>
+  <SynthyleneYellow.description>Material de construção barato feito de materiais sintéticos.</SynthyleneYellow.description>
+  <SynthyleneYellow.stuffProps.stuffAdjective>sintelena amarela</SynthyleneYellow.stuffProps.stuffAdjective>
+
+  <SynthyleneRed.label>Sinteleno Vermelho</SynthyleneRed.label>
+  <SynthyleneRed.description>Material de construção barato feito de materiais sintéticos.</SynthyleneRed.description>
+  <SynthyleneRed.stuffProps.stuffAdjective>sintelena vermelha</SynthyleneRed.stuffProps.stuffAdjective>
+
+  <SynthyleneOlive.label>Olive Sintelen</SynthyleneOlive.label>
+  <SynthyleneOlive.description>Material de construção barato feito de materiais sintéticos.</SynthyleneOlive.description>
+  <SynthyleneOlive.stuffProps.stuffAdjective>oliva sintelena</SynthyleneOlive.stuffProps.stuffAdjective>
+
+  <SynthyleneSand.label>Sintelen</SynthyleneSand.label>
+  <SynthyleneSand.description>Material de construção barato feito de materiais sintéticos.</SynthyleneSand.description>
+  <SynthyleneSand.stuffProps.stuffAdjective>Sintelena</SynthyleneSand.stuffProps.stuffAdjective>
+
+  <UncuredComposite.label>Polímero de sintamida bruto</UncuredComposite.label>
+  <UncuredComposite.description>Folhas de polímero sintamida não acabadas aguardando autoclavagem.</UncuredComposite.description>
+
+  <FiberComposite.label>polímero sintamida</FiberComposite.label>
+  <FiberComposite.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz de sintelen com fibras de sintamida costuradas.</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>polímero sintamida</FiberComposite.stuffProps.stuffAdjective>
+
+  <FiberCompositeWhite.label>Polímero sintamida branca</FiberCompositeWhite.label>
+  <FiberCompositeWhite.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz de sintelen com fibras de sintamida costuradas.</FiberCompositeWhite.description>
+  <FiberCompositeWhite.stuffProps.stuffAdjective>polímero sintamida branca</FiberCompositeWhite.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlack.label>Polímero sintamida preta</FiberCompositeBlack.label>
+  <FiberCompositeBlack.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz sintelen com fibras de sintamida costuradas.</FiberCompositeBlack.description>
+  <FiberCompositeBlack.stuffProps.stuffAdjective>polímero sintamida preto</FiberCompositeBlack.stuffProps.stuffAdjective>
+
+  <FiberCompositeGreen.label>Polímero sintamida verde</FiberCompositeGreen.label>
+  <FiberCompositeGreen.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz de sintelen com fibras de sintamida costuradas.</FiberCompositeGreen.description>
+  <FiberCompositeGreen.stuffProps.stuffAdjective>polímero sintamida verde</FiberCompositeGreen.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlue.label>Polímero sintamida azul</FiberCompositeBlue.label>
+  <FiberCompositeBlue.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz sintelen com fibras de sintamida costuradas.</FiberCompositeBlue.description>
+  <FiberCompositeBlue.stuffProps.stuffAdjective>polímero sintamida azul</FiberCompositeBlue.stuffProps.stuffAdjective>
+
+  <FiberCompositeViolet.label>Polímero sintamida roxo</FiberCompositeViolet.label>
+  <FiberCompositeViolet.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz de sintelen com fibras de sintamida costuradas.</FiberCompositeViolet.description>
+  <FiberCompositeViolet.stuffProps.stuffAdjective>polímero sintamida violeta</FiberCompositeViolet.stuffProps.stuffAdjective>
+
+  <FiberCompositeOrange.label>Polímero sintamida laranja</FiberCompositeOrange.label>
+  <FiberCompositeOrange.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz sintelen com fibras de sintamida costuradas.</FiberCompositeOrange.description>
+  <FiberCompositeOrange.stuffProps.stuffAdjective>polímero sintamida laranja</FiberCompositeOrange.stuffProps.stuffAdjective>
+
+  <FiberCompositeYellow.label>Polímero sintamida amarelo</FiberCompositeYellow.label>
+  <FiberCompositeYellow.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz de sintelen com fibras de sintamida costuradas.</FiberCompositeYellow.description>
+  <FiberCompositeYellow.stuffProps.stuffAdjective>polímero sintamida amarelo</FiberCompositeYellow.stuffProps.stuffAdjective>
+
+  <FiberCompositeRed.label>Polímero sintamida vermelha</FiberCompositeRed.label>
+  <FiberCompositeRed.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz sintelen com fibras de sintamida costuradas.</FiberCompositeRed.description>
+  <FiberCompositeRed.stuffProps.stuffAdjective>polímero sintamida vermelha</FiberCompositeRed.stuffProps.stuffAdjective>
+
+  <FiberCompositeOlive.label>Polímero de oliva sintamida</FiberCompositeOlive.label>
+  <FiberCompositeOlive.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz de sintelen com fibras de sintamida costuradas.</FiberCompositeOlive.description>
+  <FiberCompositeOlive.stuffProps.stuffAdjective>polímero de oliva sintamida</FiberCompositeOlive.stuffProps.stuffAdjective>
+
+  <FiberCompositeSand.label>Polímero sintamida</FiberCompositeSand.label>
+  <FiberCompositeSand.description>Material de polímero leve, à prova de fogo e de alta resistência de nível espacial. Criado com a tecnologia de tecer uma matriz de sintelen com fibras de sintamida costuradas.</FiberCompositeSand.description>
+  <FiberCompositeSand.stuffProps.stuffAdjective>polímero sintamida</FiberCompositeSand.stuffProps.stuffAdjective>
+  
+</LanguageData>

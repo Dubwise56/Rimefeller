@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilSpill.label>Quebra de tubo</OilSpill.label>
+  <OilSpill.letterlabel>Quebra de tubo</OilSpill.letterlabel>
+  <OilSpill.letterLabel>Quebra de tubo</OilSpill.letterLabel>
+  <OilSpill.letterText>Um dos tubos de óleo estourou e o óleo foi derramado no solo. Você pode limpar a área contaminada com a ordem "Lave o óleo".</OilSpill.letterText>
+
+  <DrillQuake.label>Tremores</DrillQuake.label>
+  <DrillQuake.description>Tremores</DrillQuake.description>
+  <DrillQuake.letterLabel>Tremores</DrillQuake.letterLabel>
+  <DrillQuake.letterText>A perfuração excessiva de poços causou tremores.</DrillQuake.letterText>
+    
+</LanguageData>

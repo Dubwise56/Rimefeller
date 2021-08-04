@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilWellHead.label>Poço de petróleo</OilWellHead.label>
+  <OilWellHead.description>Um poço de petróleo abandonado, cuja pressão está gradualmente voltando ao normal. Você pode usá-lo novamente se colocar uma nova plataforma de petróleo no topo do poço.</OilWellHead.description>
+
+  <DeepOilWellHead.label>Poço de óleo profundo</DeepOilWellHead.label>
+  <DeepOilWellHead.description>Um poço de petróleo abandonado, cuja pressão está gradualmente voltando ao normal. Você pode usá-lo novamente se colocar uma nova plataforma de petróleo no topo do poço.</DeepOilWellHead.description>
+
+  <OilWell.label>Torre de petróleo</OilWell.label>
+  <OilWell.description>Extrai petróleo de depósitos subterrâneos. Para vê-los no mapa, crie um console de recursos.</OilWell.description>
+  <OilWell.comps.CompRefuelable.fuelLabel>Estoque de aço para tubos</OilWell.comps.CompRefuelable.fuelLabel>
+  <OilWell.comps.CompRefuelable.outOfFuelMessage>Nenhuma outra perfuração possível: não há aço suficiente</OilWell.comps.CompRefuelable.outOfFuelMessage>
+  <OilWell.comps.CompRefuelable.fuelGizmoLabel>Estoque de aço</OilWell.comps.CompRefuelable.fuelGizmoLabel>
+
+  <DeepOilWell.label>Plataforma de petróleo profunda</DeepOilWell.label>
+  <DeepOilWell.description>Extrai petróleo de campos profundos. Para vê-los no mapa, construa um radar de profundidade.</DeepOilWell.description>
+  <DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>Estoque de aço</DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>
+  <DeepOilWell.comps.CompRefuelable.fuelLabel>Estoque de aço para tubos</DeepOilWell.comps.CompRefuelable.fuelLabel>
+  <DeepOilWell.comps.CompRefuelable.outOfFuelMessage>Nenhuma outra perfuração possível: não há aço suficiente</DeepOilWell.comps.CompRefuelable.outOfFuelMessage>
+
+  <OilStorage.label>Armazenamento de óleo</OilStorage.label>
+  <OilStorage.description>Armazena óleo extraído de plataformas de petróleo.</OilStorage.description>
+  <OilStorage.comps.CompStorageTank.GizmoLabel>Óleo armazenado</OilStorage.comps.CompStorageTank.GizmoLabel>
+
+  <FuelStorage.label>Armazenamento de combustível químico</FuelStorage.label>
+  <FuelStorage.description>Armazena combustíveis químicos obtidos de uma fábrica de crackers. Ele pode fornecer e receber combustível por meio de tubulações conectadas ao dreno e ao receptor.</FuelStorage.description>
+  <FuelStorage.comps.CompStorageTank.GizmoLabel>Combustível armazenado</FuelStorage.comps.CompStorageTank.GizmoLabel>
+
+  <ResourceConsole.label>Console de Recursos</ResourceConsole.label>
+  <ResourceConsole.description>Estação operada para controle de funcionamento de crackers e sintetizadores.</ResourceConsole.description>
+
+  <CrudeCracker.label>Máquina de cracker</CrudeCracker.label>
+  <CrudeCracker.description>Sintetiza combustíveis químicos a partir do petróleo bruto, que podem então ser transportados por meio de tubos para o armazenamento ou para um dreno / receptor.</CrudeCracker.description>
+  <CrudeCracker.comps.CompCrudeCracker.GizmoLabel>Taxa de síntese</CrudeCracker.comps.CompCrudeCracker.GizmoLabel>
+
+  <FuelPowerplant.label>Usina de combustível químico</FuelPowerplant.label>
+  <FuelPowerplant.description>Produz eletricidade a partir de combustíveis químicos. É necessária uma conexão direta com o armazenamento de combustível químico por meio de tubos.</FuelPowerplant.description>
+
+  <LargeFuelPowerplant.label>Grande usina de combustível químico</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.description>Produz eletricidade a partir de combustíveis químicos. É necessária uma conexão direta com o armazenamento de combustível químico por meio de tubos.</LargeFuelPowerplant.description>
+  
+</LanguageData>
