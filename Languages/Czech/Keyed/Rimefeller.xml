@@ -65,7 +65,7 @@
   <FuelStorageLimit>Limit produkce paliva {0}</FuelStorageLimit>
   <OilStorageLimit>Limit těžby ropy {0}</OilStorageLimit>
 
-  <FuelStoragelimitTip>Rafinerie pro krakování surové ropy se při dosažení maximální hodnoty zastaví, při dosažení minimální hodnoty se opět spustí.\n\nKlikni pro aktivaci/FuelStoragelimitTip>
+  <FuelStoragelimitTip>Rafinerie pro krakování surové ropy se při dosažení maximální hodnoty zastaví, při dosažení minimální hodnoty se opět spustí.\n\nKlikni pro aktivaci</FuelStoragelimitTip>
   
   <OilStoragelimitTip>Ropné vrty přestanou při dosažení maxima těžit a těžbu opět obnoví po dosažení minima.\n\nKlikni pro aktivaci</OilStoragelimitTip>
 

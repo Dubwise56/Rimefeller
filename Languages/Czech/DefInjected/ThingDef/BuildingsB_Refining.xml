@@ -37,8 +37,8 @@
 
 	<SynthyleneRefiner.description>Zpracovává chemické palivo na libovolně barevný synthylen, který lze používat jako stavební materiál či z něj vyrábět komponenty.</SynthyleneRefiner.description>
 
-	<RefineryLoadingBay.label>Vykládací rampa rafinérie</RefineryLoadingBay.label>
+	<RefineryLoadingBay.label>Vykládací rampa rafinerie</RefineryLoadingBay.label>
 
-	<RefineryLoadingBay.description>Rampa, která musí stát u rafinérií, aby měly kam vykládat své výrobky.</RefineryLoadingBay.description>
+	<RefineryLoadingBay.description>Rampa, která musí stát u rafinerií, aby měly kam vykládat své výrobky.</RefineryLoadingBay.description>
 
 </LanguageData>

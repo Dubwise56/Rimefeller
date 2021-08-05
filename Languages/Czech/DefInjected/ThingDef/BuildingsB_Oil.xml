@@ -17,7 +17,7 @@
 
 	<OilWellHead.label>Uzávěr vrtu</OilWellHead.label>
 
-	<CrudeCracker.label>Rafinérie surové ropy</CrudeCracker.label>
+	<CrudeCracker.label>Rafinerie surové ropy</CrudeCracker.label>
 
 	<CrudeCracker.description>Krakuje surovou ropu na chemické palivo, které je nutné uskladnit v připojených nádržích. Toto palivo lze také stočit do kanystrů pomocí čerpadla.</CrudeCracker.description>
 
