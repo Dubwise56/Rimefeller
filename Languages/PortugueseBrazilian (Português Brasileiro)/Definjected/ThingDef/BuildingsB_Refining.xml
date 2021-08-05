@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChemfuelHopper.label>Dreno de combustível químico</ChemfuelHopper.label>
+  <ChemfuelHopper.description>Drene os combustíveis químicos das instalações de armazenamento de combustível químico para latas que você mesmo pode vender ou usar.</ChemfuelHopper.description>
+
+  <ChemfuelSiphon.label>Receptor de combustível químico</ChemfuelSiphon.label>
+  <ChemfuelSiphon.description>Aceita combustível químico de botijões, enchendo uniformemente com ele todos os depósitos de combustível químico em anexo.</ChemfuelSiphon.description>
+
+  <RefineryLoadingBay.label>Descarregar sintetizador</RefineryLoadingBay.label>
+  <RefineryLoadingBay.description>A plataforma na qual os sintetizadores carregam seus produtos.</RefineryLoadingBay.description>
+
+  <SynthyleneRefiner.label>Sintetizador de sintetizador</SynthyleneRefiner.label>
+  <SynthyleneRefiner.description>Converte combustíveis químicos em Sintelen, um material de construção barato em uma variedade de cores.</SynthyleneRefiner.description>
+
+  <NapalmRefiner.label>Sintetizador napalm</NapalmRefiner.label>
+  <NapalmRefiner.description>Produz uma substância extremamente inflamável e pegajosa usada na fabricação de bombas incendiárias. Consiste em combustível químico misturado com sintelen.</NapalmRefiner.description>
+
+  <SynthreadRefiner.label>Sintetizador de sintetizador</SynthreadRefiner.label>
+  <SynthreadRefiner.description>Converte combustível químico em sintético, que é usado para costurar roupas de qualidade.</SynthreadRefiner.description>
+
+  <SynthamideRefiner.label>Sintetizador sintamida</SynthamideRefiner.label>
+  <SynthamideRefiner.description>Converte combustíveis químicos em sintamida, um material de fibra sintética forte e resistente ao calor.</SynthamideRefiner.description>
+
+  <HyperweaveRefiner.label>Sintetizador de hiper tecido</HyperweaveRefiner.label>
+  <HyperweaveRefiner.description>Converte combustível em Hiper tecido, um material de vestuário de nível espacial extremamente durável.</HyperweaveRefiner.description>
+
+  <NeutroamineRefiner.label>Sintetizador de neutroamina</NeutroamineRefiner.label>
+  <NeutroamineRefiner.description>Converte combustível químico em neutroamina, uma substância usada na fabricação de medicamentos.</NeutroamineRefiner.description>
+
+  <Autoclave.label>Autoclave</Autoclave.label>
+  <Autoclave.description>Converte polímero bruto ou plasteel em um produto acabado que você pode vender ou usar.</Autoclave.description>
+
+  
+
+</LanguageData>

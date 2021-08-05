@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilDrilling.label>Produção de óleo</OilDrilling.label>
+  <OilDrilling.description>Extração de petróleo bruto de fontes subterrâneas</OilDrilling.description>
+
+  <DeepOilWells.label>Mineração profunda</DeepOilWells.label>
+  <DeepOilWells.description>Perfurar poços mais profundos abre acesso a novos campos de petróleo</DeepOilWells.description>
+
+  <ChemfuelRefining.label>Processamento em combustíveis químicos</ChemfuelRefining.label>
+  <ChemfuelRefining.description>Quebra do óleo em combustível químico, que é então destilado em uma instalação de armazenamento especial</ChemfuelRefining.description>
+
+  <NeutroamineProduction.label>Neutroamina</NeutroamineProduction.label>
+  <NeutroamineProduction.description>Processamento de combustível químico em neutroamina, uma substância que é usada na produção de medicamentos</NeutroamineProduction.description>
+
+  <SynthyleneProduction.label>Sintelen</SynthyleneProduction.label>
+  <SynthyleneProduction.description>Processamento de combustível químico em Sintelen, um material de construção barato em várias cores</SynthyleneProduction.description>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Uma substância extremamente inflamável e pegajosa usada na fabricação de bombas incendiárias. Consiste em combustível químico misturado com sintelen.</Napalm.description>
+
+  <ArtificialFloors.label>Pisos artificiais</ArtificialFloors.label>
+  <ArtificialFloors.description>Produção de vários revestimentos para pisos Sintelen</ArtificialFloors.description>
+
+  <SynthyleneComponents.label>Componentes Sintelen</SynthyleneComponents.label>
+  <SynthyleneComponents.description>Economizando aço adicionando Sintelen à produção de componentes</SynthyleneComponents.description>
+
+  <SynthyleneAdvComponents.label>Componentes de synthelen avançados</SynthyleneAdvComponents.label>
+  <SynthyleneAdvComponents.description>Economizando aço adicionando Sintelen à produção de componentes avançados</SynthyleneAdvComponents.description>
+
+  <SynthreadProduction.label>Tecido sintético</SynthreadProduction.label>
+  <SynthreadProduction.description>Processamento de combustível químico em sintéticos</SynthreadProduction.description>
+
+  <SynthamideProduction.label>Sintamida</SynthamideProduction.label>
+  <SynthamideProduction.description>Fazendo sintamida, uma fibra sintética forte e resistente ao calor que pode ser usada para costurar roupas duráveis</SynthamideProduction.description>
+
+  <SynthamideCompositeProduction.label>Polímero sintamida</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>Fabricação de polímero sintamida, um material polimérico leve, refratário e de alta resistência de nível cósmico. Criado com a tecnologia de tecer uma matriz de sintelen com fibras de sintamida costuradas.</SynthamideCompositeProduction.description>
+  <SynthamideCompositeProduction.discoveredLetterTitle>Polímero sintamida</SynthamideCompositeProduction.discoveredLetterTitle>
+  <SynthamideCompositeProduction.discoveredLetterText>Agora você pode fazer polímero sintamida! Certifique-se de ter uma autoclave construída antes de começar. Primeiro você precisa criar um polímero bruto em uma máquina de alta precisão, depois carregá-lo na autoclave e alterná-lo para o modo de processamento de polímero bruto, se ainda não tiver feito isso. O processo será iniciado automaticamente após o recebimento da mercadoria.</SynthamideCompositeProduction.discoveredLetterText>
+
+
+  <PlasteelProduction.label>Plastiaço</PlasteelProduction.label>
+  <PlasteelProduction.description>Descubra os segredos da produção plastiaço e crie você mesmo</PlasteelProduction.description>
+  <PlasteelProduction.discoveredLetterTitle>Plastiaço</PlasteelProduction.discoveredLetterTitle>
+  <PlasteelProduction.discoveredLetterText>Agora você pode fazer Plastiaço! Certifique-se de ter construído uma autoclave antes de começar. Primeiro você precisa criar um plastal bruto em uma máquina de precisão, depois carregar a autoclave com ele e alterná-lo para o modo plastal bruto, se ainda não tiver feito isso. O processo será iniciado automaticamente após o recebimento da mercadoria.</PlasteelProduction.discoveredLetterText>
+
+  <HyperweaveProduction.label>Hyper Tecido</HyperweaveProduction.label>
+  <HyperweaveProduction.description>Descubra os segredos da produção de hiper tecido e crie você mesmo</HyperweaveProduction.description>
+
+</LanguageData>
