@@ -70,7 +70,7 @@
     <defName>SynthyleneProduction</defName>
     <label>Synthylene</label>
     <tab>Rimefeller</tab>
-    <description>Produce the generic building material synthylene with a selection of colours from stored chemfuel</description>
+    <description>Produce the generic building material synthylene from stored chemfuel</description>
     <baseCost>1500</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>

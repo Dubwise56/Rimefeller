@@ -247,7 +247,7 @@
   <ThingDef ParentName="RefineryBase">
     <defName>SynthyleneRefiner</defName>
     <label>Synthylene Refiner</label>
-    <description>Processes chemfuel into synthylene with a selection of colours, synthylene can be used as a generic building material and as an ingredient for components.</description>
+    <description>Processes chemfuel into synthylene, synthylene can be used as a generic building material and as an ingredient for components.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/SynthyleneRefinery</texPath>
       <graphicClass>Graphic_Single</graphicClass>
