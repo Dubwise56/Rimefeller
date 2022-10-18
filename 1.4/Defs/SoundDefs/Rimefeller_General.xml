@@ -104,8 +104,8 @@
     <subSounds>
       <li>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Rimefeller/misc/catchfire</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Rimefeller/misc/catchfire</clipPath>
           </li>
         </grains>
         <volumeRange>
