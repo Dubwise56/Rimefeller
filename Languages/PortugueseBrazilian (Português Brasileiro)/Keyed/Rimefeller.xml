@@ -18,7 +18,7 @@
   <TotalFuelStorage>Combustível na rede: {0} l</TotalFuelStorage>
 
   <DrillingPhase>Perfuração de poços</DrillingPhase>
-  <DrillingPhaseDesc>A plataforma de petróleo já foi construída, mas o próprio poço ainda não foi perfurado.\n\nColonos (três podem trabalhar em uma plataforma) com habilidades de construção precisam perfurar antes que o poço possa ser usado.\n\nProgrès: {0}</DrillingPhaseDesc>
+  <DrillingPhaseDesc>A torre de perfuração de petróleo foi construída, mas o poço ainda precisa ser perfurado..\n\nUm colono com habilidade de mineração deve supervisionar a operação de perfuração até que ela seja concluída.\n\nAté 3 colonos podem supervisionar a perfuração em ao mesmo tempo para acelerar o processo\n\nProgrès: {0}</DrillingPhaseDesc>
 
   <OilStorage>Reserva de óleo: {0} / {1} l</OilStorage>
   <WellPressure>Pressão de fundo de poço: x {0}</WellPressure>
