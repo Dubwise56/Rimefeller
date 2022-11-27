@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blue lino -->
+  <Lino_Blue.label>藍色漆布</Lino_Blue.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_Blue.description>繪有花紋的漆布地板。</Lino_Blue.description>
+  
+  <!-- EN: dark lino -->
+  <Lino_Dark.label>黑色漆布</Lino_Dark.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_Dark.description>繪有花紋的漆布地板。</Lino_Dark.description>
+  
+  <!-- EN: granite flagstone -->
+  <Lino_FlagstoneGranite.label>花崗岩石板</Lino_FlagstoneGranite.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_FlagstoneGranite.description>繪有花紋的漆布地板。</Lino_FlagstoneGranite.description>
+  
+  <!-- EN: limestone flagstone -->
+  <Lino_FlagstoneLimestone.label>石灰岩石板</Lino_FlagstoneLimestone.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_FlagstoneLimestone.description>繪有花紋的漆布地板。</Lino_FlagstoneLimestone.description>
+  
+  <!-- EN: marble flagstone -->
+  <Lino_FlagstoneMarble.label>大理石石板</Lino_FlagstoneMarble.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_FlagstoneMarble.description>繪有花紋的漆布地板。</Lino_FlagstoneMarble.description>
+  
+  <!-- EN: sandstone flagstone -->
+  <Lino_FlagstoneSandstone.label>砂岩石板</Lino_FlagstoneSandstone.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_FlagstoneSandstone.description>繪有花紋的漆布地板。</Lino_FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone -->
+  <Lino_FlagstoneSlate.label>板岩石板</Lino_FlagstoneSlate.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_FlagstoneSlate.description>繪有花紋的漆布地板。</Lino_FlagstoneSlate.description>
+  
+  <!-- EN: gold lino -->
+  <Lino_Gold.label>金色漆布</Lino_Gold.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_Gold.description>繪有花紋的漆布地板。</Lino_Gold.description>
+  
+  <!-- EN: green lino -->
+  <Lino_Green.label>綠色漆布</Lino_Green.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_Green.description>繪有花紋的漆布地板。</Lino_Green.description>
+  
+  <!-- EN: granite Herringbone -->
+  <Lino_HerringboneGranite.label>花崗岩人字地磚</Lino_HerringboneGranite.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_HerringboneGranite.description>繪有花紋的漆布地板。</Lino_HerringboneGranite.description>
+  
+  <!-- EN: limestone Herringbone -->
+  <Lino_HerringboneLimestone.label>石灰岩人字地磚</Lino_HerringboneLimestone.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_HerringboneLimestone.description>繪有花紋的漆布地板。</Lino_HerringboneLimestone.description>
+  
+  <!-- EN: marble Herringbone -->
+  <Lino_HerringboneMarble.label>大理石人字地磚</Lino_HerringboneMarble.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_HerringboneMarble.description>繪有花紋的漆布地板。</Lino_HerringboneMarble.description>
+  
+  <!-- EN: sandstone Herringbone -->
+  <Lino_HerringboneSandstone.label>砂岩人字地磚</Lino_HerringboneSandstone.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_HerringboneSandstone.description>繪有花紋的漆布地板。</Lino_HerringboneSandstone.description>
+  
+  <!-- EN: slate Herringbone -->
+  <Lino_HerringboneSlate.label>板岩人字地磚</Lino_HerringboneSlate.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_HerringboneSlate.description>繪有花紋的漆布地板。</Lino_HerringboneSlate.description>
+  
+  <!-- EN: blue Mosaic -->
+  <Lino_MosaicBlue.label>藍色馬賽克地板</Lino_MosaicBlue.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_MosaicBlue.description>繪有花紋的漆布地板。</Lino_MosaicBlue.description>
+  
+  <!-- EN: white Mosaic -->
+  <Lino_MosaicCream.label>白色馬賽克地板</Lino_MosaicCream.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_MosaicCream.description>繪有花紋的漆布地板。</Lino_MosaicCream.description>
+  
+  <!-- EN: dark Mosaic -->
+  <Lino_MosaicDark.label>黑色馬賽克地板</Lino_MosaicDark.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_MosaicDark.description>繪有花紋的漆布地板。</Lino_MosaicDark.description>
+  
+  <!-- EN: gold Mosaic -->
+  <Lino_MosaicGold.label>金色馬賽克地板</Lino_MosaicGold.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_MosaicGold.description>繪有花紋的漆布地板。</Lino_MosaicGold.description>
+  
+  <!-- EN: green Mosaic -->
+  <Lino_MosaicGreen.label>綠色馬賽克地板</Lino_MosaicGreen.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_MosaicGreen.description>繪有花紋的漆布地板。</Lino_MosaicGreen.description>
+  
+  <!-- EN: red Mosaic -->
+  <Lino_MosaicRed.label>紅色馬賽克地板</Lino_MosaicRed.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_MosaicRed.description>繪有花紋的漆布地板。</Lino_MosaicRed.description>
+  
+  <!-- EN: gold Pavement -->
+  <Lino_PavementGold.label>黃金路面</Lino_PavementGold.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_PavementGold.description>繪有花紋的漆布地板。</Lino_PavementGold.description>
+  
+  <!-- EN: granite Pavement -->
+  <Lino_PavementGranite.label>花崗岩路面</Lino_PavementGranite.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_PavementGranite.description>繪有花紋的漆布地板。</Lino_PavementGranite.description>
+  
+  <!-- EN: limestone Pavement -->
+  <Lino_PavementLimestone.label>石灰岩路面</Lino_PavementLimestone.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_PavementLimestone.description>繪有花紋的漆布地板。</Lino_PavementLimestone.description>
+  
+  <!-- EN: marble Pavement -->
+  <Lino_PavementMarble.label>大理石路面</Lino_PavementMarble.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_PavementMarble.description>繪有花紋的漆布地板。</Lino_PavementMarble.description>
+  
+  <!-- EN: sandstone Pavement -->
+  <Lino_PavementSandstone.label>砂岩路面</Lino_PavementSandstone.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_PavementSandstone.description>繪有花紋的漆布地板。</Lino_PavementSandstone.description>
+  
+  <!-- EN: slate Pavement -->
+  <Lino_PavementSlate.label>板岩路面</Lino_PavementSlate.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_PavementSlate.description>繪有花紋的漆布地板。</Lino_PavementSlate.description>
+  
+  <!-- EN: red lino -->
+  <Lino_Red.label>紅色漆布</Lino_Red.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_Red.description>繪有花紋的漆布地板。</Lino_Red.description>
+  
+  <!-- EN: Sterile Tile -->
+  <Lino_SterileTile.label>無菌漆布地板</Lino_SterileTile.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_SterileTile.description>繪有花紋的漆布地板。</Lino_SterileTile.description>
+  
+  <!-- EN: Tactile Tile -->
+  <Lino_TactileTile.label>漆布盲道</Lino_TactileTile.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_TactileTile.description>繪有花紋的漆布地板。</Lino_TactileTile.description>
+  
+  <!-- EN: granite tile -->
+  <Lino_TileGranite.label>花崗石地磚</Lino_TileGranite.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_TileGranite.description>繪有花紋的漆布地板。</Lino_TileGranite.description>
+  
+  <!-- EN: limestone tile -->
+  <Lino_TileLimestone.label>石灰石地磚</Lino_TileLimestone.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_TileLimestone.description>繪有花紋的漆布地板。</Lino_TileLimestone.description>
+  
+  <!-- EN: marble tile -->
+  <Lino_TileMarble.label>大理石地磚</Lino_TileMarble.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_TileMarble.description>繪有花紋的漆布地板。</Lino_TileMarble.description>
+  
+  <!-- EN: sandstone tile -->
+  <Lino_TileSandstone.label>砂岩地磚</Lino_TileSandstone.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_TileSandstone.description>繪有花紋的漆布地板。</Lino_TileSandstone.description>
+  
+  <!-- EN: Tiles Diagonal -->
+  <Lino_TilesDiagonal.label>斜線漆布地板</Lino_TilesDiagonal.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_TilesDiagonal.description>繪有花紋的漆布地板。</Lino_TilesDiagonal.description>
+  
+  <!-- EN: Tiles Diamond -->
+  <Lino_TilesDiamond.label>鑽石漆布地板</Lino_TilesDiamond.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_TilesDiamond.description>繪有花紋的漆布地板。</Lino_TilesDiamond.description>
+  
+  <!-- EN: slate tile -->
+  <Lino_TileSlate.label>板岩地磚</Lino_TileSlate.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_TileSlate.description>繪有花紋的漆布地板。</Lino_TileSlate.description>
+  
+  <!-- EN: white lino -->
+  <Lino_White.label>白色漆布</Lino_White.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_White.description>繪有花紋的漆布地板。</Lino_White.description>
+  
+  <!-- EN: Herringbone -->
+  <Lino_Wood_ParquetHerring.label>人字形漆布地板</Lino_Wood_ParquetHerring.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_Wood_ParquetHerring.description>繪有花紋的漆布地板。</Lino_Wood_ParquetHerring.description>
+  
+  <!-- EN: Versailles -->
+  <Lino_Wood_ParquetVersailles.label>凡爾賽風格漆布地板</Lino_Wood_ParquetVersailles.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_Wood_ParquetVersailles.description>繪有花紋的漆布地板。</Lino_Wood_ParquetVersailles.description>
+  
+  <!-- EN: wood floor -->
+  <Lino_WoodPlankFloor.label>木質漆布地板</Lino_WoodPlankFloor.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <Lino_WoodPlankFloor.description>繪有花紋的漆布地板。</Lino_WoodPlankFloor.description>
+  
+  <!-- EN: blue tile lino -->
+  <LinoTile_Blue.label>藍色漆布地板</LinoTile_Blue.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <LinoTile_Blue.description>繪有花紋的漆布地板。</LinoTile_Blue.description>
+  
+  <!-- EN: dark tile lino -->
+  <LinoTile_Dark.label>黑色漆布地板</LinoTile_Dark.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <LinoTile_Dark.description>繪有花紋的漆布地板。</LinoTile_Dark.description>
+  
+  <!-- EN: gold tile lino -->
+  <LinoTile_Gold.label>金色漆布地板</LinoTile_Gold.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <LinoTile_Gold.description>繪有花紋的漆布地板。</LinoTile_Gold.description>
+  
+  <!-- EN: green tile lino -->
+  <LinoTile_Green.label>綠色漆布地板</LinoTile_Green.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <LinoTile_Green.description>繪有花紋的漆布地板。</LinoTile_Green.description>
+  
+  <!-- EN: red tile lino -->
+  <LinoTile_Red.label>紅色漆布地板</LinoTile_Red.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <LinoTile_Red.description>繪有花紋的漆布地板。</LinoTile_Red.description>
+  
+  <!-- EN: white tile lino -->
+  <LinoTile_White.label>白色漆布地板</LinoTile_White.label>
+  <!-- EN: Lino flooring with artificial patterns. -->
+  <LinoTile_White.description>繪有花紋的漆布地板。</LinoTile_White.description>
+  
+  <!-- EN: Parquet Herringbone -->
+  <Wood_ParquetHerring.label>實木人字形地板</Wood_ParquetHerring.label>
+  <Wood_ParquetHerring.description>繪有花紋的漆布地板。</Wood_ParquetHerring.description>
+  
+  <!-- EN: Parquet Versailles -->
+  <Wood_ParquetVersailles.label>實木凡爾賽風格地板</Wood_ParquetVersailles.label>
+  <Wood_ParquetVersailles.description>繪有花紋的漆布地板。</Wood_ParquetVersailles.description>
+  
+</LanguageData>

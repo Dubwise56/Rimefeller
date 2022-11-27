@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<OilDrilling.label>Hloubení ropných vrtů</OilDrilling.label>
+
+	<OilDrilling.description>Umožní stavět základní ropnou infrastrukturu, včetně ropných vrtů.</OilDrilling.description>
+
+	<DeepOilWells.label>Hluboké vrty</DeepOilWells.label>
+
+	<DeepOilWells.description>Umožní vrtat hlouběji a dostat se tak k větším ložiskům ropy.</DeepOilWells.description>
+
+	<ChemfuelRefining.label>Rafinace chemického paliva</ChemfuelRefining.label>
+
+	<ChemfuelRefining.description>Umožní vyrábět ze surové ropy chemické palivo, které lze skladovat v nádržích na chemické palivo.</ChemfuelRefining.description>
+
+	<NeutroamineProduction.label>Neutroamina</NeutroamineProduction.label>
+
+	<NeutroamineProduction.description>Umožní z chemického paliva vyrábět neutroamina, ze kterých se vyrábí léčiva, včetně lékárniček.</NeutroamineProduction.description>
+
+	<SynthyleneProduction.label>Synthylen</SynthyleneProduction.label>
+
+	<SynthyleneProduction.description>Umožní výrobit z chemického paliva různě barevný synthylen, univerzální stavební materiál.</SynthyleneProduction.description>
+
+	<Napalm.label>Napalm</Napalm.label>
+
+	<Napalm.description>Vysoce hořlavý, lepivý gel, používaný pro výrobu zápalných bomb. Skládá se z chemického paliva zahuštěného synthylenem.</Napalm.description>
+
+	<ArtificialFloors.label>Umělohmotné podlahy</ArtificialFloors.label>
+
+	<ArtificialFloors.description>Umožní ze synthylenu vyrábět umělohmotné podlahy.</ArtificialFloors.description>
+
+	<SynthyleneComponents.label>Synthylenové komponenty</SynthyleneComponents.label>
+
+	<SynthyleneComponents.description>Umožní vyrábět komponenty ze synthylenu a oceli, čímž ušetříš ocel.</SynthyleneComponents.description>
+
+	<SynthyleneAdvComponents.label>Pokročilé synthylenové komponenty</SynthyleneAdvComponents.label>
+
+	<SynthyleneAdvComponents.description>Umožní vyrábět pokročilé komponenty ze synthylenu a oceli, čímž ušetříš ocel.</SynthyleneAdvComponents.description>
+
+	<SynthreadProduction.label>Syntetické vlákno</SynthreadProduction.label>
+
+	<SynthreadProduction.description>Umožní z chemického paliva vyrábět syntetické vlákno</SynthreadProduction.description>
+
+	<SynthamideProduction.label>Synthamid</SynthamideProduction.label>
+
+	<SynthamideProduction.description>Umožní vyrábět synthamid, tepelně i mechanicky odolná syntetická vlákna, ze kterých lze vyrábět velmi odolné oblečení.</SynthamideProduction.description>
+
+	<SynthamideCompositeProduction.label>Synthamidový kompozit</SynthamideCompositeProduction.label>
+
+	<SynthamideCompositeProduction.description>Umožní vyrábět lehké, pevné a ohnivzdorné kompozity vesmírného věku tvořené synthylenovou matricí posílenou synthamidovými vlákny.</SynthamideCompositeProduction.description>
+
+	<PlasteelProduction.label>Plastocel</PlasteelProduction.label>
+
+	<PlasteelProduction.description>Odhal tajemství výroby plastoceli</PlasteelProduction.description>
+
+	<HyperweaveProduction.label>Nanovlákna</HyperweaveProduction.label>
+
+	<HyperweaveProduction.description>Odhal tajemství výroby nanovláken</HyperweaveProduction.description>
+
+</LanguageData>

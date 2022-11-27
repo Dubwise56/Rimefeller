@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <CommandDesignateOpenCloseValveLabelRimefeller>Переключить вентиль</CommandDesignateOpenCloseValveLabelRimefeller>
+  <CommandDesignateOpenCloseValveDescRimefeller>Переключает вентиль, закрывая или открывая трубопровод</CommandDesignateOpenCloseValveDescRimefeller>
+  <ValveClosedRimefeller>Вентиль закрыт</ValveClosedRimefeller>
+
+  <NoUncuredPlasteel>Нету сырой пластали</NoUncuredPlasteel>
+  <NoUncuredSynthamide>Нету сырого синтамида</NoUncuredSynthamide>
+  <CantModeAutoclave>Невозможно изменить режим автоклава во время его работы</CantModeAutoclave>
+  <CuringTime>Время до готовности: {0}</CuringTime>
+  
+  <CurePlasteel>Обработать пласталь</CurePlasteel>
+  <CureComposite>Обработать синтамидовый полимер</CureComposite>
+  <CommandCompositeModeDesc>Переключает автоклав в режим обработки пластали или синтамидового композита</CommandCompositeModeDesc>
+ 
+  <FuelStorage>Топлива в хранилище: {0} / {1} л</FuelStorage>
+  <TotalFuelStorage>Топлива в сети: {0} л</TotalFuelStorage>
+
+  <DrillingPhase>Бурение скважины</DrillingPhase>
+  <DrillingPhaseDesc>Нефтяная вышка уже построена, но сама скважина еще не пробурена.\n\n Колонистам (на одной вышке могут работать трое) с навыком строительства нужно провести бурение, прежде чем скважину можно использовать. \n\nProgrès: {0}</DrillingPhaseDesc>
+  
+  <OilStorage>Запас нефти: {0} / {1} л</OilStorage>
+  <WellPressure>Давление внутри скважины: x{0}</WellPressure>
+  <OilWellCapacity>Скорость добычи: {0} л/день</OilWellCapacity>
+  <TotalOilStorage>Запас нефти в сети: {0} л</TotalOilStorage>
+  <PipedOilPumpCapacity>Скорость заполнения: {0} л/день</PipedOilPumpCapacity>
+  
+  <DrillingProgress>Процесс бурения: {0}</DrillingProgress>
+
+  <CleanOilSpill>Смыть нефть</CleanOilSpill>
+  <CleanOilSpillDesc>Вымыть пролитую нефть с полов и земли</CleanOilSpillDesc>
+  <DesignatorRemovePipeline>Снести трубу</DesignatorRemovePipeline>
+  <DesignatorRemovePipelineDesc>Снести построенную трубу</DesignatorRemovePipelineDesc>
+
+  <PlaceDirectlyOverWell>Неправильное расположение вышки. Поставьте ее прямо надо скважиной, что бы снова использовать.</PlaceDirectlyOverWell>
+
+  <FuelPowerplantUsage>Потребление топлива: {0} л/день</FuelPowerplantUsage>
+
+  <CuringFailed>Материалы в автоклаве испортились из за проблем с электричеством</CuringFailed>
+
+  <DrainStorageTank>Перелить жидкость</DrainStorageTank>
+  <DrainStorageTankDesc>Переливает хранимую внутри жидкость, равномерно распределяя ее между соответствующими хранилищами в сети </DrainStorageTankDesc>
+
+  <RaiseRefinerPower>Увеличить мощность</RaiseRefinerPower>
+  <LowerRefinerPower>Уменьшить мощность</LowerRefinerPower>
+  <LowerRefinerPowerDesc>Уменьшает скорость переработки нефти и потребление электроэнергии крекерной установки</LowerRefinerPowerDesc>
+  <RaiseRefinerPowerDesc>Увеличивает скорость переработки нефти и потребление электроэнергии крекерной установки</RaiseRefinerPowerDesc>
+
+  <NoRefinerNeedsWork>Ни одна из установок в сети не может начать работу</NoRefinerNeedsWork>
+  
+  <RequiresDeepScanner>Для того, что бы увидеть глубокие месторождения нефти, нужен глубинный сканер</RequiresDeepScanner>
+  <RequiresResourceConsole>Для того, что бы увидеть месторождения нефти, нужна консоль ресурсов</RequiresResourceConsole>
+
+  <AllowedCraftingSkill>Уровень навыка Ремесло {0}</AllowedCraftingSkill>
+  <FuelStorageLimit>Лимит хранимого химтоплива {0}</FuelStorageLimit>
+  <OilStorageLimit>Лимит хранимой нефти {0}</OilStorageLimit>
+
+  <FuelStoragelimitTip>Крекерные установки будут заполнять химтопливные хранилища в сети на выставленный процент, а затем отключатся. Как только уровень химтоплива в хранилищах упадет ниже, крекерные установка снова заработают.\n Нажмите на крестик, что бы включить функцию.</FuelStoragelimitTip>
+  <OilStoragelimitTip>Нефтяные вышки будут заполнять нефтяные хранилища на выставленный процент, а затем отключатся. Как только уровень нефти в хранилищах упадет ниже, нефтяные вышки снова заработают.\n Нажмите на крестик, что бы включить функцию.</OilStoragelimitTip>
+
+  <FuelPumpLimit>Лимит добычи нефти</FuelPumpLimit>
+  <FuelPumpLimitTip>Добывать нефть пока сеть не будет заполнена на данное число</FuelPumpLimitTip>
+
+  <ResourceConsoleAlert>Консоль ресурсов</ResourceConsoleAlert>
+  <ResourceConsoleAlertDesc>Кликните на консоль ресурсов и нажмите на меню заданий для того, что бы настроить работу крекерных установок, нефтяных вышек и назначить производство на синтезаторах.</ResourceConsoleAlertDesc>
+
+  <ConsoleSettings>Настройки консоли</ConsoleSettings>
+  <GlobalSettings>Глобальные настройки</GlobalSettings>
+
+</LanguageData>

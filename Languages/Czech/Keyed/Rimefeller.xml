@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <GenerateFloorsDesc>Vytvoří z jiných druhů podlah synthylenové podlahové vzory</GenerateFloorsDesc>
+  <GenerateFloors>Vytvořit podlahu</GenerateFloors>
+  <CommandDesignateOpenCloseValveLabelRimefeller>Přepnout ventil</CommandDesignateOpenCloseValveLabelRimefeller>
+  <CommandDesignateOpenCloseValveDescRimefeller>Otevře/zavře ventil na ropovodu</CommandDesignateOpenCloseValveDescRimefeller>
+  <ValveClosedRimefeller>Ventil uzavřen</ValveClosedRimefeller>
+  
+  <NoUncuredPlasteel>Žádná nevytvrzená plastocel</NoUncuredPlasteel>
+  <NoUncuredSynthamide>Žádný nevytvrzený synthamid</NoUncuredSynthamide>
+  <CantModeAutoclave>Při vytvrzování nelze měnit nastavení</CantModeAutoclave>
+  <CuringTime>Čas vytvrzování: {0}</CuringTime>
+  
+  <PickCompositeColour>Vybrat barvu kompozitu</PickCompositeColour>
+  <PickCompositeColourDesc>Vyber si, jakou barvu bude mít vytvrzený synthamidový kompozit.</PickCompositeColourDesc>
+  <PickSynthyleneColour>Vybrat barvu synthylenu</PickSynthyleneColour>
+  <PickSynthyleneColourDesc>Vyber si barvu, kterou bude mít synthylen</PickSynthyleneColourDesc>
+  
+  <CurePlasteel>Vytvrdit plastocel</CurePlasteel>
+  <CureComposite>Vytvrdit kompozit</CureComposite>
+  <CommandCompositeModeDesc>Přepne tento autokláv mezi vytvrzováním plastoceli či autoklávu</CommandCompositeModeDesc>
+
+  <FuelStorage>Zásoba paliva: {0} / {1}L</FuelStorage>
+  <TotalFuelStorage>Připojená zásoba paliva: {0}L</TotalFuelStorage>
+
+  <DrillingPhase>Hloubení ropného vrtu</DrillingPhase>
+  <DrillingPhaseDesc>Vrtná věž byla postavena, ale ložisko je stále nutné navrtat.\n\nKolonista se schopností Konstrukce musí dohlížet na vrtání, dokud nebude hotové.\n\nTuto činnost mohou provádět až 3 kolonisté najednou, což celý proces zrychlí\n\nPostup: {0}</DrillingPhaseDesc>
+  
+  <OilStorage>Zásoba ropy: {0} / {1}L</OilStorage>
+  <WellPressure>Tlak ve vrtu: x{0}</WellPressure>
+  <OilWellCapacity>Kapacita vrtu: {0} L/day</OilWellCapacity>
+  <TotalOilStorage>Připojená zásoba ropy: {0} L ({1})</TotalOilStorage>
+  <PipedOilPumpCapacity>Dostupná ropa: {0} L/day</PipedOilPumpCapacity>
+  
+  <DrillingProgress>Postup vrtání: {0}</DrillingProgress>
+
+  <CleanOilSpill>Vyčistit skvrnu</CleanOilSpill>
+  <CleanOilSpillDesc>Vyčistí ropné skvrny či napalmové stopy</CleanOilSpillDesc>
+  <DesignatorRemovePipeline>Odstranit ropovod</DesignatorRemovePipeline>
+  <DesignatorRemovePipelineDesc>Odstranit ropovod</DesignatorRemovePipelineDesc>
+
+  <PlaceDirectlyOverWell>Příliš blízko existujícího vrtu, umísti věž přímo nad nevyužívaný vrt, abys ho znovu zpřístupnil</PlaceDirectlyOverWell>
+
+  <FuelPowerplantUsage>Využití paliva: {0} L/day</FuelPowerplantUsage>
+
+  <CuringFailed>Vytvrzování se nezdařilo kvůli přerušení dodávky elektřiny</CuringFailed>
+
+  <DrainStorageTank>Vypustit nádrž</DrainStorageTank>
+  <DrainStorageTankDesc>Vypustí obsah této nádrže do dalších dostupných nádrží</DrainStorageTankDesc>
+
+  <RaiseRefinerPower>Zvýšit příkon</RaiseRefinerPower>
+  <LowerRefinerPower>Snížit příkon</LowerRefinerPower>
+  <LowerRefinerPowerDesc>Sníží množství elektřiny spotřebovávané rafinerií a sníží tak její výkon.</LowerRefinerPowerDesc>
+  <RaiseRefinerPowerDesc>Zvýší množství elektřiny spotřebovávané rafinerií a zvýší tak její výkon.</RaiseRefinerPowerDesc>
+
+  <NoRefinerNeedsWork>Nejsou připojeny žádné aktivní krakovací nebo jiné rafinérie</NoRefinerNeedsWork>
+
+  <DisableColoursDesc>Tohle odstraní barevné verze materiálů ze hry. Při nahrání uložené pozice se všechny barevné věci odbarví do základní barvy.</DisableColoursDesc>
+  <DisableColours>Zrušit barvy (Vyžadován restart)</DisableColours>
+
+  <RequiresDeepScanner>K zobrazení hlubokých ložisek ropy je potřeba funkční hloubkový snímač.</RequiresDeepScanner>
+  <RequiresResourceConsole>K zobrazení ložisek ropy je potřeba surovinová konzole</RequiresResourceConsole>
+
+  <AllowedCraftingSkill>Povolená schopnost Řemeslo {0}</AllowedCraftingSkill>
+  <FuelStorageLimit>Limit produkce paliva {0}</FuelStorageLimit>
+  <OilStorageLimit>Limit těžby ropy {0}</OilStorageLimit>
+
+  <FuelStoragelimitTip>Rafinerie pro krakování surové ropy se při dosažení maximální hodnoty zastaví, při dosažení minimální hodnoty se opět spustí.\n\nKlikni pro aktivaci</FuelStoragelimitTip>
+  
+  <OilStoragelimitTip>Ropné vrty přestanou při dosažení maxima těžit a těžbu opět obnoví po dosažení minima.\n\nKlikni pro aktivaci</OilStoragelimitTip>
+
+  <FuelPumpLimit>Limit pro palivová čerpadla</FuelPumpLimit>
+  <FuelPumpLimitTip>Čerpadla budou palivo čerpat do kanystrů pouze do této hodnoty, kliknutím aktivuj.</FuelPumpLimitTip>
+
+  <ResourceConsoleAlert>Surovinová konzole</ResourceConsoleAlert>
+  <ResourceConsoleAlertDesc>Otevře ovládací rozhraní surovinové konzole, kde je možné změnit nastavení produkce ropy a paliva, spolu s nastavením rafinerií.</ResourceConsoleAlertDesc>
+
+  <ConsoleSettings>Nastavení konzole</ConsoleSettings>
+  <GlobalSettings>Globální nastavení</GlobalSettings>
+</LanguageData>

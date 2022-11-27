@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Artificial Flooring -->
+  <ArtificialFloors.label>人造材料地板</ArtificialFloors.label>
+  <!-- EN: Produce artificial flooring from synthylene -->
+  <ArtificialFloors.description>使用聚乙烯製造地板。</ArtificialFloors.description>
+  
+  <!-- EN: Chemfuel Refining -->
+  <ChemfuelRefining.label>化合燃料精煉</ChemfuelRefining.label>
+  <!-- EN: Refine crude oil into chemfuel to be stored in chemfuel tanks. -->
+  <ChemfuelRefining.description>將石油加工成化合燃料，儲存在化合燃料存儲罐中。</ChemfuelRefining.description>
+  
+  <!-- EN: Deep Wells -->
+  <DeepOilWells.label>深油井</DeepOilWells.label>
+  <!-- EN: Drill deeper wells to access new larger oil reservoirs. -->
+  <DeepOilWells.description>鑽探得更深的油井，以便開採更大的新油田。</DeepOilWells.description>
+  
+  <!-- EN: Hyperweave -->
+  <HyperweaveProduction.label>超織物</HyperweaveProduction.label>
+  <!-- EN: Discover the secrets of making Hyperweave -->
+  <HyperweaveProduction.description>超織物合成探秘。</HyperweaveProduction.description>
+  
+  <!-- EN: Napalm -->
+  <Napalm.label>凝固汽油</Napalm.label>
+  <!-- EN: Highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene -->
+  <Napalm.description>將儲存的化合燃料加工成凝固汽油，一種可用於燃燒彈的高度易燃粘性膠狀物，是一種化合燃料和聚乙烯的混合物。</Napalm.description>
+  
+  <!-- EN: Neutroamine -->
+  <NeutroamineProduction.label>中性胺</NeutroamineProduction.label>
+  <!-- EN: Produce Neutroamine from stored chemfuel, used for making medicine -->
+  <NeutroamineProduction.description>將儲存的化合燃料加工成中性胺，一種可用於制藥的材料。</NeutroamineProduction.description>
+  
+  <!-- EN: Drill for oil -->
+  <OilDrilling.label>開採石油</OilDrilling.label>
+  <!-- EN: Oil Drilling. -->
+  <OilDrilling.description>石油開採。</OilDrilling.description>
+  
+  <!-- EN: Plasteel -->
+  <PlasteelProduction.label>玻璃鋼</PlasteelProduction.label>
+  <!-- EN: Discover the secrets of making Plasteel -->
+  <PlasteelProduction.description>玻璃鋼合成探秘。</PlasteelProduction.description>
+  <!-- EN: You can now produce Plasteel! craft uncured Plasteel at a fabrication bench, construct an autoclave, then set the autoclave to plasteel curing mode. -->
+  <PlasteelProduction.discoveredLetterText>你現在可以生產玻璃鋼！首先在精密裝配台製作未固化的玻璃鋼，然後建造一個釜式反應器，最後將釜式反應器設置為固化玻璃鋼模式。</PlasteelProduction.discoveredLetterText>
+  <!-- EN: Plasteel Production -->
+  <PlasteelProduction.discoveredLetterTitle>玻璃鋼生產</PlasteelProduction.discoveredLetterTitle>
+  
+  <!-- EN: Synthamide Composite -->
+  <SynthamideCompositeProduction.label>聚酰胺複合材料</SynthamideCompositeProduction.label>
+  <!-- EN: Produce Synthamide Composite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres -->
+  <SynthamideCompositeProduction.description>合成聚酰胺複合材料，一種高強度輕質阻燃隔溫複合材料，由多種聚合物混合製成。</SynthamideCompositeProduction.description>
+  <!-- EN: You can now produce Synthamide composite! first craft uncured composite at a fabrication bench, construct an autoclave, then load uncured composite into the autoclave to cure it. -->
+  <SynthamideCompositeProduction.discoveredLetterText>你現在可以生產聚酰胺複合材料！首先在精密裝配台製作未固化的聚酰胺複合材料，然後建造一個釜式反應器，最後將釜式反應器設置為固化複合材料模式。</SynthamideCompositeProduction.discoveredLetterText>
+  <!-- EN: Synthamide Composite -->
+  <SynthamideCompositeProduction.discoveredLetterTitle>聚酰胺複合材料</SynthamideCompositeProduction.discoveredLetterTitle>
+  
+  <!-- EN: Synthamide -->
+  <SynthamideProduction.label>聚酰胺纖維</SynthamideProduction.label>
+  <!-- EN: Produce Synthamide, Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing. -->
+  <SynthamideProduction.description>將儲存的化合燃料加工成聚酰胺纖維，一種高強度的織物。</SynthamideProduction.description>
+  
+  <!-- EN: Synthread -->
+  <SynthreadProduction.label>合成纖維</SynthreadProduction.label>
+  <!-- EN: Produce synthread from stored chemfuel -->
+  <SynthreadProduction.description>將儲存的化合燃料加工成合成纖維，一種可用於製作服裝的織物。。</SynthreadProduction.description>
+  
+  <!-- EN: Advanced Synthylene Components -->
+  <SynthyleneAdvComponents.label>高級聚乙烯零部件</SynthyleneAdvComponents.label>
+  <!-- EN: Stretch out your steel reserves by making advanced components using synthylene -->
+  <SynthyleneAdvComponents.description>使用聚乙烯塑料製作高級零部件，減緩你鋼鐵庫存的消耗。</SynthyleneAdvComponents.description>
+  
+  <!-- EN: Synthylene Components -->
+  <SynthyleneComponents.label>聚乙烯零部件</SynthyleneComponents.label>
+  <!-- EN: Stretch out your steel reserves by making components using synthylene and steel -->
+  <SynthyleneComponents.description>使用聚乙烯塑料製作零部件，減緩你鋼鐵庫存的消耗。</SynthyleneComponents.description>
+  
+  <!-- EN: Synthylene -->
+  <SynthyleneProduction.label>聚乙烯</SynthyleneProduction.label>
+  <!-- EN: Produce the generic building material synthylene with a selection of colours from stored chemfuel -->
+  <SynthyleneProduction.description>將儲存的化合燃料加工成色澤多樣的聚乙烯塑料，一種可用於建築或製作零部件的材料。</SynthyleneProduction.description>
+  
+</LanguageData>

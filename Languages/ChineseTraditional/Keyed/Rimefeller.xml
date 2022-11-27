@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Generate synthylene floor styles from other flooring -->
+  <GenerateFloorsDesc>從其他地板樣式生成合成地板樣式</GenerateFloorsDesc>
+  <!-- EN: Generate floors -->
+  <GenerateFloors>生成地板</GenerateFloors>
+  <!-- EN: Toggle Valve -->
+  <CommandDesignateOpenCloseValveLabelRimefeller>切換閥門</CommandDesignateOpenCloseValveLabelRimefeller>
+  <!-- EN: Toggle the valve open or closed -->
+  <CommandDesignateOpenCloseValveDescRimefeller>切換閥門開閉</CommandDesignateOpenCloseValveDescRimefeller>
+  <!-- EN: Valve Closed -->
+  <ValveClosedRimefeller>閥門已關閉</ValveClosedRimefeller>
+  
+  <!-- EN: No uncured plasteel -->
+  <NoUncuredPlasteel>沒有未固化的玻璃鋼</NoUncuredPlasteel>
+  <!-- EN: No uncured synthamide -->
+  <NoUncuredSynthamide>沒有未固化的聚酰胺複合材料</NoUncuredSynthamide>
+  <!-- EN: Cannot change mode while curing -->
+  <CantModeAutoclave>不能在固化時改變模式</CantModeAutoclave>
+  <!-- EN: Curing Time: {0} -->
+  <CuringTime>固化剩餘時間：{0}</CuringTime>
+  
+  <!-- EN: Pick Colour -->
+  <PickCompositeColour>選擇顏色</PickCompositeColour>
+  <!-- EN: Pick the colour of the cured synthamide composite -->
+  <PickCompositeColourDesc>選擇固化的聚酰胺複合材料的顏色</PickCompositeColourDesc>
+  <!-- EN: Pick Synthylene Colour -->
+  <PickSynthyleneColour>選擇聚乙烯顏色</PickSynthyleneColour>
+  <!-- EN: Pick Synthylene Colour -->
+  <PickSynthyleneColourDesc>選擇聚乙烯的顏色</PickSynthyleneColourDesc>
+  
+  <!-- EN: Cure Plasteel -->
+  <CurePlasteel>固化玻璃鋼</CurePlasteel>
+  <!-- EN: Cure Composite -->
+  <CureComposite>固化複合材料</CureComposite>
+  <!-- EN: Toggle between curing plasteel or composite at this autoclave -->
+  <CommandCompositeModeDesc>可在這個釜式反應器中切換固化塑鋼或者固化複合材料</CommandCompositeModeDesc>
+
+  <!-- EN: Fuel Storage: {0} / {1}L -->
+  <FuelStorage>燃料儲量：{0}/{1}L</FuelStorage>
+  <!-- EN: Piped Fuel Storage: {0}L -->
+  <TotalFuelStorage>管道系統燃料儲量：{0}L</TotalFuelStorage>
+
+  <!-- EN: Drilling oil well -->
+  <DrillingPhase>油井鑽探</DrillingPhase>
+  <!-- EN: The oil derrick has been constructed, but the well still needs to be drilled.\n\nA colonist with the construction skill must supervise the drilling operation until it is complete.\n\nUp to 3 colonists can supervise the drilling at the same time to speed up the process\n\nProgress: {0} -->
+  <DrillingPhaseDesc>油井已建成，但仍需鑽探。\n\需要建造技能高的殖民者管理鑽探直到完成。\n\n最多允許三個殖民者同時管理鑽探以加快進度。\n\n進度：{0}</DrillingPhaseDesc>
+  
+  <!-- EN: Oil Storage: {0} / {1}L -->
+  <OilStorage>石油儲量：{0} / {1}L</OilStorage>
+  <!-- EN: Well Pressure: x{0} -->
+  <WellPressure>油井壓力：x{0}</WellPressure>
+  <!-- EN: Well Capacity: {0} L/day -->
+  <OilWellCapacity>油井流量：{0} L/天</OilWellCapacity>
+  <!-- EN: Piped Oil Storage: {0} L ({1}) -->
+  <TotalOilStorage>管道系統石油儲量：{0} L</TotalOilStorage>
+  <!-- EN: Piped Capacity: {0} L/day -->
+  <PipedOilPumpCapacity>管道流量：{0} L/day</PipedOilPumpCapacity>
+  
+  <!-- EN: Drilling Progress: {0} -->
+  <DrillingProgress>鑽探進度：{0}%</DrillingProgress>
+
+  <!-- EN: Clean Spill -->
+  <CleanOilSpill>清理石油泄漏</CleanOilSpill>
+  <!-- EN: Cleanup Oil spills or Napalm trails -->
+  <CleanOilSpillDesc>清理石油泄漏或凝固汽油路</CleanOilSpillDesc>
+  <!-- EN: Deconstruct Pipeline -->
+  <DesignatorRemovePipeline>拆除管道</DesignatorRemovePipeline>
+  <!-- EN: Deconstruct Oil Pipeline -->
+  <DesignatorRemovePipelineDesc>拆除輸油管道</DesignatorRemovePipelineDesc>
+
+  <!-- EN: Too close to existing wellhead, Place directly over an unused well to access it again -->
+  <PlaceDirectlyOverWell>離現有的井口太近了，直接放置在未使用的井上並再次點擊它</PlaceDirectlyOverWell>
+
+  <!-- EN: Fuel usage: {0} L/day -->
+  <FuelPowerplantUsage>燃料消耗：{0} L/天</FuelPowerplantUsage>
+
+  <!-- EN: Curing failed due to power loss -->
+  <CuringFailed>因為供電中斷導致固化失敗</CuringFailed>
+
+  <!-- EN: Drain Tank -->
+  <DrainStorageTank>清空存儲罐</DrainStorageTank>
+  <!-- EN: Drain the contents of this tank to other available tanks -->
+  <DrainStorageTankDesc>將這個存儲罐的化合燃料轉移到其他相連的存儲罐.</DrainStorageTankDesc>
+
+  <!-- EN: Increase Power -->
+  <RaiseRefinerPower>提高功率</RaiseRefinerPower>
+  <!-- EN: Reduce Power -->
+  <LowerRefinerPower>降低功率</LowerRefinerPower>
+  <!-- EN: Reduces the power used by the refiner to reduce the output -->
+  <LowerRefinerPowerDesc>減少供電以降低裝置產出。</LowerRefinerPowerDesc>
+  <!-- EN: Increases the power used by the refiner to increase the output -->
+  <RaiseRefinerPowerDesc>加大供電以提高裝置產出。</RaiseRefinerPowerDesc>
+
+  <!-- EN: No connected refineries or crackers ready for work -->
+  <NoRefinerNeedsWork>沒有相連的可運行的裝置</NoRefinerNeedsWork>
+
+  <!-- EN: This will remove the coloured versions of materials from the game. Any saved things will be changed to the plain version when you load the save -->
+  <DisableColoursDesc>這將從遊戲中移除材料的彩色版本。加載保存時，任何保存的彩色材料都將更改為純色版本</DisableColoursDesc>
+  <!-- EN: Disable Colours (Restart required) -->
+  <DisableColours>禁用彩色材料（需重新啟動遊戲）</DisableColours>
+
+  <!-- EN: A working Ground-penetrating scanner is needed to see deep oil reservoirs -->
+  <RequiresDeepScanner>需要一台正在運行的地質掃描儀來探查深層油田</RequiresDeepScanner>
+  <!-- EN: A working Resource console is needed to see oil reservoirs -->
+  <RequiresResourceConsole>需要一台正在運行的石化控制台來探查深層油田</RequiresResourceConsole>
+
+  <!-- EN: Allowed Crafting Skill {0} -->
+  <AllowedCraftingSkill>最低手工等級 {0}</AllowedCraftingSkill>
+  <!-- EN: Fuel Production Limit {0} -->
+  <FuelStorageLimit>燃料產出限制 {0}</FuelStorageLimit>
+  <!-- EN: Oil Production Limit {0} -->
+  <OilStorageLimit>石油產出限制 {0}</OilStorageLimit>
+
+  <!-- EN: Crackers will stop once they reach the maximum, then work again once it falls below the minimum.\n\nTick to enable -->
+  <FuelStoragelimitTip>設備將在達到最大值後停止，然後在低於最小值時再次工作。\n\n單擊以啟用</FuelStoragelimitTip>
+  
+  <!-- EN: Oil wells will stop once they reach the maximum, then work again once it falls below the minimum.\n\nTick to enable -->
+  <OilStoragelimitTip>油井將在達到最大值後停止，然後在低於最小值時再次工作。\n\n單擊以啟用</OilStoragelimitTip>
+
+  <!-- EN: Fuel Pump Limit -->
+  <FuelPumpLimit>燃料泵限額</FuelPumpLimit>
+  <!-- EN: Pump fuel until this amount is reached, Tick to enable -->
+  <FuelPumpLimitTip>泵送燃料至此設定值，單擊以啟用</FuelPumpLimitTip>
+
+  <!-- EN: Resource Console -->
+  <ResourceConsoleAlert>石化控制台</ResourceConsoleAlert>
+  <!-- EN: Open the bills tab on the resource console to change settings for oil and fuel production and add bills for refineries -->
+  <ResourceConsoleAlertDesc>打開石化控制台上的“清單”選項卡，更改石油和燃料生產的設置，並添加石化設備的生產清單</ResourceConsoleAlertDesc>
+
+  <!-- EN: Console Settings -->
+  <ConsoleSettings>控制台設置</ConsoleSettings>
+  <!-- EN: Global Settings -->
+  <GlobalSettings>全局設置</GlobalSettings>
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilWellHead.label>Нефтяная скважина</OilWellHead.label>
+  <OilWellHead.description>Заброшенная нефтяная скважина, давление в которой постепенно возвращается в норму. Вы сможете снова ее использовать, если поставите новую нефтяную вышку поверх скважины.</OilWellHead.description>
+  
+  <DeepOilWellHead.label>Глубокая нефтяная скважина</DeepOilWellHead.label>
+  <DeepOilWellHead.description>Заброшенная нефтяная скважина, давление в которой постепенно возвращается в норму. Вы сможете снова ее использовать, если поставите новую нефтяную вышку поверх скважины.</DeepOilWellHead.description>
+
+  <OilWell.label>Нефтяная вышка</OilWell.label>
+  <OilWell.description>Добывает нефть из подземных месторождений. Чтобы увидеть их на карте, постройте ресурсную консоль.</OilWell.description>
+  <OilWell.comps.CompRefuelable.fuelLabel>Запас стали для труб</OilWell.comps.CompRefuelable.fuelLabel>
+  <OilWell.comps.CompRefuelable.outOfFuelMessage>Дальнейшее бурение невозможно: не хватает стали</OilWell.comps.CompRefuelable.outOfFuelMessage>
+  <OilWell.comps.CompRefuelable.fuelGizmoLabel>Запас стали</OilWell.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <DeepOilWell.label>Глубинная нефтяная вышка</DeepOilWell.label>
+  <DeepOilWell.description>Добывает нефть из глубоких месторождений. Чтобы увидеть их на карте, постройте глубинный радар.</DeepOilWell.description>
+  <DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>Запас стали</DeepOilWell.comps.CompRefuelable.fuelGizmoLabel>
+  <DeepOilWell.comps.CompRefuelable.fuelLabel>Запас стали для труб</DeepOilWell.comps.CompRefuelable.fuelLabel>
+  <DeepOilWell.comps.CompRefuelable.outOfFuelMessage>Дальнейшее бурение невозможно: не хватает стали</DeepOilWell.comps.CompRefuelable.outOfFuelMessage>
+  
+  <OilStorage.label>Нефтяное хранилище</OilStorage.label>
+  <OilStorage.description>Хранит добытую с нефтяных вышек нефть.</OilStorage.description>
+  <OilStorage.comps.CompStorageTank.GizmoLabel>Хранимая нефть</OilStorage.comps.CompStorageTank.GizmoLabel>
+  
+  <FuelStorage.label>Химтопливное хранилище</FuelStorage.label>
+  <FuelStorage.description>Хранит химтопливо, полученное из крекерной установки. Может отдавать и принимать топливо через трубы, присоединенные к сливу и приемнику.</FuelStorage.description>
+  <FuelStorage.comps.CompStorageTank.GizmoLabel>Хранимое топливо</FuelStorage.comps.CompStorageTank.GizmoLabel>
+  
+  <ResourceConsole.label>Консоль ресурсов</ResourceConsole.label>
+  <ResourceConsole.description>Оперируемая станция для управления работой крекерных установок и синтезаторов.</ResourceConsole.description>
+    
+  <CrudeCracker.label>Крекерная установка</CrudeCracker.label>
+  <CrudeCracker.description>Синтезирует химтопливо из сырой нефти, которое потом может быть доставлено по трубам в хранилище или к сливу/приемнику.</CrudeCracker.description>
+  <CrudeCracker.comps.CompCrudeCracker.GizmoLabel>Интенсивность синтеза</CrudeCracker.comps.CompCrudeCracker.GizmoLabel>
+  
+  <FuelPowerplant.label>Химтопливная электростанция</FuelPowerplant.label>
+  <FuelPowerplant.description>Производит электроэнергию из химтоплива. Необходимо прямое соединение с хранилищем химтоплива через трубы.</FuelPowerplant.description>
+  
+  <LargeFuelPowerplant.label>Большая химтопливная электростанция</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.description>Производит электроэнергию из химтоплива. Необходимо прямое соединение с хранилищем химтоплива через трубы.</LargeFuelPowerplant.description>
+  
+</LanguageData>

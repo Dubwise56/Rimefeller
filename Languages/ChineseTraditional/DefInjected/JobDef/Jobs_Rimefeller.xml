@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clean oil. -->
+  <CleanOil.reportString>清理石油。</CleanOil.reportString>
+  
+  <!-- EN: Emptying Autoclave. -->
+  <EmptyAutoclave.reportString>清空高壓處理罐。</EmptyAutoclave.reportString>
+  
+  <!-- EN: Filling Autoclave. -->
+  <FillAutoclave.reportString>填滿高壓處理罐。</FillAutoclave.reportString>
+  
+  <!-- EN: operating TargetA. -->
+  <OperateResourceConsole.reportString>操作TargetA。</OperateResourceConsole.reportString>
+  
+  <!-- EN: Supervising drilling operation. -->
+  <SuperviseDrilling.reportString>監督鑽井作業。</SuperviseDrilling.reportString>
+  
+</LanguageData>

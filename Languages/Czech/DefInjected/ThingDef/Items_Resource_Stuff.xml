@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<OilBarrel.label>Barel ropy</OilBarrel.label>
+
+	<OilBarrel.description>Barel naplněný surovou ropou. Lze jej vylít, spálit nebo zpracovat.</OilBarrel.description>
+
+	<Shell_Napalm.label>Napalmový dělostřelecký granát</Shell_Napalm.label>
+
+	<Shell_Napalm.description>Dělostřelecký granát obsahující zápalný gel a malou výbušnou nálož. Při detonaci způsobí požár. Lze jej vystřelit z minometů. Pokud je poškozen, exploduje.</Shell_Napalm.description>
+
+	<UncuredComposite.label>Nevytvrzený synthamidový kompozit</UncuredComposite.label>
+
+	<UncuredComposite.description>Nevytvrzený synthamidový kompozit, který je nutné vytvrdit v autoklávu.</UncuredComposite.description>
+
+	<Bullet_Shell_Napalm.label>Napalmový dělostřelecký granát</Bullet_Shell_Napalm.label>
+
+	<UncuredPlasteel.label>Nevytvrzená plastocel</UncuredPlasteel.label>
+
+	<UncuredPlasteel.description>Nevytvrzená plastocel, kterou je nutné vytvrdit v autoklávu.</UncuredPlasteel.description>
+
+	<Synthamide.label>Synthamid</Synthamide.label>
+
+	<Synthamide.description>Synthamidová vlákna jsou vysoce mechanicky i tepelně odolná, lze z nich ušít velice odolné oblečení nebo je dále zpracovat na pevné kompozitní materiály.</Synthamide.description>
+
+	<FiberComposite.description>Synthamidový kompozit je lehký, tepelně i mechanicky odolný kompozitní materiál vesmírného věku, vyrobený z polymerové matrice zesílené aramidovými vlákny.</FiberComposite.description>
+
+	<FiberComposite.label>Synthamid</FiberComposite.label>
+
+	<FiberComposite.stuffprops.stuffadjective>z kompozitu</FiberComposite.stuffprops.stuffadjective>
+
+	<Synthylene.description>Syntetický stavební materiál.</Synthylene.description>
+
+	<Synthylene.stuffprops.stuffadjective>ze synthylenu</Synthylene.stuffprops.stuffadjective>
+
+	<Synthylene.label>Synthylen</Synthylene.label>
+
+</LanguageData>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Napalm.label>Напалм</Napalm.label>
+  <Napalm.description>Чрезвычайно горючая и липкая субстанция, используемая при производстве зажигательных бомб. Состоит из химтоплива в смеси с синтеленом.</Napalm.description>
+  
+  <Shell_Napalm.label>Напалмовый снаряд</Shell_Napalm.label>
+  <Shell_Napalm.description>Снаряд заполненный горючей смесью и небольшим зарядом взрывчатки. Вызывает пожар в области взрыва. Может быть использован как снаряд в мортирах. Взрывается при получении урона.</Shell_Napalm.description>
+  <Bullet_Shell_Napalm.label>Напалмовый снаряд</Bullet_Shell_Napalm.label>
+   
+  <OilBarrel.label>Бочка с нефтью</OilBarrel.label>
+  <OilBarrel.description>Полная бочка нефти, которую вы можете разлить, поджечь или продать.</OilBarrel.description>
+
+  <UncuredPlasteel.label>Сырая пласталь</UncuredPlasteel.label>
+  <UncuredPlasteel.description>Неготовые листы пластали, ждущие обработки в автоклаве.</UncuredPlasteel.description>
+
+  <Synthamide.label>Синтамид</Synthamide.label>
+  <Synthamide.description>Крепкие и термостойкие синтетические волокна, которые можно использовать для шитья прочной одежды.</Synthamide.description>
+  <Synthamide.stuffProps.stuffAdjective>синтамида</Synthamide.stuffProps.stuffAdjective>
+
+  <Synthylene.label>Синтелен</Synthylene.label>
+  <Synthylene.description>Дешевый строительный материал из синтетики.</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>синтелена</Synthylene.stuffProps.stuffAdjective>
+
+  <SynthyleneWhite.label>Белый синтелен</SynthyleneWhite.label>
+  <SynthyleneWhite.description>Дешевый строительный материал из синтетики.</SynthyleneWhite.description>
+  <SynthyleneWhite.stuffProps.stuffAdjective>белого синтелена</SynthyleneWhite.stuffProps.stuffAdjective>
+
+  <SynthyleneBlack.label>Черный синтелен</SynthyleneBlack.label>
+  <SynthyleneBlack.description>Дешевый строительный материал из синтетики.</SynthyleneBlack.description>
+  <SynthyleneBlack.stuffProps.stuffAdjective>черного синтелена</SynthyleneBlack.stuffProps.stuffAdjective>
+
+  <SynthyleneGreen.label>Зеленый синтелен</SynthyleneGreen.label>
+  <SynthyleneGreen.description>Дешевый строительный материал из синтетики.</SynthyleneGreen.description>
+  <SynthyleneGreen.stuffProps.stuffAdjective>зеленого синтелена</SynthyleneGreen.stuffProps.stuffAdjective>
+
+  <SynthyleneBlue.label>Голубой синтелен</SynthyleneBlue.label>
+  <SynthyleneBlue.description>Дешевый строительный материал из синтетики.</SynthyleneBlue.description>
+  <SynthyleneBlue.stuffProps.stuffAdjective>голубого синтелена</SynthyleneBlue.stuffProps.stuffAdjective>
+
+  <SynthyleneViolet.label>Фиолетовый синтелен</SynthyleneViolet.label>
+  <SynthyleneViolet.description>Дешевый строительный материал из синтетики.</SynthyleneViolet.description>
+  <SynthyleneViolet.stuffProps.stuffAdjective>фиолетового синтелена</SynthyleneViolet.stuffProps.stuffAdjective>
+
+  <SynthyleneOrange.label>Оранжевый синтелен</SynthyleneOrange.label>
+  <SynthyleneOrange.description>Дешевый строительный материал из синтетики.</SynthyleneOrange.description>
+  <SynthyleneOrange.stuffProps.stuffAdjective>оранжевого синтелена</SynthyleneOrange.stuffProps.stuffAdjective>
+
+  <SynthyleneYellow.label>Желтый синтелен</SynthyleneYellow.label>
+  <SynthyleneYellow.description>Дешевый строительный материал из синтетики.</SynthyleneYellow.description>
+  <SynthyleneYellow.stuffProps.stuffAdjective>желтого синтелена</SynthyleneYellow.stuffProps.stuffAdjective>
+
+  <SynthyleneRed.label>Красный синтелен</SynthyleneRed.label>
+  <SynthyleneRed.description>Дешевый строительный материал из синтетики.</SynthyleneRed.description>
+  <SynthyleneRed.stuffProps.stuffAdjective>красного синтелена</SynthyleneRed.stuffProps.stuffAdjective>
+
+  <SynthyleneOlive.label>Оливковый синтелен</SynthyleneOlive.label>
+  <SynthyleneOlive.description>Дешевый строительный материал из синтетики.</SynthyleneOlive.description>
+  <SynthyleneOlive.stuffProps.stuffAdjective>оливкового синтелена</SynthyleneOlive.stuffProps.stuffAdjective>
+
+  <SynthyleneSand.label>Синтелен</SynthyleneSand.label>
+  <SynthyleneSand.description>Дешевый строительный материал из синтетики.</SynthyleneSand.description>
+  <SynthyleneSand.stuffProps.stuffAdjective>синтелена</SynthyleneSand.stuffProps.stuffAdjective>
+
+  <UncuredComposite.label>Сырой синтамидовый полимер</UncuredComposite.label>
+  <UncuredComposite.description>Неготовые листы синтамидового полимера, ждущие обработки в автоклаве.</UncuredComposite.description>
+
+  <FiberComposite.label>синтамидовый полимер</FiberComposite.label>
+  <FiberComposite.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>синтамидового полимера</FiberComposite.stuffProps.stuffAdjective>
+
+  <FiberCompositeWhite.label>Белый синтамидовый полимер</FiberCompositeWhite.label>
+  <FiberCompositeWhite.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeWhite.description>
+  <FiberCompositeWhite.stuffProps.stuffAdjective>белого синтамидового полимера</FiberCompositeWhite.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlack.label>Черный синтамидовый полимер</FiberCompositeBlack.label>
+  <FiberCompositeBlack.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeBlack.description>
+  <FiberCompositeBlack.stuffProps.stuffAdjective>черного синтамидового полимера</FiberCompositeBlack.stuffProps.stuffAdjective>
+
+  <FiberCompositeGreen.label>Зеленый синтамидовый полимер</FiberCompositeGreen.label>
+  <FiberCompositeGreen.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeGreen.description>
+  <FiberCompositeGreen.stuffProps.stuffAdjective>зеленого синтамидового полимера</FiberCompositeGreen.stuffProps.stuffAdjective>
+
+  <FiberCompositeBlue.label>Голубой синтамидовый полимер</FiberCompositeBlue.label>
+  <FiberCompositeBlue.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeBlue.description>
+  <FiberCompositeBlue.stuffProps.stuffAdjective>голубого синтамидового полимера</FiberCompositeBlue.stuffProps.stuffAdjective>
+
+  <FiberCompositeViolet.label>Фиолетовый синтамидовый полимер</FiberCompositeViolet.label>
+  <FiberCompositeViolet.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeViolet.description>
+  <FiberCompositeViolet.stuffProps.stuffAdjective>фиолетового синтамидового полимера</FiberCompositeViolet.stuffProps.stuffAdjective>
+
+  <FiberCompositeOrange.label>Оранжевый синтамидовый полимер</FiberCompositeOrange.label>
+  <FiberCompositeOrange.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeOrange.description>
+  <FiberCompositeOrange.stuffProps.stuffAdjective>оранжевого синтамидового полимера</FiberCompositeOrange.stuffProps.stuffAdjective>
+
+  <FiberCompositeYellow.label>Желтый синтамидовый полимер</FiberCompositeYellow.label>
+  <FiberCompositeYellow.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeYellow.description>
+  <FiberCompositeYellow.stuffProps.stuffAdjective>желтого синтамидового полимера</FiberCompositeYellow.stuffProps.stuffAdjective>
+
+  <FiberCompositeRed.label>Красный синтамидовый полимер</FiberCompositeRed.label>
+  <FiberCompositeRed.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeRed.description>
+  <FiberCompositeRed.stuffProps.stuffAdjective>красного синтамидового полимера</FiberCompositeRed.stuffProps.stuffAdjective>
+
+  <FiberCompositeOlive.label>Оливковый синтамидовый полимер</FiberCompositeOlive.label>
+  <FiberCompositeOlive.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeOlive.description>
+  <FiberCompositeOlive.stuffProps.stuffAdjective>оливкового синтамидового полимера</FiberCompositeOlive.stuffProps.stuffAdjective>
+
+  <FiberCompositeSand.label>Синтамидовый полимер</FiberCompositeSand.label>
+  <FiberCompositeSand.description>Легкий, огнеупорный и высокопрочный полимерный материал космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</FiberCompositeSand.description>
+  <FiberCompositeSand.stuffProps.stuffAdjective>синтамидового полимера</FiberCompositeSand.stuffProps.stuffAdjective>
+  
+</LanguageData>

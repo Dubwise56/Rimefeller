@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Should not show up by default; an xpath patch will enable this only if Combat Extended is running -->
+	<ThingDef ParentName="RefineryBase">
+		<defName>CombatExtendedFsxRefiner</defName>
+		<label>FSX Refiner</label>
+		<description>Processes chemfuel into FSX, a high-explosive chemical used in a variety of industrial and military applications.</description>
+		<graphicData>
+			<texPath>Rimefeller/Things/Building/CeFsxRefinery</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(4,4)</drawSize>
+		</graphicData>
+		<costList>
+			<Steel>150</Steel>
+			<ComponentIndustrial>3</ComponentIndustrial>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>1000</basePowerConsumption>
+			</li>
+			<li Class="Rimefeller.CompProperties_Refinery">
+				<compClass>Rimefeller.CompRefineryNapalm</compClass>
+				<Product>FSX</Product>
+				<StackSize>1</StackSize>
+				<BufferSize>4</BufferSize>
+				<ConsumeRate>0.1</ConsumeRate>
+			</li>
+		</comps>
+		<researchPrerequisites>
+			<li>CE_FsxProduction</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+</Defs>

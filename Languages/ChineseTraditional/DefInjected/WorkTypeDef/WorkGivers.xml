@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <RimefellerCrafting.label>石化</RimefellerCrafting.label>
+  <!-- EN: Operate Rimefeller resource consoles. -->
+  <RimefellerCrafting.description>操作石化控制台</RimefellerCrafting.description>
+  <!-- EN: resource consoles -->
+  <RimefellerCrafting.gerundLabel>石化控制台</RimefellerCrafting.gerundLabel>
+  <!-- EN: Resource -->
+  <RimefellerCrafting.labelShort>石化操作</RimefellerCrafting.labelShort>
+  <!-- EN: Resource console operator -->
+  <RimefellerCrafting.pawnLabel>操作石化控制台</RimefellerCrafting.pawnLabel>
+  <!-- EN: Resource -->
+  <RimefellerCrafting.verb>石化操作</RimefellerCrafting.verb>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmptyAutoclave.label>Выгрузить</EmptyAutoclave.label>
+  <EmptyAutoclave.verb>Выгрузить</EmptyAutoclave.verb>
+  <EmptyAutoclave.gerund>Выгрузить</EmptyAutoclave.gerund>
+
+  <FillAutoclave.label>Загрузить</FillAutoclave.label>
+  <FillAutoclave.verb>Загрузить</FillAutoclave.verb>
+  <FillAutoclave.gerund>Загрузить</FillAutoclave.gerund>
+
+  <CleanOil.label>Очистить</CleanOil.label>
+  <CleanOil.verb>Очистить</CleanOil.verb>
+  <CleanOil.gerund>Очистить</CleanOil.gerund>
+
+  <SuperviseDrilling.label>Контролировать процесс бурения</SuperviseDrilling.label>
+  <SuperviseDrilling.verb>Контролировать процесс бурения</SuperviseDrilling.verb>
+  <SuperviseDrilling.gerund>Контролировать процесс бурения</SuperviseDrilling.gerund>
+
+  <OperateResourceConsole.label>Оперировать</OperateResourceConsole.label>
+  <OperateResourceConsole.verb>Оперировать</OperateResourceConsole.verb>
+  <OperateResourceConsole.gerund>Оперировать</OperateResourceConsole.gerund>
+
+</LanguageData>

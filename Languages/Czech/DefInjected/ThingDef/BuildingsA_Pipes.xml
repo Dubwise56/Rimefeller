@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<NapalmBomb.label>Napalmová bomba</NapalmBomb.label>
+
+	<NapalmBomb.description>Zápalná napalmová bomba</NapalmBomb.description>
+
+	<NapalmBomb.comps.0.uselabel>Zapálit</NapalmBomb.comps.0.uselabel>
+
+	<OilPipeline.label>Ropovod</OilPipeline.label>
+
+	<OilPipeline.description>Potrubí pro vedení ropy a ropných produktů.</OilPipeline.description>
+
+	<Filth_OilSlick.label>Ropná skrvna</Filth_OilSlick.label>
+
+	<Filth_OilSlick.description>Louže hořlavé ropy.</Filth_OilSlick.description>
+
+	<Filth_OilSlick.comps.0.uselabel>Zapálit</Filth_OilSlick.comps.0.uselabel>
+
+	<SparkGrid.label>Jiskrová mříž</SparkGrid.label>
+
+	<SparkGrid.description>Pokud je napájena elektřinou, zapaluje hořlaviny, jako například napalm.</SparkGrid.description>
+
+	<Filth_NapalmTrail.label>Napalmová stopa</Filth_NapalmTrail.label>
+
+	<Filth_NapalmTrail.description>Stopa z napalmu, lze použít na způsob zápalné šňůry.</Filth_NapalmTrail.description>
+
+	<Filth_NapalmTrail.comps.0.uselabel>Zapálit</Filth_NapalmTrail.comps.0.uselabel>
+
+	<pipelineValve.label>Ventil ropovodu</pipelineValve.label>
+
+	<pipelineValve.description>Otevírá nebo uzavírá spojení mezi ropovody.</pipelineValve.description>
+
+</LanguageData>

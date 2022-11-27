@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- Recipe Users: TableMachining -->
+
+  <Make_Shell_Napalm.label>fabricar um projétil de napalm</Make_Shell_Napalm.label>
+  <Make_Shell_Napalm.description>Crie um projétil Napalm.</Make_Shell_Napalm.description>
+  <Make_Shell_Napalm.jobString>Fabrica um projétil Napalm</Make_Shell_Napalm.jobString>
+
+</LanguageData>

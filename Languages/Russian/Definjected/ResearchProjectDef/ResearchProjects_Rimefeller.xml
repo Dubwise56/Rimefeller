@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilDrilling.label>Добыча нефти</OilDrilling.label>
+  <OilDrilling.description>Добыча сырой нефти из подземных источников</OilDrilling.description>
+
+  <DeepOilWells.label>Глубинная добыча</DeepOilWells.label>
+  <DeepOilWells.description>Бурение более глубоких скважин открывает доступ к новым месторождениям нефти</DeepOilWells.description>
+
+  <ChemfuelRefining.label>Переработка в химтопливо</ChemfuelRefining.label>
+  <ChemfuelRefining.description>Крекинг нефти в химтопливо, которое потом перегоняется в специальное хранилище</ChemfuelRefining.description>
+
+  <NeutroamineProduction.label>Нейтроамин</NeutroamineProduction.label>
+  <NeutroamineProduction.description>Переработка химтоплива в нейтроамин, вещество которое используется при производстве медикаментов</NeutroamineProduction.description>
+
+  <SynthyleneProduction.label>Синтелен</SynthyleneProduction.label>
+  <SynthyleneProduction.description>Переработка химтоплива в синтелен, дешевый строительный материал в различных цветовых гаммах</SynthyleneProduction.description>
+
+  <Napalm.label>Напалм</Napalm.label>
+  <Napalm.description>Чрезвычайно горючая и липкая субстанция, используемая при производстве зажигательных бомб. Состоит из химтоплива в смеси с синтеленом.</Napalm.description>
+
+  <ArtificialFloors.label>Искусственные полы</ArtificialFloors.label>
+  <ArtificialFloors.description>Производство различных напольных покрытий из синтелена</ArtificialFloors.description>
+
+  <SynthyleneComponents.label>Синтеленовые компоненты</SynthyleneComponents.label>
+  <SynthyleneComponents.description>Экономия стали путем добавления синтелена в производство компонентов</SynthyleneComponents.description>
+  
+  <SynthyleneAdvComponents.label>Продвинутые синтеленовые компоненты </SynthyleneAdvComponents.label>
+  <SynthyleneAdvComponents.description>Экономия стали путем добавления синтелена в производство продвинутых компонентов</SynthyleneAdvComponents.description>
+
+  <SynthreadProduction.label>Синткань</SynthreadProduction.label>
+  <SynthreadProduction.description>Переработка химтоплива в синткань</SynthreadProduction.description>
+  
+  <SynthamideProduction.label>Синтамид</SynthamideProduction.label>
+  <SynthamideProduction.description>Изготовление синтамида, крепкого и термостойкого синтетического волокна, которое можно использовать для шитья прочной одежды</SynthamideProduction.description>
+
+  <SynthamideCompositeProduction.label>Синтамидовый полимер</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>Изготовление синтамидового полимера, легкого, огнеупорного и высокопрочного полимерного материала космического уровня. Создан по технологии плетения синтеленовой матрицы с вшитыми синтамидовыми волокнами.</SynthamideCompositeProduction.description>
+  <SynthamideCompositeProduction.discoveredLetterTitle>Синтамидовый полимер</SynthamideCompositeProduction.discoveredLetterTitle>
+  <SynthamideCompositeProduction.discoveredLetterText>Теперь вы можете производить синтамидовый полимер! Перед началом убедитесь что у вас построен автоклав. Сначала вам нужно создать сырой полимер на высокоточном станке, затем загрузить им автоклав и переключить его в режим обработки сырых полимеров, если это еще не сделано. Процесс запустится автоматически при поступлении материалов.</SynthamideCompositeProduction.discoveredLetterText>
+ 
+  
+  <PlasteelProduction.label>Пласталь</PlasteelProduction.label>
+  <PlasteelProduction.description>Раскройте секреты производства пластали и создавайте ее сами</PlasteelProduction.description>
+  <PlasteelProduction.discoveredLetterTitle>Пласталь</PlasteelProduction.discoveredLetterTitle>
+  <PlasteelProduction.discoveredLetterText>Теперь вы можете производить пласталь! Перед началом убедитесь что у вас построен автоклав. Сначала вам нужно создать сырую пласталь на высокоточном станке, затем загрузить ею автоклав и переключить его в режим обработки сырой пластали, если это еще не сделано. Процесс запустится автоматически при поступлении материалов.</PlasteelProduction.discoveredLetterText>
+  
+  <HyperweaveProduction.label>Гиперткань</HyperweaveProduction.label>
+  <HyperweaveProduction.description>Раскройте секреты производства гиперткани и создавайте ее сами</HyperweaveProduction.description>
+
+
+</LanguageData>

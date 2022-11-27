@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilSpill.label>Прорыв трубы</OilSpill.label>
+  <OilSpill.letterlabel>Прорыв трубы</OilSpill.letterlabel>
+  <OilSpill.letterLabel>Прорыв трубы</OilSpill.letterLabel>
+  <OilSpill.letterText>Какую-то из нефтяных труб прорвало и нефть выливается на землю. Вы можете очистить загрязненную территорию при помощи приказа "Смыть нефть".</OilSpill.letterText>
+
+  <DrillQuake.label>Подземные толчки</DrillQuake.label>
+  <DrillQuake.description>Подземные толчки</DrillQuake.description>
+  <DrillQuake.letterLabel>Подземные толчки</DrillQuake.letterLabel>
+  <DrillQuake.letterText>Чрезмерное бурение скважин вызвало подземные толчки.</DrillQuake.letterText>
+    
+</LanguageData>

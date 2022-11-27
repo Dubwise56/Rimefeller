@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <CommandDesignateOpenCloseValveLabelRimefeller>Válvula de troca</CommandDesignateOpenCloseValveLabelRimefeller>
+  <CommandDesignateOpenCloseValveDescRimefeller>Muda a válvula fechando ou abrindo a tubulação</CommandDesignateOpenCloseValveDescRimefeller>
+  <ValveClosedRimefeller>Válvula fechada</ValveClosedRimefeller>
+
+  <NoUncuredPlasteel>Sem plastal bruto</NoUncuredPlasteel>
+  <NoUncuredSynthamide>Sem sintamida bruta</NoUncuredSynthamide>
+  <CantModeAutoclave>É impossível mudar o modo de autoclave durante sua operação</CantModeAutoclave>
+  <CuringTime>Tempo até a preparação: {0}</CuringTime>
+
+  <CurePlasteel>Plastal de Processo</CurePlasteel>
+  <CureComposite>Polímero de sintamida de processo</CureComposite>
+  <CommandCompositeModeDesc>Muda a autoclave para processamento composto de Plastal ou Sintamida</CommandCompositeModeDesc>
+
+  <FuelStorage>Combustível em armazenamento: {0} / {1} l</FuelStorage>
+  <TotalFuelStorage>Combustível na rede: {0} l</TotalFuelStorage>
+
+  <DrillingPhase>Perfuração de poços</DrillingPhase>
+  <DrillingPhaseDesc>A torre de perfuração de petróleo foi construída, mas o poço ainda precisa ser perfurado..\n\nUm colono com habilidade de mineração deve supervisionar a operação de perfuração até que ela seja concluída.\n\nAté 3 colonos podem supervisionar a perfuração em ao mesmo tempo para acelerar o processo\n\nProgrès: {0}</DrillingPhaseDesc>
+
+  <OilStorage>Reserva de óleo: {0} / {1} l</OilStorage>
+  <WellPressure>Pressão de fundo de poço: x {0}</WellPressure>
+  <OilWellCapacity>Taxa de produção: {0} L / dia</OilWellCapacity>
+  <TotalOilStorage>Reserva de óleo na rede: {0} l</TotalOilStorage>
+  <PipedOilPumpCapacity>Taxa de enchimento: {0} l / dia</PipedOilPumpCapacity>
+
+  <DrillingProgress>Processo de perfuração: {0}</DrillingProgress>
+
+  <CleanOilSpill>Lave o óleo</CleanOilSpill>
+  <CleanOilSpillDesc>Limpe o óleo derramado do chão e do solo</CleanOilSpillDesc>
+  <DesignatorRemovePipeline>Demolir o cano</DesignatorRemovePipeline>
+  <DesignatorRemovePipelineDesc>Demolir o tubo construído</DesignatorRemovePipelineDesc>
+
+  <PlaceDirectlyOverWell>Localização incorreta da torre. Coloque-o diretamente sobre o poço para usá-lo novamente.</PlaceDirectlyOverWell>
+
+  <FuelPowerplantUsage>Consumo de combustível: {0} l / dia</FuelPowerplantUsage>
+
+  <CuringFailed>Os materiais na autoclave se deterioraram devido a problemas elétricos</CuringFailed>
+
+  <DrainStorageTank>Líquido de transferência</DrainStorageTank>
+  <DrainStorageTankDesc>Derrama o líquido armazenado no interior, distribuindo-o uniformemente entre as instalações de armazenamento correspondentes na rede</DrainStorageTankDesc>
+
+  <RaiseRefinerPower>Aumente a potência</RaiseRefinerPower>
+  <LowerRefinerPower>Reduza o poder</LowerRefinerPower>
+  <LowerRefinerPowerDesc>Reduz a taxa de refino de petróleo e o consumo de energia da unidade de cracker</LowerRefinerPowerDesc>
+  <RaiseRefinerPowerDesc>Aumenta a taxa de refino de petróleo e o consumo de energia da unidade de craqueamento</RaiseRefinerPowerDesc>
+
+  <NoRefinerNeedsWork>Nenhuma das instalações na rede pode começar a funcionar</NoRefinerNeedsWork>
+
+  <RequiresDeepScanner>Para ver campos de petróleo profundos, você precisa de um scanner profundo</RequiresDeepScanner>
+  <RequiresResourceConsole>Para ver os campos de petróleo, você precisa de um console de recursos</RequiresResourceConsole>
+
+  <AllowedCraftingSkill>Ofício de nível de habilidade {0}</AllowedCraftingSkill>
+  <FuelStorageLimit>Limite de combustível químico armazenado {0}</FuelStorageLimit>
+  <OilStorageLimit>Limite de óleo armazenado {0}</OilStorageLimit>
+
+  <FuelStoragelimitTip>As instalações de crackers encherão as instalações de armazenamento de combustível químico na rede na porcentagem definida e, em seguida, serão fechadas. Assim que o nível de combustível químico nos depósitos cair abaixo, as unidades do cracker começarão a funcionar novamente.\nClique na cruz para habilitar a função.</FuelStoragelimitTip>
+  <OilStoragelimitTip>As plataformas de petróleo encherão o armazenamento de óleo na porcentagem indicada e, em seguida, desligarão. Assim que o nível de óleo nas instalações de armazenamento cair abaixo, as plataformas de petróleo começarão a funcionar novamente.\nClique na cruz para habilitar a função.</OilStoragelimitTip>
+
+  <FuelPumpLimit>Limite de produção de óleo</FuelPumpLimit>
+  <FuelPumpLimitTip>Produzir óleo até que a rede esteja cheia na data indicada</FuelPumpLimitTip>
+
+  <ResourceConsoleAlert>Console de Recursos</ResourceConsoleAlert>
+  <ResourceConsoleAlertDesc>Clique no console de recursos e clique no menu de missão para configurar plataformas de cracker, plataformas de petróleo e produção de sintetizador.</ResourceConsoleAlertDesc>
+
+  <ConsoleSettings>Configurações do console</ConsoleSettings>
+  <GlobalSettings>Configurações globais</GlobalSettings>
+
+
+</LanguageData>

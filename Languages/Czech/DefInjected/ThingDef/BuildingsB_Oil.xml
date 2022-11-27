@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<DeepOilWellHead.description>Opuštěný hluboký ropný vrt. Pokud ho nebudeš používat, tlak se postupem času vrátí na původní úroveň. Pokud chceš začít ložisko opět využívat, postav přímo nad vrtem vrtnou věž (ropný vrt), abys nemusel ložisko opět navrtávat.</DeepOilWellHead.description>
+
+	<DeepOilWellHead.label>Uzávěr hlubokého vrtu</DeepOilWellHead.label>
+
+	<FuelStorage.label>Nádrž na chemické palivo</FuelStorage.label>
+
+	<FuelStorage.description>Skladuje chemické palivo získané krakováním surové ropy. Toto palivo lze následně stočit do kanystrů a přidat ho tak k jinak vyráběnému chemickému palivu za účelem prodeje či manuální výroby.</FuelStorage.description>
+
+	<LargeFuelPowerplant.label>Velká elektrárna na chemické palivo</LargeFuelPowerplant.label>
+
+	<LargeFuelPowerplant.description>Vyrábí elektřinu spalováním chemického paliva. Musí být pomocí ropovodů připojena k nádržím.</LargeFuelPowerplant.description>
+
+	<OilWellHead.description>Opuštěný ropný vrt. Pokud ho nebudeš používat, tlak se postupem času vrátí na původní úroveň. Pokud chceš začít ložisko opět využívat, postav přímo nad vrtem vrtnou věž (ropný vrt), abys nemusel ložisko opět navrtávat.</OilWellHead.description>
+
+	<OilWellHead.label>Uzávěr vrtu</OilWellHead.label>
+
+	<CrudeCracker.label>Rafinerie surové ropy</CrudeCracker.label>
+
+	<CrudeCracker.description>Krakuje surovou ropu na chemické palivo, které je nutné uskladnit v připojených nádržích. Toto palivo lze také stočit do kanystrů pomocí čerpadla.</CrudeCracker.description>
+
+	<FuelPowerplant.label>Elektrárna na chemické palivo</FuelPowerplant.label>
+
+	<FuelPowerplant.description>Vyrábí elektřinu spalováním chemického paliva. Musí být pomocí ropovodů připojena k nádržím.</FuelPowerplant.description>
+
+	<DeepOilWell.label>Hluboký ropný vrt</DeepOilWell.label>
+
+	<DeepOilWell.description>Extrahuje ropu z podzemních ložisek, vyžaduje surovinovou konzoli a georadar pro zobrazení hlubokých ložisek ropy a horníky, kteří provedou vrt.</DeepOilWell.description>
+
+	<OilWell.label>Ropný vrt</OilWell.label>
+
+	<OilWell.description>Extrahuje ropu z podzemních ložisek, vyžaduje surovinovou konzoli pro zobrazení ložisek ropy a horníky, kteří provedou vrt.</OilWell.description>
+
+	<ResourceConsole.label>Surovinová konzole</ResourceConsole.label>
+
+	<ResourceConsole.description>Konzole, ze které operátor ovládá připojené rafinérie.</ResourceConsole.description>
+
+	<OilStorage.label>Nádrž na surovou ropu</OilStorage.label>
+
+	<OilStorage.description>Skladuje natěženou surovou ropu.</OilStorage.description>
+
+</LanguageData>

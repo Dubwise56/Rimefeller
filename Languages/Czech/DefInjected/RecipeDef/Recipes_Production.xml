@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Make_RefiningStub.label>RefiningStub</Make_RefiningStub.label>
+
+	<Make_RefiningStub.description>bah</Make_RefiningStub.description>
+
+	<Make_Napalm.label>Vyrobit napalm</Make_Napalm.label>
+
+	<Make_Napalm.description>Vyrobí napalm z chemického paliva a synthylenu. (Obráběcí stůl)</Make_Napalm.description>
+
+	<Make_Napalm.jobstring>Vyrábí napalm</Make_Napalm.jobstring>
+
+	<Make_ComponentIndustrialPlastic.label>Vyrobit komponent ze synthylenu.</Make_ComponentIndustrialPlastic.label>
+
+	<Make_ComponentIndustrialPlastic.description>Vyrobit komponent.</Make_ComponentIndustrialPlastic.description>
+
+	<Make_ComponentIndustrialPlastic.jobstring>Vyrábí komponent.</Make_ComponentIndustrialPlastic.jobstring>
+
+	<Make_ComponentIndustrialPlasticX5.label>Vyrobit komponent ze synthylenu x5</Make_ComponentIndustrialPlasticX5.label>
+
+	<Make_ComponentIndustrialPlasticX5.description>Vyrobit komponent.</Make_ComponentIndustrialPlasticX5.description>
+
+	<Make_ComponentIndustrialPlasticX5.jobstring>Vyrábí komponent.</Make_ComponentIndustrialPlasticX5.jobstring>
+
+	<Make_ComponentSpacerSynthylene.label>Vyrobit pokročilý komponent ze synthylenu</Make_ComponentSpacerSynthylene.label>
+
+	<Make_ComponentSpacerSynthylene.description>Vyrobí pokročilý komponent ze synthylenu.</Make_ComponentSpacerSynthylene.description>
+
+	<Make_ComponentSpacerSynthylene.jobstring>Vyrobit pokročilý komponent.</Make_ComponentSpacerSynthylene.jobstring>
+
+	<Make_PlasteelComposite.label>Vyrobit plastocel</Make_PlasteelComposite.label>
+
+	<Make_PlasteelComposite.description>Vyrobí plastocel.</Make_PlasteelComposite.description>
+
+	<Make_PlasteelComposite.jobstring>Vyrábí plastocel.</Make_PlasteelComposite.jobstring>
+
+	<Make_SynthamideComposite.label>Vyrobit synthamidový kompozit</Make_SynthamideComposite.label>
+
+	<Make_SynthamideComposite.description>Vyrobí synthamidový kompozit.</Make_SynthamideComposite.description>
+
+	<Make_SynthamideComposite.jobstring>Vyrábí synthamidový kompozit</Make_SynthamideComposite.jobstring>
+
+</LanguageData>

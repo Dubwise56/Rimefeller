@@ -1,21 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <EmptyAutoclave.label>清空高压处理罐</EmptyAutoclave.label>
-  <EmptyAutoclave.verb>清空高压处理罐</EmptyAutoclave.verb>
-  <EmptyAutoclave.gerund>清空高压处理罐中</EmptyAutoclave.gerund>
-
-  <FillAutoclave.label>填充高压处理罐</FillAutoclave.label>
-  <FillAutoclave.verb>填充高压处理罐</FillAutoclave.verb>
-  <FillAutoclave.gerund>填充高压处理罐ing</FillAutoclave.gerund>
-
+  
+  <!-- EN: clean Oil -->
   <CleanOil.label>清理石油</CleanOil.label>
-  <CleanOil.verb>清理石油</CleanOil.verb>
-  <CleanOil.gerund>正在清理石油</CleanOil.gerund>
-
-  <SuperviseDrilling.label>管理钻井</SuperviseDrilling.label>
+  <!-- EN: cleaning up oil -->
+  <CleanOil.gerund>清理</CleanOil.gerund>
+  <!-- EN: cleanup oil -->
+  <CleanOil.verb>清理</CleanOil.verb>
+  
+  <!-- EN: Empty Autoclave -->
+  <EmptyAutoclave.label>清空釜式反应器</EmptyAutoclave.label>
+  <!-- EN: Emptying Autoclave -->
+  <EmptyAutoclave.gerund>清空</EmptyAutoclave.gerund>
+  <!-- EN: Empty Autoclave -->
+  <EmptyAutoclave.verb>清空</EmptyAutoclave.verb>
+  
+  <!-- EN: Fill Autoclave -->
+  <FillAutoclave.label>填充釜式反应器</FillAutoclave.label>
+  <!-- EN: Filling Autoclave -->
+  <FillAutoclave.gerund>填充</FillAutoclave.gerund>
+  <!-- EN: Fill Autoclave -->
+  <FillAutoclave.verb>填充</FillAutoclave.verb>
+  
+  <!-- EN: Operate Resource Console -->
+  <OperateResourceConsole.label>操作石化控制台</OperateResourceConsole.label>
+  <!-- EN: operating -->
+  <OperateResourceConsole.gerund>操作</OperateResourceConsole.gerund>
+  <!-- EN: operate -->
+  <OperateResourceConsole.verb>操作</OperateResourceConsole.verb>
+  
+  <!-- EN: Supervise Drilling -->
+  <SuperviseDrilling.label>管理油井</SuperviseDrilling.label>
+  <!-- EN: supervising -->
+  <SuperviseDrilling.gerund>管理</SuperviseDrilling.gerund>
+  <!-- EN: supervise -->
   <SuperviseDrilling.verb>管理</SuperviseDrilling.verb>
-  <SuperviseDrilling.gerund>管理ing</SuperviseDrilling.gerund>
-
-
+  
 </LanguageData>

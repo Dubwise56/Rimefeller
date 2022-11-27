@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Lino_Green.description>Podlaha z lina s umělými vzory.</Lino_Green.description>
+
+	<Lino_Green.label>Zelená umělohmotná podlaha</Lino_Green.label>
+
+	<Lino_TileLimestone.description>Podlaha z lina s umělými vzory.</Lino_TileLimestone.description>
+
+	<Lino_TileLimestone.label>Vápencová dlaždice</Lino_TileLimestone.label>
+
+	<LinoTile_Red.description>Podlaha z lina s umělými vzory.</LinoTile_Red.description>
+
+	<LinoTile_Red.label>Červená umělohmotná dlaždice</LinoTile_Red.label>
+
+	<LinoTile_White.description>Podlaha z lina s umělými vzory.</LinoTile_White.description>
+
+	<LinoTile_White.label>Bílá umělohmotná dlaždice</LinoTile_White.label>
+
+	<LinoTile_Green.description>Podlaha z lina s umělými vzory.</LinoTile_Green.description>
+
+	<LinoTile_Green.label>Zelená umělohmotná dlaždice</LinoTile_Green.label>
+
+	<Lino_Wood_ParquetHerring.description>Podlaha z lina s umělými vzory.</Lino_Wood_ParquetHerring.description>
+
+	<Lino_Wood_ParquetHerring.label>Herringbone</Lino_Wood_ParquetHerring.label>
+
+	<Lino_Dark.description>Podlaha z lina s umělými vzory.</Lino_Dark.description>
+
+	<Lino_Dark.label>Tmavé lino</Lino_Dark.label>
+
+	<Lino_PavementGranite.description>Podlaha z lina s umělými vzory.</Lino_PavementGranite.description>
+
+	<Lino_PavementGranite.label>Žulový chodník</Lino_PavementGranite.label>
+
+	<Wood_ParquetHerring.label>Parquet Herringbone</Wood_ParquetHerring.label>
+
+	<Lino_TileGranite.description>Podlaha z lina s umělými vzory.</Lino_TileGranite.description>
+
+	<Lino_TileGranite.label>Žulová dlaždice</Lino_TileGranite.label>
+
+	<Lino_PavementMarble.description>Podlaha z lina s umělými vzory.</Lino_PavementMarble.description>
+
+	<Lino_PavementMarble.label>Mramorový chodník</Lino_PavementMarble.label>
+
+	<LinoTile_Dark.description>Podlaha z lina s umělými vzory.</LinoTile_Dark.description>
+
+	<LinoTile_Dark.label>Tmavá umělohmotná dlaždice</LinoTile_Dark.label>
+
+	<Lino_MosaicCream.description>Podlaha z lina s umělými vzory.</Lino_MosaicCream.description>
+
+	<Lino_MosaicCream.label>Bílá mozaika</Lino_MosaicCream.label>
+
+	<Lino_Blue.description>Podlaha z lina s umělými vzory.</Lino_Blue.description>
+
+	<Lino_Blue.label>Modré lino</Lino_Blue.label>
+
+	<Lino_TileMarble.description>Podlaha z lina s umělými vzory.</Lino_TileMarble.description>
+
+	<Lino_TileMarble.label>Mramorová dlaždice</Lino_TileMarble.label>
+
+	<Lino_HerringboneMarble.description>Podlaha z lina s umělými vzory.</Lino_HerringboneMarble.description>
+
+	<Lino_HerringboneMarble.label>Mramorový herringbone</Lino_HerringboneMarble.label>
+
+	<Lino_FlagstoneGranite.description>Podlaha z lina s umělými vzory.</Lino_FlagstoneGranite.description>
+
+	<Lino_FlagstoneGranite.label>Žulové dlažební kameny</Lino_FlagstoneGranite.label>
+
+	<Lino_TileSlate.description>Podlaha z lina s umělými vzory.</Lino_TileSlate.description>
+
+	<Lino_TileSlate.label>Břidlicová dlaždice</Lino_TileSlate.label>
+
+	<Lino_HerringboneSlate.description>Podlaha z lina s umělými vzory.</Lino_HerringboneSlate.description>
+
+	<Lino_HerringboneSlate.label>Břidlicový herringbone</Lino_HerringboneSlate.label>
+
+	<Lino_HerringboneLimestone.description>Podlaha z lina s umělými vzory.</Lino_HerringboneLimestone.description>
+
+	<Lino_HerringboneLimestone.label>Vápencový herringbone</Lino_HerringboneLimestone.label>
+
+	<Lino_MosaicBlue.description>Podlaha z lina s umělými vzory.</Lino_MosaicBlue.description>
+
+	<Lino_MosaicBlue.label>Modrá mozaika</Lino_MosaicBlue.label>
+
+	<LinoTile_Gold.description>Podlaha z lina s umělými vzory.</LinoTile_Gold.description>
+
+	<LinoTile_Gold.label>Zlatá umělohmotná dlaždice</LinoTile_Gold.label>
+
+	<Lino_TilesDiagonal.description>Podlaha z lina s umělými vzory.</Lino_TilesDiagonal.description>
+
+	<Lino_TilesDiagonal.label>Diagonální dlaždice</Lino_TilesDiagonal.label>
+
+	<Lino_FlagstoneSandstone.description>Podlaha z lina s umělými vzory.</Lino_FlagstoneSandstone.description>
+
+	<Lino_FlagstoneSandstone.label>Pískovcové dlažební kameny</Lino_FlagstoneSandstone.label>
+
+	<Lino_TactileTile.description>Podlaha z lina s umělými vzory.</Lino_TactileTile.description>
+
+	<Lino_TactileTile.label>Tactile dlažba</Lino_TactileTile.label>
+
+	<Lino_PavementGold.description>Podlaha z lina s umělými vzory.</Lino_PavementGold.description>
+
+	<Lino_PavementGold.label>Zlatý chodník</Lino_PavementGold.label>
+
+	<Lino_White.description>Podlaha z lina s umělými vzory.</Lino_White.description>
+
+	<Lino_White.label>Bílé lino</Lino_White.label>
+
+	<Lino_MosaicGold.description>Podlaha z lina s umělými vzory.</Lino_MosaicGold.description>
+
+	<Lino_MosaicGold.label>Zlatá mozaika</Lino_MosaicGold.label>
+
+	<Lino_PavementSandstone.description>Podlaha z lina s umělými vzory.</Lino_PavementSandstone.description>
+
+	<Lino_PavementSandstone.label>Pískovcový chodník</Lino_PavementSandstone.label>
+
+	<Lino_SterileTile.description>Podlaha z lina s umělými vzory.</Lino_SterileTile.description>
+
+	<Lino_SterileTile.label>Sterilní dlaždice</Lino_SterileTile.label>
+
+	<Lino_TileSandstone.description>Podlaha z lina s umělými vzory.</Lino_TileSandstone.description>
+
+	<Lino_TileSandstone.label>Pískovcková dlaždice</Lino_TileSandstone.label>
+
+	<Lino_Gold.description>Podlaha z lina s umělými vzory.</Lino_Gold.description>
+
+	<Lino_Gold.label>Zlaté lino</Lino_Gold.label>
+
+	<Lino_MosaicGreen.description>Podlaha z lina s umělými vzory.</Lino_MosaicGreen.description>
+
+	<Lino_MosaicGreen.label>Zelená mozaika</Lino_MosaicGreen.label>
+
+	<Lino_FlagstoneSlate.description>Podlaha z lina s umělými vzory.</Lino_FlagstoneSlate.description>
+
+	<Lino_FlagstoneSlate.label>Břidlicové dlažební kameny</Lino_FlagstoneSlate.label>
+
+	<Lino_WoodPlankFloor.description>Podlaha z lina s umělými vzory.</Lino_WoodPlankFloor.description>
+
+	<Lino_WoodPlankFloor.label>Dřevěná podlaha</Lino_WoodPlankFloor.label>
+
+	<Lino_FlagstoneLimestone.description>Podlaha z lina s umělými vzory.</Lino_FlagstoneLimestone.description>
+
+	<Lino_FlagstoneLimestone.label>Vápencové dlažební kameny</Lino_FlagstoneLimestone.label>
+
+	<Lino_MosaicDark.description>Podlaha z lina s umělými vzory.</Lino_MosaicDark.description>
+
+	<Lino_MosaicDark.label>Tmavá mozaika</Lino_MosaicDark.label>
+
+	<Wood_ParquetVersailles.label>Parquet Versailles</Wood_ParquetVersailles.label>
+
+	<Lino_TilesDiamond.description>Podlaha z lina s umělými vzory.</Lino_TilesDiamond.description>
+
+	<Lino_TilesDiamond.label>Diamantové dlaždice</Lino_TilesDiamond.label>
+
+	<Lino_FlagstoneMarble.description>Podlaha z lina s umělými vzory.</Lino_FlagstoneMarble.description>
+
+	<Lino_FlagstoneMarble.label>Mramorové dlažební kameny</Lino_FlagstoneMarble.label>
+
+	<Lino_MosaicRed.description>Podlaha z lina s umělými vzory.</Lino_MosaicRed.description>
+
+	<Lino_MosaicRed.label>Červená mozaika</Lino_MosaicRed.label>
+
+	<Lino_Wood_ParquetVersailles.description>Podlaha z lina s umělými vzory.</Lino_Wood_ParquetVersailles.description>
+
+	<Lino_Wood_ParquetVersailles.label>Versailles</Lino_Wood_ParquetVersailles.label>
+
+	<Lino_HerringboneGranite.description>Podlaha z lina s umělými vzory.</Lino_HerringboneGranite.description>
+
+	<Lino_HerringboneGranite.label>Žulový Herringbone</Lino_HerringboneGranite.label>
+
+	<Lino_PavementSlate.description>Podlaha z lina s umělými vzory.</Lino_PavementSlate.description>
+
+	<Lino_PavementSlate.label>Břidlicový chodník</Lino_PavementSlate.label>
+
+	<Lino_Red.description>Podlaha z lina s umělými vzory.</Lino_Red.description>
+
+	<Lino_Red.label>Červené lino</Lino_Red.label>
+
+	<Lino_HerringboneSandstone.description>Podlaha z lina s umělými vzory.</Lino_HerringboneSandstone.description>
+
+	<Lino_HerringboneSandstone.label>Pískovcový herringbone</Lino_HerringboneSandstone.label>
+
+	<LinoTile_Blue.description>Podlaha z lina s umělými vzory.</LinoTile_Blue.description>
+
+	<LinoTile_Blue.label>Modrá umělohmotná dlaždice</LinoTile_Blue.label>
+
+	<Lino_PavementLimestone.description>Podlaha z lina s umělými vzory.</Lino_PavementLimestone.description>
+
+	<Lino_PavementLimestone.label>Vápencový chodník</Lino_PavementLimestone.label>
+
+</LanguageData>
