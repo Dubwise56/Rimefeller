@@ -42,7 +42,6 @@
     <selectable>true</selectable>
     <size>(1,1)</size>
     <neverOverlapFloors>false</neverOverlapFloors>
-    <blockPlants>true</blockPlants>
     <building>
       <isEdifice>false</isEdifice>
       <claimable>true</claimable>
