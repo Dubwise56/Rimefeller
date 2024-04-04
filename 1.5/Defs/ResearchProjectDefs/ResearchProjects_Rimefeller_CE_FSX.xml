@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>CE_FsxProduction</defName>
+		<label>FSX Refining</label>
+		<tab>Rimefeller</tab>
+		<description>Produce FSX from stored chemfuel, used for making explosives and specialty ammunition.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>SynthyleneProduction</li>
+		</prerequisites>
+		<researchViewX>2</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>
