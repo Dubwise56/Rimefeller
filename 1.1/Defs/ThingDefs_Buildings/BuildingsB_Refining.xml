@@ -40,10 +40,10 @@
     <surfaceType>Item</surfaceType>
     <constructEffect>ConstructMetal</constructEffect>
   </ThingDef>
-  
+
   <ThingDef ParentName="ChemfuelHopperBase">
     <defName>ChemfuelHopper</defName>
-    <label>chemfuel pump</label>
+    <label>Chemfuel pump</label>
     <description>Pumps chemfuel from chemfuel storage tanks into usable/sellable cans.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/fuelpump</texPath>
@@ -85,7 +85,7 @@
 
   <ThingDef ParentName="ChemfuelHopperBase">
     <defName>ChemfuelSiphon</defName>
-    <label>chemfuel siphon</label>
+    <label>Chemfuel siphon</label>
     <description>Siphons chemfuel from cans into chemfuel storage tanks.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/fuelsiphon</texPath>
@@ -242,11 +242,11 @@
 
 
 
-  
+
 
   <ThingDef ParentName="RefineryBase">
     <defName>SynthyleneRefiner</defName>
-    <label>Synthylene Refiner</label>
+    <label>Synthylene refiner</label>
     <description>Processes chemfuel into synthylene with a selection of colours, synthylene can be used as a generic building material and as an ingredient for components.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/SynthyleneRefinery</texPath>
@@ -262,7 +262,7 @@
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>1000</basePowerConsumption>
       </li>
-      <li Class="Rimefeller.CompProperties_Refinery">       
+      <li Class="Rimefeller.CompProperties_Refinery">
         <compClass>Rimefeller.CompRefinerySynthylene</compClass>
         <Product>Synthylene</Product>
         <StackSize>20</StackSize>
@@ -278,7 +278,7 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>NapalmRefiner</defName>
-    <label>Napalm Refiner</label>
+    <label>Napalm refiner</label>
     <description>Processes chemfuel into napalm, a highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/NapalmRefinery</texPath>
@@ -306,11 +306,11 @@
       <li>Napalm</li>
     </researchPrerequisites>
   </ThingDef>
-  
+
 
   <ThingDef ParentName="RefineryBase">
     <defName>SynthreadRefiner</defName>
-    <label>Synthread Refiner</label>
+    <label>Synthread refiner</label>
     <description>Processes chemfuel into synthread, a synthetic fibre for clothing</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
@@ -342,8 +342,8 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>SynthamideRefiner</defName>
-    <label>Synthamide Refiner</label>
-    <description>Processes chemfuel into Synthamide weave, a high strength synthetic fibre</description>
+    <label>Synthamide refiner</label>
+    <description>Processes chemfuel into synthamide weave, a high strength synthetic fibre</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -375,8 +375,8 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>HyperweaveRefiner</defName>
-    <label>Hyperweave Refiner</label>
-    <description>Processes chemfuel into Hyperweave, a high strength synthetic fibre</description>
+    <label>Hyperweave refiner</label>
+    <description>Processes chemfuel into hyperweave, a high strength synthetic fibre</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -408,8 +408,8 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>NeutroamineRefiner</defName>
-    <label>Neutroamine Refiner</label>
-    <description>Processes chemfuel into Neutroamine for making medicine</description>
+    <label>Neutroamine refiner</label>
+    <description>Processes chemfuel into neutroamine for making medicine</description>
     <size>(2,2)</size>
     <graphicData>
       <texPath>Rimefeller/Things/Building/neutroRefinery</texPath>

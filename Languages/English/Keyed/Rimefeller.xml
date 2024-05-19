@@ -33,7 +33,7 @@
 	<CleanOilSpill>Clean Spill</CleanOilSpill>
 	<CleanOilSpillDesc>Cleanup Oil spills or Napalm trails</CleanOilSpillDesc>
 	<DesignatorRemovePipeline>Deconstruct Pipeline</DesignatorRemovePipeline>
-	<DesignatorRemovePipelineDesc>Deconstruct Oil Pipeline</DesignatorRemovePipelineDesc>
+	<DesignatorRemovePipelineDesc>Deconstruct oil pipeline</DesignatorRemovePipelineDesc>
 
 	<PlaceDirectlyOverWell>Too close to existing wellhead, Place directly over an unused well to access it again</PlaceDirectlyOverWell>
 
@@ -65,7 +65,7 @@
 	<FuelPumpLimit>Fuel Pump Limit</FuelPumpLimit>
 	<FuelPumpLimitTip>Pump fuel until this amount is reached, Tick to enable</FuelPumpLimitTip>
 
-	<ResourceConsoleAlert>Resource Console</ResourceConsoleAlert>
+	<ResourceConsoleAlert>Resource console</ResourceConsoleAlert>
 	<ResourceConsoleAlertDesc>Open the bills tab on the resource console to change settings for oil and fuel production and add bills for refineries</ResourceConsoleAlertDesc>
 
 	<ConsoleSettings>Console Settings</ConsoleSettings>

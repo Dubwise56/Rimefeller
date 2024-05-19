@@ -26,7 +26,7 @@
 
   <ThingDef Abstract="True" Name="BaseWellHead" ParentName="BuildingNaturalBase">
     <defName>OilWellHead</defName>
-    <label>Oil Well Head</label>
+    <label>Oil well head</label>
     <description>Abandoned oil well, when left unused the pressure will rise back to full over time. Place a derrick directly over the well to continue using it</description>
     <thingClass>Rimefeller.Building_WellHead</thingClass>
     <graphicData>
@@ -53,20 +53,20 @@
       <Flammability>4.0</Flammability>
     </statBases>
     <tickerType>Rare</tickerType>
-    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>    
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
   </ThingDef>
-  
+
   <ThingDef ParentName="BaseWellHead">
     <defName>OilWellHead</defName>
-    <label>Oil Well Head</label>
+    <label>Oil well head</label>
     <placeWorkers>
       <li>Rimefeller.PlaceWorker_WellHead</li>
     </placeWorkers>
   </ThingDef>
-  
+
   <ThingDef ParentName="BaseWellHead">
     <defName>DeepOilWellHead</defName>
-    <label>Deep Oil Well Head</label>
+    <label>Deep oil well head</label>
     <placeWorkers>
       <li>Rimefeller.PlaceWorker_DeepWellHead</li>
     </placeWorkers>
@@ -129,7 +129,7 @@
 
   <ThingDef ParentName="BasedWell">
     <defName>OilWell</defName>
-    <label>Oil Well</label>
+    <label>Oil well</label>
     <description>Extracts oil from underground reservoirs, requires a resource console to view the oil fields, and miners to drill the well.</description>
     <costList>
       <Steel>120</Steel>
@@ -167,7 +167,7 @@
 
   <ThingDef ParentName="BasedWell">
     <defName>DeepOilWell</defName>
-    <label>Deep Oil Well</label>
+    <label>Deep oil well</label>
     <graphicData>
       <texPath>Rimefeller/Things/Building/OilDerrickDeep</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -311,7 +311,7 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>ResourceConsole</defName>
-    <label>Resource Console</label>
+    <label>Resource console</label>
     <description>Manned computer console required to operate crude crackers and refineries</description>
     <thingClass>Rimefeller.Building_ResourceConsole</thingClass>
     <minifiedDef>MinifiedThing</minifiedDef>
@@ -374,7 +374,7 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>CrudeCracker</defName>
-    <label>Crude Cracker</label>
+    <label>Crude cracker</label>
     <description>Cracks crude oil into chemfuel which must be stored on connected chemfuel tanks, chemfuel can be pumped to connected chemfuel hoppers</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/OilRefinery</texPath>
@@ -447,7 +447,7 @@
       <li>Oil</li>
     </thingCategories>
     <defName>FuelPowerplant</defName>
-    <label>chemfuel powerplant</label>
+    <label>Chemfuel powerplant</label>
     <description>Produces power by consuming chemfuel. Must be piped into chemfuel storage tanks.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/FuelGenerator</texPath>

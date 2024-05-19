@@ -10,7 +10,7 @@
     </targetTags>
     <workerClass>Rimefeller.IncidentWorker_OilSpill</workerClass>
     <letterLabel>Oil Spill</letterLabel>
-    <letterText>A section of pipeline has broken and Oil has spilled out, Oil can be cleaned using the clean oil designator.</letterText>
+    <letterText>A section of pipeline has broken and oil has spilled out, Oil can be cleaned using the clean oil designator.</letterText>
     <letterDef>ThreatSmall</letterDef>
     <baseChance>0.3</baseChance>
     <minRefireDays>30</minRefireDays>
@@ -47,5 +47,5 @@
     <minRefireDays>30</minRefireDays>
     <minDifficulty>2</minDifficulty>
   </IncidentDef>-->
-  
+
 </Defs>

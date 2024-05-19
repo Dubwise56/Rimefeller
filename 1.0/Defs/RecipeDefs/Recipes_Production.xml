@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  
+
   <RecipeDef>
     <defName>Make_RefiningStub</defName>
     <label>RefiningStub</label>
@@ -20,10 +20,10 @@
     <products>
     </products>
   </RecipeDef>
-  
+
   <RecipeDef>
     <defName>Make_Napalm</defName>
-    <label>make Napalm</label>
+    <label>make napalm</label>
     <description>Make a batch of napalm by mixing chemfuel and synthylene. (Machining Table)</description>
     <jobString>Mixing napalm.</jobString>
     <effectWorking>Cremate</effectWorking>
@@ -167,8 +167,8 @@
 
   <RecipeDef>
     <defName>Make_ComponentSpacerSynthylene</defName>
-    <label>make advanced Synthylene component</label>
-    <description>Make an advanced Synthylene component.</description>
+    <label>make advanced synthylene component</label>
+    <description>Make an advanced synthylene component.</description>
     <jobString>Making advanced component.</jobString>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
@@ -236,9 +236,9 @@
 
   <RecipeDef>
     <defName>Make_PlasteelComposite</defName>
-    <label>make Plasteel</label>
-    <description>Make Plasteel.</description>
-    <jobString>Making Plasteel.</jobString>
+    <label>make plasteel</label>
+    <description>Make plasteel.</description>
+    <jobString>Making plasteel.</jobString>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
@@ -294,9 +294,9 @@
 
   <RecipeDef>
     <defName>Make_SynthamideComposite</defName>
-    <label>make Synthamide Composite</label>
-    <description>Make Synthamide Composite.</description>
-    <jobString>Making Synthamide Composite.</jobString>
+    <label>make synthamide composite</label>
+    <description>Make synthamide composite.</description>
+    <jobString>Making synthamide composite.</jobString>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
