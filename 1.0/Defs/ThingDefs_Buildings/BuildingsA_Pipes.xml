@@ -24,7 +24,7 @@
     </building>
     <altitudeLayer>FloorEmplacement</altitudeLayer>
     <passability>Standable</passability>
-    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>    
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <statBases>
       <MaxHitPoints>80</MaxHitPoints>
       <WorkToBuild>260</WorkToBuild>
@@ -43,7 +43,7 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>Filth_OilSlick</defName>
-    <label>Oil Slick</label>
+    <label>Oil slick</label>
     <category>Building</category>
     <pathCost>100</pathCost>
     <graphicData>
@@ -134,8 +134,8 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>NapalmBomb</defName>
-    <label>Napalm Bomb</label>
-    <description>Napalm Bomb</description>
+    <label>Napalm bomb</label>
+    <description>Napalm bomb</description>
     <thingClass>Rimefeller.NapalmBomb</thingClass>
     <minifiedDef>MinifiedThing</minifiedDef>
     <thingCategories>
@@ -184,14 +184,14 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>SparkGrid</defName>
-    <label>Spark Grid</label>
+    <label>Spark grid</label>
     <description>Ignites flammable things such as napalm when powered.</description>
     <thingClass>Rimefeller.Building_sparkgrid</thingClass>
     <graphicData>
       <texPath>Rimefeller/Things/Building/sparkgrid</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>(1,1)</drawSize>
-    </graphicData>   
+    </graphicData>
     <building>
       <expandHomeArea>false</expandHomeArea>
       <isEdifice>false</isEdifice>
@@ -222,7 +222,7 @@
 
   <ThingDef ParentName="RimefellerPipeBase">
     <defName>OilPipeline</defName>
-    <label>Oil Pipeline</label>
+    <label>Oil pipeline</label>
     <description>Plumbing for connecting plumbed things.</description>
     <uiIconPath>Rimefeller/UI/Plumbing</uiIconPath>
     <costList>

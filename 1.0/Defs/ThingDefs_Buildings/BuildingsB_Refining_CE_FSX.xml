@@ -3,7 +3,7 @@
 	<!-- Should not show up by default; an xpath patch will enable this only if Combat Extended is running -->
 	<ThingDef ParentName="RefineryBase">
 		<defName>CombatExtendedFsxRefiner</defName>
-		<label>FSX Refiner</label>
+		<label>FSX refiner</label>
 		<description>Processes chemfuel into FSX, a high-explosive chemical used in a variety of industrial and military applications.</description>
 		<graphicData>
 			<texPath>Rimefeller/Things/Building/CeFsxRefinery</texPath>

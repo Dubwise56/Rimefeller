@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs> 
+<Defs>
   <JobDef>
     <defName>CleanOil</defName>
     <driverClass>Rimefeller.JobDriver_CleanOil</driverClass>
@@ -16,14 +16,14 @@
   <JobDef>
     <defName>EmptyAutoclave</defName>
     <driverClass>Rimefeller.JobDriver_EmptyAutoclave</driverClass>
-    <reportString>Emptying Autoclave.</reportString>
+    <reportString>Emptying autoclave.</reportString>
     <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
   </JobDef>
 
   <JobDef>
     <defName>FillAutoclave</defName>
     <driverClass>Rimefeller.JobDriver_FillAutoclave</driverClass>
-    <reportString>Filling Autoclave.</reportString>
+    <reportString>Filling autoclave.</reportString>
     <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
   </JobDef>
 
@@ -33,5 +33,5 @@
     <reportString>operating TargetA.</reportString>
     <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
   </JobDef>
-  
+
 </Defs>
