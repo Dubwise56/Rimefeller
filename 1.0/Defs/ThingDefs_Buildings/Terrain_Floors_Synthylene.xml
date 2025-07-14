@@ -36,28 +36,28 @@
 
   <TerrainDef ParentName="RimefellerLinoBase">
     <defName>Lino_TilesDiagonal</defName>
-    <label>Tiles Diagonal</label>
+    <label>Tiles diagonal</label>
     <texturePath>Rimefeller/Terrain/TilesDiagonal</texturePath>
     <designatorDropdown>Lino_Misc</designatorDropdown>
   </TerrainDef>
 
   <TerrainDef ParentName="RimefellerLinoBase">
     <defName>Lino_TilesDiamond</defName>
-    <label>Tiles Diamond</label>
+    <label>Tiles diamond</label>
     <texturePath>Rimefeller/Terrain/TilesDiamond</texturePath>
     <designatorDropdown>Lino_Misc</designatorDropdown>
   </TerrainDef>
 
   <TerrainDef ParentName="RimefellerLinoBase">
     <defName>Lino_TactileTile</defName>
-    <label>Tactile Tile</label>
+    <label>Tactile tile</label>
     <texturePath>Rimefeller/Terrain/Pavement_Tactile</texturePath>
     <designatorDropdown>Lino_Misc</designatorDropdown>
   </TerrainDef>
 
   <TerrainDef ParentName="RimefellerLinoBase">
     <defName>Lino_SterileTile</defName>
-    <label>Sterile Tile</label>
+    <label>Sterile tile</label>
     <texturePath>Terrain/Surfaces/GenericFloorTile</texturePath>
     <color>(0.71, 0.71, 0.71)</color>
     <statBases>
@@ -210,7 +210,7 @@
 
   <TerrainDef  ParentName="FloorBase">
     <defName>Wood_ParquetHerring</defName>
-    <label>Parquet Herringbone</label>
+    <label>Parquet herringbone</label>
     <renderPrecedence>250</renderPrecedence>
     <texturePath>Rimefeller/Terrain/Wood_ParquetHerring</texturePath>
     <burnedDef>BurnedWoodPlankFloor</burnedDef>
@@ -256,41 +256,41 @@
 
   <TerrainDef ParentName="LinoMosaicBase">
     <defName>Lino_MosaicRed</defName>
-    <label>red Mosaic</label>
+    <label>red mosaic</label>
     <color>(118,49,57)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoMosaicBase">
     <defName>Lino_MosaicGreen</defName>
-    <label>green Mosaic</label>
+    <label>green mosaic</label>
     <renderPrecedence>199</renderPrecedence>
     <color>(89,105,62)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoMosaicBase">
     <defName>Lino_MosaicBlue</defName>
-    <label>blue Mosaic</label>
+    <label>blue mosaic</label>
     <renderPrecedence>198</renderPrecedence>
     <color>(24,65,121)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoMosaicBase">
     <defName>Lino_MosaicCream</defName>
-    <label>white Mosaic</label>
+    <label>white mosaic</label>
     <renderPrecedence>197</renderPrecedence>
     <color>(195,195,195)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoMosaicBase">
     <defName>Lino_MosaicDark</defName>
-    <label>dark Mosaic</label>
+    <label>dark mosaic</label>
     <renderPrecedence>196</renderPrecedence>
     <color>(61,61,61)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoMosaicBase">
     <defName>Lino_MosaicGold</defName>
-    <label>gold Mosaic</label>
+    <label>gold mosaic</label>
     <renderPrecedence>196</renderPrecedence>
     <color>(225,179,42)</color>
   </TerrainDef>
@@ -307,46 +307,46 @@
 
   <TerrainDef ParentName="LinoPavementStoneBase">
     <defName>Lino_PavementSandstone</defName>
-    <label>sandstone Pavement</label>
+    <label>sandstone pavement</label>
     <color>(126,104,94)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoPavementStoneBase">
     <defName>Lino_PavementGranite</defName>
-    <label>granite Pavement</label>
+    <label>granite pavement</label>
     <color>(105,95,97)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoPavementStoneBase">
     <defName>Lino_PavementLimestone</defName>
-    <label>limestone Pavement</label>
+    <label>limestone pavement</label>
     <color>(158,153,135)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoPavementStoneBase">
     <defName>Lino_PavementSlate</defName>
-    <label>slate Pavement</label>
+    <label>slate pavement</label>
     <color>(105,105,105)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoPavementStoneBase">
     <defName>Lino_PavementMarble</defName>
-    <label>marble Pavement</label>
+    <label>marble pavement</label>
     <color>(132,135,132)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoPavementStoneBase">
     <defName>Lino_PavementMarble</defName>
-    <label>gold Pavement</label>
+    <label>gold pavement</label>
     <color>(225,179,42)</color>
   </TerrainDef>
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
   <DesignatorDropdownGroupDef>
     <defName>Lino_Herringbone</defName>
   </DesignatorDropdownGroupDef>
@@ -358,31 +358,31 @@
 
   <TerrainDef ParentName="LinoHerringboneBase">
     <defName>Lino_HerringboneSandstone</defName>
-    <label>sandstone Herringbone</label>
+    <label>sandstone herringbone</label>
     <color>(126,104,94)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoHerringboneBase">
     <defName>Lino_HerringboneGranite</defName>
-    <label>granite Herringbone</label>
+    <label>granite herringbone</label>
     <color>(105,95,97)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoHerringboneBase">
     <defName>Lino_HerringboneLimestone</defName>
-    <label>limestone Herringbone</label>
+    <label>limestone herringbone</label>
     <color>(158,153,135)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoHerringboneBase">
     <defName>Lino_HerringboneSlate</defName>
-    <label>slate Herringbone</label>
+    <label>slate herringbone</label>
     <color>(105,105,105)</color>
   </TerrainDef>
 
   <TerrainDef ParentName="LinoHerringboneBase">
     <defName>Lino_HerringboneMarble</defName>
-    <label>marble Herringbone</label>
+    <label>marble herringbone</label>
     <color>(132,135,132)</color>
   </TerrainDef>
 
@@ -431,17 +431,17 @@
     <label>marble tile</label>
     <color>(132,135,132)</color>
   </TerrainDef>
-  
-  
-  
-  
-  
+
+
+
+
+
 
 
   <DesignatorDropdownGroupDef>
     <defName>Lino_Flagstone</defName>
   </DesignatorDropdownGroupDef>
-  
+
   <TerrainDef Abstract="True" ParentName="RimefellerLinoBase" Name="LinoFlagstoneBase">
     <texturePath>Terrain/Surfaces/Flagstone</texturePath>
     <designatorDropdown>Lino_Flagstone</designatorDropdown>
@@ -449,7 +449,7 @@
 
 	<TerrainDef ParentName="LinoFlagstoneBase">
 		<defName>Lino_FlagstoneSandstone</defName>
-		<label>sandstone flagstone</label>	
+		<label>sandstone flagstone</label>
     <color>(126,104,94)</color>
 	</TerrainDef>
 
@@ -476,5 +476,5 @@
 		<label>marble flagstone</label>
 		<color>(132,135,132)</color>
 	</TerrainDef>
-	
+
 </Defs>

@@ -3,7 +3,7 @@
 
 	<ResearchProjectDef>
 		<defName>CE_FsxProduction</defName>
-		<label>FSX Refining</label>
+		<label>FSX refining</label>
 		<tab>Rimefeller</tab>
 		<description>Produce FSX from stored chemfuel, used for making explosives and specialty ammunition.</description>
 		<baseCost>1500</baseCost>
