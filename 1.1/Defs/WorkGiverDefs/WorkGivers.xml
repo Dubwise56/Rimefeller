@@ -1,32 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  
+
   <WorkGiverDef>
     <defName>EmptyAutoclave</defName>
-    <label>Empty Autoclave</label>
+    <label>Empty autoclave</label>
     <giverClass>Rimefeller.WorkGiver_EmptyAutoclave</giverClass>
     <workType>Hauling</workType>
-    <verb>Empty Autoclave</verb>
-    <gerund>Emptying Autoclave</gerund>
+    <verb>Empty autoclave</verb>
+    <gerund>Emptying autoclave</gerund>
     <priorityInType>66</priorityInType>
     <requiredCapacities>
       <li>Manipulation</li>
     </requiredCapacities>
   </WorkGiverDef>
-  
+
   <WorkGiverDef>
     <defName>FillAutoclave</defName>
-    <label>Fill Autoclave</label>
+    <label>Fill autoclave</label>
     <giverClass>Rimefeller.WorkGiver_FillAutoclave</giverClass>
     <workType>Hauling</workType>
-    <verb>Fill Autoclave</verb>
-    <gerund>Filling Autoclave</gerund>
+    <verb>Fill autoclave</verb>
+    <gerund>Filling autoclave</gerund>
     <priorityInType>65</priorityInType>
     <requiredCapacities>
       <li>Manipulation</li>
     </requiredCapacities>
   </WorkGiverDef>
-  
+
   <WorkGiverDef>
     <defName>CleanOil</defName>
     <label>clean Oil</label>
@@ -59,7 +59,7 @@
 
   <WorkGiverDef>
     <defName>OperateResourceConsole</defName>
-    <label>Operate Resource Console</label>
+    <label>Operate Resource console</label>
     <giverClass>Rimefeller.WorkGiver_OperateResourceConsole</giverClass>
     <workType>Crafting</workType>
     <priorityInType>110</priorityInType>

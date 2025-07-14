@@ -6,7 +6,7 @@
     <defName>Rimefeller</defName>
     <label>Rimefeller</label>
   </ResearchTabDef>
-  
+
   <ResearchProjectDef>
     <defName>OilDrilling</defName>
     <label>Drill for oil</label>
@@ -23,7 +23,7 @@
 
   <ResearchProjectDef>
     <defName>DeepOilWells</defName>
-    <label>Deep Wells</label>
+    <label>Deep wells</label>
     <tab>Rimefeller</tab>
     <description>Drill deeper wells to access new larger oil reservoirs.</description>
     <baseCost>6000</baseCost>
@@ -35,11 +35,11 @@
     <researchViewX>6</researchViewX>
     <researchViewY>0</researchViewY>
   </ResearchProjectDef>
-  
-  
+
+
   <ResearchProjectDef>
     <defName>ChemfuelRefining</defName>
-    <label>Chemfuel Refining</label>
+    <label>Chemfuel refining</label>
     <tab>Rimefeller</tab>
     <description>Refine crude oil into chemfuel to be stored in chemfuel tanks.</description>
     <baseCost>1500</baseCost>
@@ -55,7 +55,7 @@
     <defName>NeutroamineProduction</defName>
     <label>Neutroamine</label>
     <tab>Rimefeller</tab>
-    <description>Produce Neutroamine from stored chemfuel, used for making medicine</description>
+    <description>Produce neutroamine from stored chemfuel, used for making medicine</description>
     <baseCost>4500</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
@@ -65,7 +65,7 @@
     <researchViewX>5</researchViewX>
     <researchViewY>3</researchViewY>
   </ResearchProjectDef>
-  
+
   <ResearchProjectDef>
     <defName>SynthyleneProduction</defName>
     <label>Synthylene</label>
@@ -96,7 +96,7 @@
 
   <ResearchProjectDef>
     <defName>ArtificialFloors</defName>
-    <label>Artificial Flooring</label>
+    <label>Artificial flooring</label>
     <tab>Rimefeller</tab>
     <description>Produce artificial flooring from synthylene</description>
     <baseCost>1000</baseCost>
@@ -110,7 +110,7 @@
 
   <ResearchProjectDef>
     <defName>SynthyleneComponents</defName>
-    <label>Synthylene Components</label>
+    <label>Synthylene components</label>
     <tab>Rimefeller</tab>
     <description>Stretch out your steel reserves by making components using synthylene and steel</description>
     <baseCost>2500</baseCost>
@@ -125,7 +125,7 @@
 
   <ResearchProjectDef>
     <defName>SynthyleneAdvComponents</defName>
-    <label>Advanced Synthylene Components</label>
+    <label>Advanced synthylene components</label>
     <tab>Rimefeller</tab>
     <description>Stretch out your steel reserves by making advanced components using synthylene</description>
     <baseCost>3000</baseCost>
@@ -137,7 +137,7 @@
     <researchViewX>4</researchViewX>
     <researchViewY>5</researchViewY>
   </ResearchProjectDef>
-  
+
 
   <ResearchProjectDef>
     <defName>SynthreadProduction</defName>
@@ -157,7 +157,7 @@
     <defName>SynthamideProduction</defName>
     <label>Synthamide</label>
     <tab>Rimefeller</tab>
-    <description>Produce Synthamide, Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing.</description>
+    <description>Produce synthamide, synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
@@ -170,11 +170,11 @@
 
   <ResearchProjectDef>
     <defName>SynthamideCompositeProduction</defName>
-    <label>Synthamide Composite</label>
+    <label>Synthamide composite</label>
     <tab>Rimefeller</tab>
-    <description>Produce Synthamide Composite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres</description>
-    <discoveredLetterTitle>Synthamide Composite</discoveredLetterTitle>
-    <discoveredLetterText>You can now produce Synthamide composite! first craft uncured composite at a fabrication bench, construct an autoclave, then load uncured composite into the autoclave to cure it.</discoveredLetterText>
+    <description>Produce synthamide composite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres</description>
+    <discoveredLetterTitle>Synthamide composite</discoveredLetterTitle>
+    <discoveredLetterText>You can now produce synthamide composite! first craft uncured composite at a fabrication bench, construct an autoclave, then load uncured composite into the autoclave to cure it.</discoveredLetterText>
     <baseCost>4000</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
@@ -188,9 +188,9 @@
     <defName>PlasteelProduction</defName>
     <label>Plasteel</label>
     <tab>Rimefeller</tab>
-    <description>Discover the secrets of making Plasteel</description>
-    <discoveredLetterTitle>Plasteel Production</discoveredLetterTitle>
-    <discoveredLetterText>You can now produce Plasteel! craft uncured Plasteel at a fabrication bench, construct an autoclave, then set the autoclave to plasteel curing mode.</discoveredLetterText>
+    <description>Discover the secrets of making plasteel</description>
+    <discoveredLetterTitle>Plasteel production</discoveredLetterTitle>
+    <discoveredLetterText>You can now produce plasteel! Craft uncured plasteel at a fabrication bench, construct an autoclave, then set the autoclave to plasteel curing mode.</discoveredLetterText>
     <baseCost>3500</baseCost>
     <techLevel>Spacer</techLevel>
     <prerequisites>
@@ -204,7 +204,7 @@
     <defName>HyperweaveProduction</defName>
     <label>Hyperweave</label>
     <tab>Rimefeller</tab>
-    <description>Discover the secrets of making Hyperweave</description>
+    <description>Discover the secrets of making hyperweave</description>
     <baseCost>3500</baseCost>
     <techLevel>Spacer</techLevel>
     <prerequisites>
@@ -213,5 +213,5 @@
     <researchViewX>7</researchViewX>
     <researchViewY>2</researchViewY>
   </ResearchProjectDef>
-  
+
 </Defs>

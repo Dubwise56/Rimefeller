@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  
+
   <ThingDef ParentName="MakeableShellBase">
     <defName>Shell_Napalm</defName>
     <label>Napalm shell</label>
@@ -27,7 +27,7 @@
       <Napalm>15</Napalm>
     </costList>
   </ThingDef>
-  
+
   <ThingDef ParentName="BaseBullet">
     <defName>Bullet_Shell_Napalm</defName>
     <label>Napalm shell</label>
@@ -117,7 +117,7 @@
 
   <ThingDef ParentName="ResourceBasedFella">
     <defName>OilBarrel</defName>
-    <label>Oil Barrel</label>
+    <label>Oil barrel</label>
     <description>A barrel filled with crude oil, can be dumped, burned, or processed.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/OilBarrel</texPath>
@@ -143,7 +143,7 @@
 
   <ThingDef ParentName="ResourceBasedFella">
     <defName>UncuredPlasteel</defName>
-    <label>Uncured Plasteel</label>
+    <label>Uncured plasteel</label>
     <description>Uncured plasteel, requires curing in an autoclave.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/UncuredPlasteel</texPath>
@@ -213,9 +213,9 @@
       </li>
     </comps>
   </ThingDef>
-  
-  
-  
+
+
+
 
 
 
@@ -429,8 +429,8 @@
 
   <ThingDef ParentName="ResourceBasedFella">
     <defName>UncuredComposite</defName>
-    <label>Uncured Synthamide Composite</label>
-    <description>Uncured Synthamide Composite, requires curing in an autoclave.</description>
+    <label>Uncured synthamide composite</label>
+    <description>Uncured synthamide composite, requires curing in an autoclave.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/composite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -456,7 +456,7 @@
 
   <ThingDef Name="FiberCompositeBase" ParentName="ResourceBasedFella"  Abstract="True">
     <defName>FiberComposite</defName>
-    <label>Synthamide Composite</label>
+    <label>Synthamide composite</label>
     <description>Synthamide composite is a high strength light weight fire resistant spacer tech composite material, made of a polymer matrix reinforced with aramid fibres.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/composite</texPath>
