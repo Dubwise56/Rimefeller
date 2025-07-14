@@ -28,7 +28,7 @@
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>    
     <statBases>
       <MaxHitPoints>80</MaxHitPoints>
-      <WorkToBuild>260</WorkToBuild>
+      <WorkToBuild>150</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
     <drawStyleCategory>Default1D</drawStyleCategory>
@@ -46,7 +46,7 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>Filth_OilSlick</defName>
-    <label>Oil Slick</label>
+    <label>oil slick</label>
     <category>Building</category>
     <pathCost>100</pathCost>
     <graphicData>
@@ -88,7 +88,7 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>Filth_NapalmTrail</defName>
-    <label>Napalm trail</label>
+    <label>napalm trail</label>
     <category>Building</category>
     <pathCost>100</pathCost>
     <graphicData>
@@ -143,8 +143,8 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>NapalmBomb</defName>
-    <label>Napalm Bomb</label>
-    <description>Napalm Bomb</description>
+    <label>napalm bomb</label>
+    <description>A powerful explosive device filled with napalm.</description>
     <thingClass>Rimefeller.NapalmBomb</thingClass>
     <minifiedDef>MinifiedThing</minifiedDef>
     <uiIconPath>Rimefeller/UI/NapalmBomb</uiIconPath>
@@ -198,7 +198,7 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>SparkGrid</defName>
-    <label>Spark Grid</label>
+    <label>spark grid</label>
     <description>Ignites flammable things such as napalm when powered.</description>
     <thingClass>Rimefeller.Building_sparkgrid</thingClass>
     <graphicData>
@@ -236,9 +236,41 @@
 
   <ThingDef ParentName="RimefellerPipeBase">
     <defName>OilPipeline</defName>
-    <label>Oil Pipeline</label>
-    <description>Plumbing for connecting plumbed things.</description>
+    <label>oil pipeline</label>
+    <description>Plumbing for connecting oil-related structures.</description>
     <uiIconPath>Rimefeller/UI/Plumbing</uiIconPath>
+    <costList>
+      <Steel>1</Steel>
+    </costList>
+    <comps>
+      <li Class="Rimefeller.CompProperties_Pipe"/>
+    </comps>
+    <researchPrerequisites>
+      <li>OilDrilling</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="RimefellerPipeBase">
+    <defName>OilPipelineHidden</defName>
+    <label>oil pipeline (hidden)</label>
+    <description>Plumbing for connecting oil-related structures. Invisible when built.</description>
+    <uiIconPath>Rimefeller/UI/PlumbingHidden</uiIconPath>
+    <graphicData>
+      <color>(0,0,0,0)</color>
+      <shaderType>Transparent</shaderType>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>290</WorkToBuild>
+      <Flammability>0</Flammability>
+      <Beauty>0</Beauty>
+    </statBases>
+    <building>
+      <ai_neverTrashThis>true</ai_neverTrashThis>
+      <isTargetable>false</isTargetable>
+      <expandHomeArea>false</expandHomeArea>
+      <canBeDamagedByAttacks>false</canBeDamagedByAttacks>
+    </building>
     <costList>
       <Steel>1</Steel>
     </costList>

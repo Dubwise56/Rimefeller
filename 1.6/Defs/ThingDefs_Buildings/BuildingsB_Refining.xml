@@ -311,7 +311,7 @@
   <ThingDef ParentName="RefineryBase">
     <defName>SynthreadRefiner</defName>
     <label>Synthread Refiner</label>
-    <description>Processes chemfuel into synthread, a synthetic fibre for clothing</description>
+    <description>Processes chemfuel into synthread, a synthetic fibre for clothing.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -343,7 +343,7 @@
   <ThingDef ParentName="RefineryBase">
     <defName>SynthamideRefiner</defName>
     <label>Synthamide Refiner</label>
-    <description>Processes chemfuel into Synthamide weave, a high strength synthetic fibre</description>
+    <description>Processes chemfuel into Synthamide weave, a high strength synthetic fibre.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -376,7 +376,7 @@
   <ThingDef ParentName="RefineryBase">
     <defName>HyperweaveRefiner</defName>
     <label>Hyperweave Refiner</label>
-    <description>Processes chemfuel into Hyperweave, a high strength synthetic fibre</description>
+    <description>Processes chemfuel into Hyperweave, a high strength synthetic fibre.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -409,7 +409,7 @@
   <ThingDef ParentName="RefineryBase">
     <defName>NeutroamineRefiner</defName>
     <label>Neutroamine Refiner</label>
-    <description>Processes chemfuel into Neutroamine for making medicine</description>
+    <description>Processes chemfuel into Neutroamine for making medicine.</description>
     <size>(2,2)</size>
     <graphicData>
       <texPath>Rimefeller/Things/Building/neutroRefinery</texPath>
@@ -444,7 +444,7 @@
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>Autoclave</defName>
     <label>Autoclave</label>
-    <description>Bakes uncured plasteel or synthamide composite into the final product</description>
+    <description>Bakes uncured plasteel or synthamide composite into the final product.</description>
     <thingClass>Rimefeller.Building_Autoclave</thingClass>
     <minifiedDef>MinifiedThing</minifiedDef>
     <thingCategories>

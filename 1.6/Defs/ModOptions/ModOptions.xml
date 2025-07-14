@@ -6,26 +6,6 @@
   </Rimefeller.DefExtensions>
 
   <Rimefeller.DubsModOptions>
-    <defName>OilPipeVisibility</defName>
-    <label>Pipeline Visibility</label>
-    <tip></tip>
-    <options>
-      <li>
-        <label>Hidden</label>
-      </li>
-      <li>
-        <label>Hidden under floors</label>
-      </li>
-      <li>
-        <label>Always visible</label>
-      </li>
-      <li>
-        <label>Always visible pipe to ground</label>
-      </li>
-    </options>
-  </Rimefeller.DubsModOptions>
-
-  <Rimefeller.DubsModOptions>
     <defName>CrudeToFuelRatio</defName>
     <label>Crude To Fuel Ratio</label>
     <tip></tip>

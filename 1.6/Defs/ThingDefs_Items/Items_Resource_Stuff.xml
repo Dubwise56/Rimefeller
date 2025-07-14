@@ -206,6 +206,7 @@
         <MaxHitPoints>2</MaxHitPoints>
       </statFactors>
       <allowedInStuffGeneration>false</allowedInStuffGeneration>
+      <isAirtight>true</isAirtight>
     </stuffProps>
     <thingCategories>
       <li>Textiles</li>
@@ -281,6 +282,7 @@
         <DoorOpenSpeed>1.4</DoorOpenSpeed>
       </statFactors>
       <allowedInStuffGeneration>false</allowedInStuffGeneration>
+      <isAirtight>true</isAirtight>
     </stuffProps>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
   </ThingDef>
@@ -378,6 +380,7 @@
         <MeleeWeapon_CooldownMultiplier>0.8</MeleeWeapon_CooldownMultiplier>
       </statFactors>
       <allowedInStuffGeneration>false</allowedInStuffGeneration>
+      <isAirtight>true</isAirtight>
     </stuffProps>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
   </ThingDef>
