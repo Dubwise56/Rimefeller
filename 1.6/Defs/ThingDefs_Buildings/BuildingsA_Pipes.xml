@@ -4,6 +4,7 @@
   <!-- Pipes  -->
   <ThingDef ParentName="BasedRimefellerMom" Name="RimefellerPipeBase" Abstract="True">
     <thingClass>Rimefeller.Building_Pipe</thingClass>
+    <noRightClickDraftAttack>true</noRightClickDraftAttack>
     <graphicData>
       <texPath>Rimefeller/Things/Building/oilPipe_Atlas</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -16,12 +17,14 @@
       </damageData>
     </graphicData>
     <building>
+      <ai_chillDestination>false</ai_chillDestination>
+      <isInert>true</isInert>
+      <isEdifice>false</isEdifice>
+      <canLandGravshipOn>true</canLandGravshipOn>
       <blueprintGraphicData>
         <texPath>Rimefeller/Things/Building/oilPipe_Atlas_Blueprint</texPath>
       </blueprintGraphicData>
-      <isInert>true</isInert>
-      <isEdifice>false</isEdifice>
-      <ai_chillDestination>false</ai_chillDestination>
+      <canConstructInCorner>true</canConstructInCorner>
     </building>
     <altitudeLayer>Conduits</altitudeLayer>
     <passability>Standable</passability>
