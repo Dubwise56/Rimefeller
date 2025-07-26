@@ -9,7 +9,7 @@
   
   <ResearchProjectDef>
     <defName>OilDrilling</defName>
-    <label>Drill for oil</label>
+    <label>drill for oil</label>
     <tab>Rimefeller</tab>
     <description>Oil Drilling.</description>
     <baseCost>2500</baseCost>
@@ -23,7 +23,7 @@
 
   <ResearchProjectDef>
     <defName>DeepOilWells</defName>
-    <label>Deep Wells</label>
+    <label>deep wells</label>
     <tab>Rimefeller</tab>
     <description>Drill deeper wells to access new larger oil reservoirs.</description>
     <baseCost>6000</baseCost>
@@ -39,7 +39,7 @@
   
   <ResearchProjectDef>
     <defName>ChemfuelRefining</defName>
-    <label>Chemfuel Refining</label>
+    <label>chemfuel refining</label>
     <tab>Rimefeller</tab>
     <description>Refine crude oil into chemfuel to be stored in chemfuel tanks.</description>
     <baseCost>1500</baseCost>
@@ -53,9 +53,9 @@
 
   <ResearchProjectDef>
     <defName>NeutroamineProduction</defName>
-    <label>Neutroamine</label>
+    <label>neutroamine</label>
     <tab>Rimefeller</tab>
-    <description>Produce Neutroamine from stored chemfuel, used for making medicine</description>
+    <description>Produce neutroamine from stored chemfuel, used for making medicine</description>
     <baseCost>4500</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
@@ -68,7 +68,7 @@
   
   <ResearchProjectDef>
     <defName>SynthyleneProduction</defName>
-    <label>Synthylene</label>
+    <label>synthylene</label>
     <tab>Rimefeller</tab>
     <description>Produce the generic building material synthylene from stored chemfuel</description>
     <baseCost>1500</baseCost>
@@ -82,7 +82,7 @@
 
   <ResearchProjectDef>
     <defName>Napalm</defName>
-    <label>Napalm</label>
+    <label>napalm</label>
     <tab>Rimefeller</tab>
     <description>Highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene</description>
     <baseCost>500</baseCost>
@@ -96,7 +96,7 @@
 
   <ResearchProjectDef>
     <defName>ArtificialFloors</defName>
-    <label>Artificial Flooring</label>
+    <label>artificial flooring</label>
     <tab>Rimefeller</tab>
     <description>Produce artificial flooring from synthylene</description>
     <baseCost>1000</baseCost>
@@ -110,7 +110,7 @@
 
   <ResearchProjectDef>
     <defName>SynthyleneComponents</defName>
-    <label>Synthylene Components</label>
+    <label>synthylene components</label>
     <tab>Rimefeller</tab>
     <description>Stretch out your steel reserves by making components using synthylene and steel</description>
     <baseCost>2500</baseCost>
@@ -125,7 +125,7 @@
 
   <ResearchProjectDef>
     <defName>SynthyleneAdvComponents</defName>
-    <label>Advanced Synthylene Components</label>
+    <label>advanced synthylene components</label>
     <tab>Rimefeller</tab>
     <description>Stretch out your steel reserves by making advanced components using synthylene</description>
     <baseCost>3000</baseCost>
@@ -141,7 +141,7 @@
 
   <ResearchProjectDef>
     <defName>SynthreadProduction</defName>
-    <label>Synthread</label>
+    <label>synthread</label>
     <tab>Rimefeller</tab>
     <description>Produce synthread from stored chemfuel</description>
     <baseCost>2000</baseCost>
@@ -155,9 +155,9 @@
 
   <ResearchProjectDef>
     <defName>SynthamideProduction</defName>
-    <label>Synthamide</label>
+    <label>synthamide</label>
     <tab>Rimefeller</tab>
-    <description>Produce Synthamide, Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing.</description>
+    <description>Produce synthamide. Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
@@ -170,11 +170,11 @@
 
   <ResearchProjectDef>
     <defName>SynthamideCompositeProduction</defName>
-    <label>Synthamide Composite</label>
+    <label>synthamide composite</label>
     <tab>Rimefeller</tab>
-    <description>Produce Synthamide Composite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres</description>
-    <discoveredLetterTitle>Synthamide Composite</discoveredLetterTitle>
-    <discoveredLetterText>You can now produce Synthamide composite! first craft uncured composite at a fabrication bench, construct an autoclave, then load uncured composite into the autoclave to cure it.</discoveredLetterText>
+    <description>Produce synthamide somposite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres</description>
+    <discoveredLetterTitle>Synthamide composite</discoveredLetterTitle>
+    <discoveredLetterText>You can now produce synthamide composite! first craft uncured composite at a fabrication bench, construct an autoclave, then load uncured composite into the autoclave to cure it.</discoveredLetterText>
     <baseCost>4000</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
@@ -186,7 +186,7 @@
 
   <ResearchProjectDef>
     <defName>PlasteelProduction</defName>
-    <label>Plasteel</label>
+    <label>plasteel</label>
     <tab>Rimefeller</tab>
     <description>Discover the secrets of making Plasteel</description>
     <discoveredLetterTitle>Plasteel Production</discoveredLetterTitle>
@@ -202,7 +202,7 @@
 
   <ResearchProjectDef>
     <defName>HyperweaveProduction</defName>
-    <label>Hyperweave</label>
+    <label>hyperweave</label>
     <tab>Rimefeller</tab>
     <description>Discover the secrets of making Hyperweave</description>
     <baseCost>3500</baseCost>

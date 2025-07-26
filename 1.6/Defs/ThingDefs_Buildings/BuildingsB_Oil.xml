@@ -26,7 +26,7 @@
 
   <ThingDef Abstract="True" Name="BaseWellHead" ParentName="BuildingNaturalBase">
     <defName>OilWellHead</defName>
-    <label>Oil Well Head</label>
+    <label>oil well head</label>
     <description>Abandoned oil well. When left unused, the pressure will rise back to full over time. Place a derrick directly over the well to continue using it.</description>
     <thingClass>Rimefeller.Building_WellHead</thingClass>
     <graphicData>
