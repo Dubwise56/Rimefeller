@@ -7,7 +7,7 @@
     <useHitPoints>false</useHitPoints>
     <drawerType>MapMeshOnly</drawerType>
     <defName>FilthOil</defName>
-    <label>Oil</label>
+    <label>oil</label>
     <description>Oil on the ground.</description>
     <thingClass>Filth</thingClass>
     <statBases>

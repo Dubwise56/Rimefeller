@@ -127,7 +127,7 @@
 
   <ThingDef ParentName="ChemfuelHopperBase">
     <defName>RefineryLoadingBay</defName>
-    <label>Refinery unloading bay</label>
+    <label>refinery unloading bay</label>
     <description>Bay required by refineries to unload product.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/loadbay</texPath>
@@ -246,7 +246,7 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>SynthyleneRefiner</defName>
-    <label>Synthylene Refiner</label>
+    <label>synthylene refiner</label>
     <description>Processes chemfuel into synthylene, synthylene can be used as a generic building material and as an ingredient for components.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/SynthyleneRefinery</texPath>
@@ -278,7 +278,7 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>NapalmRefiner</defName>
-    <label>Napalm Refiner</label>
+    <label>napalm refiner</label>
     <description>Processes chemfuel into napalm, a highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/NapalmRefinery</texPath>
@@ -310,7 +310,7 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>SynthreadRefiner</defName>
-    <label>Synthread Refiner</label>
+    <label>synthread refiner</label>
     <description>Processes chemfuel into synthread, a synthetic fibre for clothing.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
@@ -342,8 +342,8 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>SynthamideRefiner</defName>
-    <label>Synthamide Refiner</label>
-    <description>Processes chemfuel into Synthamide weave, a high strength synthetic fibre.</description>
+    <label>synthamide refiner</label>
+    <description>Processes chemfuel into synthamide weave, a high strength synthetic fibre.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -375,8 +375,8 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>HyperweaveRefiner</defName>
-    <label>Hyperweave Refiner</label>
-    <description>Processes chemfuel into Hyperweave, a high strength synthetic fibre.</description>
+    <label>hyperweave refiner</label>
+    <description>Processes chemfuel into hyperweave, a high strength synthetic fibre.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Building/ThreadMachine</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -408,8 +408,8 @@
 
   <ThingDef ParentName="RefineryBase">
     <defName>NeutroamineRefiner</defName>
-    <label>Neutroamine Refiner</label>
-    <description>Processes chemfuel into Neutroamine for making medicine.</description>
+    <label>neutroamine refiner</label>
+    <description>Processes chemfuel into neutroamine for making medicine.</description>
     <size>(2,2)</size>
     <graphicData>
       <texPath>Rimefeller/Things/Building/neutroRefinery</texPath>
@@ -443,7 +443,7 @@
 
   <ThingDef ParentName="BasedRimefellerMom">
     <defName>Autoclave</defName>
-    <label>Autoclave</label>
+    <label>autoclave</label>
     <description>Bakes uncured plasteel or synthamide composite into the final product.</description>
     <thingClass>Rimefeller.Building_Autoclave</thingClass>
     <minifiedDef>MinifiedThing</minifiedDef>
