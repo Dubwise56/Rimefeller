@@ -3,19 +3,19 @@
 
   <ThingCategoryDef>
     <defName>Oil</defName>
-    <label>Oil</label>
+    <label>oil</label>
     <parent>Root</parent>
     <iconPath>Rimefeller/Things/Resource/OilBarrel</iconPath>
   </ThingCategoryDef>
 
   <StuffCategoryDef>
     <defName>Plastic</defName>
-    <label>Plastic</label>
+    <label>plastic</label>
   </StuffCategoryDef>
   
   <StuffCategoryDef>
     <defName>Composite</defName>
-    <label>Composite</label>
+    <label>composite</label>
   </StuffCategoryDef>
 
 </Defs>

@@ -3,7 +3,7 @@
 
   <IncidentDef>
     <defName>OilSpill</defName>
-    <label>Oil spill</label>
+    <label>oil spill</label>
     <category>Misc</category>
     <targetTags>
       <li>Map_PlayerHome</li>
@@ -19,7 +19,7 @@
 
   <IncidentDef>
     <defName>DrillQuake</defName>
-    <label>Tremors</label>
+    <label>tremors</label>
     <category>Misc</category>
     <targetTags>
       <li>Map_PlayerHome</li>

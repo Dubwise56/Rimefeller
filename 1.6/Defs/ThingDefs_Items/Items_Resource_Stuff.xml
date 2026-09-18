@@ -3,7 +3,7 @@
   
   <ThingDef ParentName="MakeableShellBase">
     <defName>Shell_Napalm</defName>
-    <label>Napalm shell</label>
+    <label>napalm shell</label>
     <description>A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars. Explodes when damaged.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/NapalmShell</texPath>
@@ -33,7 +33,7 @@
   
   <ThingDef ParentName="BaseBullet">
     <defName>Bullet_Shell_Napalm</defName>
-    <label>Napalm shell</label>
+    <label>napalm shell</label>
     <graphicData>
       <texPath>Things/Projectile/ShellIncendiary</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -78,7 +78,7 @@
 
   <ThingDef ParentName="ResourceBasedFella">
     <defName>Napalm</defName>
-    <label>Napalm</label>
+    <label>napalm</label>
     <description>Highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/OilBarrel</texPath>
@@ -118,7 +118,7 @@
 
   <ThingDef ParentName="ResourceBasedFella">
     <defName>OilBarrel</defName>
-    <label>Oil Barrel</label>
+    <label>oil barrel</label>
     <description>A barrel filled with crude oil, can be dumped, burned, or processed.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/OilBarrel</texPath>
@@ -144,7 +144,7 @@
 
   <ThingDef ParentName="ResourceBasedFella">
     <defName>UncuredPlasteel</defName>
-    <label>Uncured Plasteel</label>
+    <label>uncured plasteel</label>
     <description>Uncured plasteel, requires curing in an autoclave.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/UncuredPlasteel</texPath>
@@ -172,7 +172,7 @@
 
   <ThingDef ParentName="ResourceBase">
     <defName>Synthamide</defName>
-    <label>Synthamide</label>
+    <label>synthamide</label>
     <description>Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing or to create high strength composite materials.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/synthamide</texPath>
@@ -225,7 +225,7 @@
 
   <ThingCategoryDef>
     <defName>Synthylene</defName>
-    <label>Synthylene</label>
+    <label>synthylene</label>
     <parent>ResourcesRaw</parent>
     <iconPath>Rimefeller/Things/Resource/synthylene</iconPath>
     <resourceReadoutRoot>false</resourceReadoutRoot>
@@ -289,7 +289,7 @@
 
   <ThingDef ParentName="SynthyleneBase" Class="Rimefeller.Synthylene">
     <defName>Synthylene</defName>
-    <label>Synthylene</label>
+    <label>synthylene</label>
     <stuffProps>
       <stuffAdjective>synthylene</stuffAdjective>
       <color>(170,170,170)</color>
@@ -300,7 +300,7 @@
 
   <ThingCategoryDef>
     <defName>FiberComposite</defName>
-    <label>Synthamide</label>
+    <label>synthamide</label>
     <parent>ResourcesRaw</parent>
     <iconPath>Rimefeller/Things/Resource/composite</iconPath>
     <resourceReadoutRoot>false</resourceReadoutRoot>
@@ -309,8 +309,8 @@
 
   <ThingDef ParentName="ResourceBasedFella">
     <defName>UncuredComposite</defName>
-    <label>Uncured Synthamide Composite</label>
-    <description>Uncured Synthamide Composite, requires curing in an autoclave.</description>
+    <label>uncured synthamide composite</label>
+    <description>Uncured synthamide composite, requires curing in an autoclave.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/composite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -336,7 +336,7 @@
 
   <ThingDef Name="FiberCompositeBase" ParentName="ResourceBasedFella"  Abstract="True">
     <defName>FiberComposite</defName>
-    <label>Synthamide Composite</label>
+    <label>synthamide composite</label>
     <description>Synthamide composite is a high strength light weight fire resistant spacer tech composite material, made of a polymer matrix reinforced with aramid fibres.</description>
     <graphicData>
       <texPath>Rimefeller/Things/Resource/composite</texPath>
@@ -387,7 +387,7 @@
 
   <ThingDef ParentName="FiberCompositeBase" Class="Rimefeller.FiberComposite">
     <defName>FiberComposite</defName>
-    <label>Composite</label>
+    <label>composite</label>
     <stuffProps>
       <stuffAdjective>Composite</stuffAdjective>
       <color>(202,165,87)</color>

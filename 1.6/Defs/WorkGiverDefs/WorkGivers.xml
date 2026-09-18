@@ -22,11 +22,11 @@
 
   <WorkGiverDef>
     <defName>EmptyAutoclave</defName>
-    <label>Empty Autoclave</label>
+    <label>empty autoclave</label>
     <giverClass>Rimefeller.WorkGiver_EmptyAutoclave</giverClass>
     <workType>Hauling</workType>
-    <verb>Empty Autoclave</verb>
-    <gerund>Emptying Autoclave</gerund>
+    <verb>Empty autoclave</verb>
+    <gerund>Emptying autoclave</gerund>
     <priorityInType>66</priorityInType>
     <requiredCapacities>
       <li>Manipulation</li>
@@ -41,11 +41,11 @@
 
   <WorkGiverDef>
     <defName>FillAutoclave</defName>
-    <label>Fill Autoclave</label>
+    <label>fill autoclave</label>
     <giverClass>Rimefeller.WorkGiver_FillAutoclave</giverClass>
     <workType>Hauling</workType>
-    <verb>Fill Autoclave</verb>
-    <gerund>Filling Autoclave</gerund>
+    <verb>Fill autoclave</verb>
+    <gerund>Filling autoclave</gerund>
     <priorityInType>65</priorityInType>
     <requiredCapacities>
       <li>Manipulation</li>
@@ -60,7 +60,7 @@
 
   <WorkGiverDef>
     <defName>CleanOil</defName>
-    <label>clean Oil</label>
+    <label>clean oil</label>
     <giverClass>Rimefeller.WorkGiver_CleanOil</giverClass>
     <workType>Cleaning</workType>
     <verb>cleanup oil</verb>
@@ -82,7 +82,7 @@
 
   <WorkGiverDef>
     <defName>SuperviseDrilling</defName>
-    <label>Supervise Drilling</label>
+    <label>supervise drilling</label>
     <giverClass>Rimefeller.WorkGiver_SuperviseDrilling</giverClass>
     <workType>Mining</workType>
     <priorityInType>110</priorityInType>
@@ -101,7 +101,7 @@
 
   <WorkGiverDef>
     <defName>OperateResourceConsole</defName>
-    <label>Operate Resource Console</label>
+    <label>operate resource console</label>
     <giverClass>Rimefeller.WorkGiver_OperateResourceConsole</giverClass>
     <workType>RimefellerCrafting</workType>
     <priorityInType>110</priorityInType>
