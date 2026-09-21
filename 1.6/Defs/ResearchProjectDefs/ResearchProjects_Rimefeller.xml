@@ -172,7 +172,7 @@
     <defName>SynthamideCompositeProduction</defName>
     <label>synthamide composite</label>
     <tab>Rimefeller</tab>
-    <description>Produce synthamide somposite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres</description>
+    <description>Produce synthamide composite, a high strength light weight fire resistant spacer tech composite material, made of a synthylene matrix reinforced with synthamide fibres</description>
     <discoveredLetterTitle>Synthamide composite</discoveredLetterTitle>
     <discoveredLetterText>You can now produce synthamide composite! first craft uncured composite at a fabrication bench, construct an autoclave, then load uncured composite into the autoclave to cure it.</discoveredLetterText>
     <baseCost>4000</baseCost>
