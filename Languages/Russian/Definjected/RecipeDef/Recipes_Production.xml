@@ -6,7 +6,7 @@
   <Make_RefiningStub.jobString></Make_RefiningStub.jobString>
 
   <Make_Napalm.label>изготовить напалм</Make_Napalm.label>
-  <Make_Napalm.description>Изготовить партию напалма, смешав синтелен с химтопливом. </Make_Napalm.description>
+  <Make_Napalm.description>Изготовить партию напалма, смешав синтелен с химтопливом.</Make_Napalm.description>
   <Make_Napalm.jobString>Изготавливает напалм</Make_Napalm.jobString>
 
   <Make_ComponentIndustrialPlastic.label>изготовить компонент (с синтеленом)</Make_ComponentIndustrialPlastic.label>

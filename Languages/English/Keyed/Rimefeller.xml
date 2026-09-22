@@ -70,4 +70,14 @@
 
 	<ConsoleSettings>Console Settings</ConsoleSettings>
 	<GlobalSettings>Global Settings</GlobalSettings>
+	<PickSynthyleneColour>Pick Synthylene Colour</PickSynthyleneColour>
+	<PickSynthyleneColourDesc>Pick the colour of synthylene this refiner produces</PickSynthyleneColourDesc>
+	<RefineryBuffer>Buffer: {0}</RefineryBuffer>
+	<KickOver>Kick over</KickOver>
+	<KickOverDesc>Kick the barrel over and spill the oil onto the ground</KickOverDesc>
+	<ConsoleProducts>Products</ConsoleProducts>
+	<WikiButton>Wiki</WikiButton>
+	<DiscordButton>Discord</DiscordButton>
+	<RimefellerWiki>Rimefeller Wiki</RimefellerWiki>
+	<DubsModsDiscord>Dubs Mods Discord</DubsModsDiscord>
 </LanguageData>

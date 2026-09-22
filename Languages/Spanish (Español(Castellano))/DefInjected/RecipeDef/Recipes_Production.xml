@@ -6,7 +6,7 @@
   <Make_RefiningStub.jobString></Make_RefiningStub.jobString>
 
   <Make_Napalm.label>hacer napalm</Make_Napalm.label>
-  <Make_Napalm.description>Haga un lote de napalm mezclando combustible químico y sinquileno. </Make_Napalm.description>
+  <Make_Napalm.description>Haga un lote de napalm mezclando combustible químico y sinquileno.</Make_Napalm.description>
   <Make_Napalm.jobString>Mezcla de napalm.</Make_Napalm.jobString>
 
   <Make_ComponentIndustrialPlastic.label>hacer componente de sinquileno</Make_ComponentIndustrialPlastic.label>

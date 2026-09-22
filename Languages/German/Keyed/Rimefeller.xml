@@ -77,5 +77,15 @@
 
   <ConsoleSettings>Konsolen Einstellungen</ConsoleSettings>
   <GlobalSettings>Globale Einstellungen</GlobalSettings>
-
+  <CrackerNotWorking>Nicht in Betrieb</CrackerNotWorking> <!-- EN: Not working -->
+  <OilToFuelReadout>Öl:{0}/h Kraftstoff:{1}/h</OilToFuelReadout> <!-- EN: Oil:{0}/h Fuel:{1}/h -->
+  <ProductionPaused>Produktion pausiert</ProductionPaused> <!-- EN: Production paused -->
+  <RefineryBuffer>Puffer: {0}</RefineryBuffer> <!-- EN: Buffer: {0} -->
+  <KickOver>Umstoßen</KickOver> <!-- EN: Kick over -->
+  <KickOverDesc>Das Fass umstoßen und das Öl auf den Boden verschütten</KickOverDesc> <!-- EN: Kick the barrel over and spill the oil onto the ground -->
+  <ConsoleProducts>Produkte</ConsoleProducts> <!-- EN: Products -->
+  <WikiButton>Wiki</WikiButton>
+  <DiscordButton>Discord</DiscordButton>
+  <RimefellerWiki>Rimefeller Wiki</RimefellerWiki>
+  <DubsModsDiscord>Dubs Mods Discord</DubsModsDiscord>
 </LanguageData>

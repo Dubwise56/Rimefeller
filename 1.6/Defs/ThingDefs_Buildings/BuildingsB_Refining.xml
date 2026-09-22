@@ -217,7 +217,7 @@
       <li Class="CompProperties_Breakdownable"/>
 
       <li Class="CompProperties_HeatPusher">
-        <compClass>CompHeatPusherPowered</compClass>
+        <compClass>Rimefeller.CompHeatPusherActive</compClass>
         <heatPerSecond>6</heatPerSecond>
       </li>
       <li Class="CompProperties_Explosive">

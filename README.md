@@ -1,32 +1,49 @@
-Drill for oil, process into chemfuel, plastic, composites, napalm
+# Rimefeller
+
+By Dubwise
+
+Drill for oil, process into chemfuel, plastic, composites, napalm.
 
 Works with existing saves.
 
-Rimefeller adds:
+Everything is piped: drill crude out of the ground, crack it into chemfuel, and pipe that to tanks, powerplants, hoppers and refineries. The resource console runs the whole operation from one place.
 
-Drilling for crude oil with shallow and deep reservoir layers.
+## Oil
 
-Cracking crude into chemfuel which is stored in tanks and distributed to hoppers and refineries.
+- Shallow and deep reservoir layers, surveyed and drilled with well heads that draw from the field under them.
+- Crude is stored in tanks and moved through pipes, not hauled.
+- Crude crackers turn crude into chemfuel.
+- Oil spill incidents, and barrels you can kick over to spill oil on purpose.
 
-Chemfuel powerplants which run off piped chemfuel.
+## Chemfuel
 
-Refining chemfuel into a plastic called synthylene to use as generic building material like wood with a range of colours.
+- Chemfuel storage tanks, pipes and pumps feed the whole network.
+- Chemfuel powerplants run straight off the pipes, in normal and large sizes.
+- Hoppers and siphons move chemfuel between your pipes and ordinary stockpiles.
 
-Refining chemfuel into a kevlar-like high strength thread called synthamide.
+## Refining
 
-Craft Synthylene and Synthamide into Sythamide composite, a high strength building material with a range of colours.
+- Synthylene, a plastic that works like a generic building material, in a range of colours.
+- Synthamide, a kevlar-like high strength thread.
+- Synthamide composite, crafted from both, for high strength building in a range of colours.
+- Neutroamine, synthread and hyperweave.
+- Plasteel and components from mixtures of steel and synthylene.
+- Napalm for laying trails and filling bombs, and burning everything to ash.
 
-Produce Neutroamine and synthread.
+## Running it
 
-Craft plasteel and components from mixtures of steel and synthylene
+- The resource console shows every product, its bills and the state of the network, and the refineries work through its bill stack.
+- Refineries and crackers only push heat while they are actually running.
+- Multiplayer ready.
 
-Craft napalm to lay trails and napalm bombs and burn everything to ash.
+## Bug Reports / Issue Tracker
 
-Oil spill incidents
+https://github.com/Dubwise56/Rimefeller/issues
 
-https://ludeon.com/forums/index.php?topic=25124.0
+[Github Releases](https://github.com/Dubwise56/Rimefeller/releases)
 
-https://ko-fi.com/T6T6MYO0
+[Rimefeller Wiki](https://github.com/Dubwise56/Rimefeller/wiki)
 
-Discord for my mods: https://discord.gg/bajcjsu
+Discord for my mods: [Discord](https://discord.gg/bajcjsu)
 
+[Support me on Ko-fi](https://ko-fi.com/T6T6MYO0)

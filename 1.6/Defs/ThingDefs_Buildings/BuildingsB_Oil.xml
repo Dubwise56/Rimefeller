@@ -109,7 +109,7 @@
         <glowColor>(252,187,113,0)</glowColor>
       </li>
       <li Class="CompProperties_HeatPusher">
-        <compClass>CompHeatPusherPowered</compClass>
+        <compClass>Rimefeller.CompHeatPusherActive</compClass>
         <heatPerSecond>6</heatPerSecond>
       </li>
       <li Class="CompProperties_Explosive">
@@ -419,7 +419,7 @@
         <basePowerConsumption>1200</basePowerConsumption>
       </li>
       <li Class="CompProperties_HeatPusher">
-        <compClass>CompHeatPusherPowered</compClass>
+        <compClass>Rimefeller.CompHeatPusherActive</compClass>
         <heatPerSecond>12</heatPerSecond>
       </li>
       <li Class="Rimefeller.CompProperties_CrudeCracker">

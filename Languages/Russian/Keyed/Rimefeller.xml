@@ -67,5 +67,17 @@
 
   <ConsoleSettings>Настройки консоли</ConsoleSettings>
   <GlobalSettings>Глобальные настройки</GlobalSettings>
-
+  <CrackerNotWorking>Не работает</CrackerNotWorking> <!-- EN: Not working -->
+  <OilToFuelReadout>Нефть:{0}/ч Топливо:{1}/ч</OilToFuelReadout> <!-- EN: Oil:{0}/h Fuel:{1}/h -->
+  <ProductionPaused>Производство приостановлено</ProductionPaused> <!-- EN: Production paused -->
+  <PickSynthyleneColour>Выбрать цвет синтелена</PickSynthyleneColour> <!-- EN: Pick Synthylene Colour -->
+  <PickSynthyleneColourDesc>Выберите цвет синтелена, который производит эта установка</PickSynthyleneColourDesc> <!-- EN: Pick the colour of synthylene this refiner produces -->
+  <RefineryBuffer>Буфер: {0}</RefineryBuffer> <!-- EN: Buffer: {0} -->
+  <KickOver>Опрокинуть</KickOver> <!-- EN: Kick over -->
+  <KickOverDesc>Опрокинуть бочку и разлить нефть по земле</KickOverDesc> <!-- EN: Kick the barrel over and spill the oil onto the ground -->
+  <ConsoleProducts>Продукция</ConsoleProducts> <!-- EN: Products -->
+  <WikiButton>Вики</WikiButton> <!-- EN: Wiki -->
+  <DiscordButton>Discord</DiscordButton>
+  <RimefellerWiki>Вики Rimefeller</RimefellerWiki> <!-- EN: Rimefeller Wiki -->
+  <DubsModsDiscord>Discord модов Dubs</DubsModsDiscord> <!-- EN: Dubs Mods Discord -->
 </LanguageData>

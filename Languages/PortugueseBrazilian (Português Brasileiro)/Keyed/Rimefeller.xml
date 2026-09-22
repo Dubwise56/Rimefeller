@@ -67,6 +67,17 @@
 
   <ConsoleSettings>Configurações do console</ConsoleSettings>
   <GlobalSettings>Configurações globais</GlobalSettings>
-
-
+  <CrackerNotWorking>Não está funcionando</CrackerNotWorking> <!-- EN: Not working -->
+  <OilToFuelReadout>Óleo:{0}/h Combustível:{1}/h</OilToFuelReadout> <!-- EN: Oil:{0}/h Fuel:{1}/h -->
+  <ProductionPaused>Produção pausada</ProductionPaused> <!-- EN: Production paused -->
+  <PickSynthyleneColour>Escolher cor do synthylene</PickSynthyleneColour> <!-- EN: Pick Synthylene Colour -->
+  <PickSynthyleneColourDesc>Escolha a cor do synthylene que esta refinaria produz</PickSynthyleneColourDesc> <!-- EN: Pick the colour of synthylene this refiner produces -->
+  <RefineryBuffer>Reserva: {0}</RefineryBuffer> <!-- EN: Buffer: {0} -->
+  <KickOver>Derrubar</KickOver> <!-- EN: Kick over -->
+  <KickOverDesc>Derrubar o barril e derramar o óleo no chão</KickOverDesc> <!-- EN: Kick the barrel over and spill the oil onto the ground -->
+  <ConsoleProducts>Produtos</ConsoleProducts> <!-- EN: Products -->
+  <WikiButton>Wiki</WikiButton>
+  <DiscordButton>Discord</DiscordButton>
+  <RimefellerWiki>Wiki do Rimefeller</RimefellerWiki> <!-- EN: Rimefeller Wiki -->
+  <DubsModsDiscord>Discord dos mods Dubs</DubsModsDiscord> <!-- EN: Dubs Mods Discord -->
 </LanguageData>

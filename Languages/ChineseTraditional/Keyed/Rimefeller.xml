@@ -132,4 +132,15 @@
   <ConsoleSettings>控制台設置</ConsoleSettings>
   <!-- EN: Global Settings -->
   <GlobalSettings>全局設置</GlobalSettings>
+  <CrackerNotWorking>未運行</CrackerNotWorking> <!-- EN: Not working -->
+  <OilToFuelReadout>石油:{0}/時 燃料:{1}/時</OilToFuelReadout> <!-- EN: Oil:{0}/h Fuel:{1}/h -->
+  <ProductionPaused>生產已暫停</ProductionPaused> <!-- EN: Production paused -->
+  <RefineryBuffer>緩衝: {0}</RefineryBuffer> <!-- EN: Buffer: {0} -->
+  <KickOver>踢翻</KickOver> <!-- EN: Kick over -->
+  <KickOverDesc>踢翻油桶，把石油灑在地上</KickOverDesc> <!-- EN: Kick the barrel over and spill the oil onto the ground -->
+  <ConsoleProducts>產品</ConsoleProducts> <!-- EN: Products -->
+  <WikiButton>Wiki</WikiButton>
+  <DiscordButton>Discord</DiscordButton>
+  <RimefellerWiki>Rimefeller 維基</RimefellerWiki> <!-- EN: Rimefeller Wiki -->
+  <DubsModsDiscord>Dubs 模組 Discord</DubsModsDiscord> <!-- EN: Dubs Mods Discord -->
 </LanguageData>

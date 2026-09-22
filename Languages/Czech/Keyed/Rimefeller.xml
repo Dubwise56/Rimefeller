@@ -77,4 +77,15 @@
 
   <ConsoleSettings>Nastavení konzole</ConsoleSettings>
   <GlobalSettings>Globální nastavení</GlobalSettings>
+  <CrackerNotWorking>Nepracuje</CrackerNotWorking> <!-- EN: Not working -->
+  <OilToFuelReadout>Ropa:{0}/h Palivo:{1}/h</OilToFuelReadout> <!-- EN: Oil:{0}/h Fuel:{1}/h -->
+  <ProductionPaused>Výroba pozastavena</ProductionPaused> <!-- EN: Production paused -->
+  <RefineryBuffer>Zásobník: {0}</RefineryBuffer> <!-- EN: Buffer: {0} -->
+  <KickOver>Převrhnout</KickOver> <!-- EN: Kick over -->
+  <KickOverDesc>Převrhnout sud a vylít ropu na zem</KickOverDesc> <!-- EN: Kick the barrel over and spill the oil onto the ground -->
+  <ConsoleProducts>Produkty</ConsoleProducts> <!-- EN: Products -->
+  <WikiButton>Wiki</WikiButton>
+  <DiscordButton>Discord</DiscordButton>
+  <RimefellerWiki>Rimefeller wiki</RimefellerWiki> <!-- EN: Rimefeller Wiki -->
+  <DubsModsDiscord>Discord modů Dubs</DubsModsDiscord> <!-- EN: Dubs Mods Discord -->
 </LanguageData>

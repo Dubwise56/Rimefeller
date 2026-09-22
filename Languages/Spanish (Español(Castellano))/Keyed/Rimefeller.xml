@@ -77,5 +77,15 @@
 
   <ConsoleSettings>Configuración de la consola</ConsoleSettings>
   <GlobalSettings>Parámetro global</GlobalSettings>
-
+  <CrackerNotWorking>No funciona</CrackerNotWorking> <!-- EN: Not working -->
+  <OilToFuelReadout>Petróleo:{0}/h Combustible:{1}/h</OilToFuelReadout> <!-- EN: Oil:{0}/h Fuel:{1}/h -->
+  <ProductionPaused>Producción en pausa</ProductionPaused> <!-- EN: Production paused -->
+  <RefineryBuffer>Reserva: {0}</RefineryBuffer> <!-- EN: Buffer: {0} -->
+  <KickOver>Volcar</KickOver> <!-- EN: Kick over -->
+  <KickOverDesc>Volcar el barril y derramar el petróleo por el suelo</KickOverDesc> <!-- EN: Kick the barrel over and spill the oil onto the ground -->
+  <ConsoleProducts>Productos</ConsoleProducts> <!-- EN: Products -->
+  <WikiButton>Wiki</WikiButton>
+  <DiscordButton>Discord</DiscordButton>
+  <RimefellerWiki>Wiki de Rimefeller</RimefellerWiki> <!-- EN: Rimefeller Wiki -->
+  <DubsModsDiscord>Discord de los mods de Dubs</DubsModsDiscord> <!-- EN: Dubs Mods Discord -->
 </LanguageData>
