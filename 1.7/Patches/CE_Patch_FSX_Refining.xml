@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Combat Extended</li>
+      <li>Combat Extended: FastTrack Edition</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName="RefineryLoadingBay"]/building/fixedStorageSettings/filter/thingDefs</xpath>
+					<value>
+						<li>FSX</li>
+					</value>
+				</li>
+			</operations>
+		</match>
+		<nomatch Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/ThingDef[defName="CombatExtendedFsxRefiner"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/ResearchProjectDef[defName="CE_FsxProduction"]</xpath>
+				</li>
+			</operations>
+		</nomatch>
+	</Operation>	
+</Patch>

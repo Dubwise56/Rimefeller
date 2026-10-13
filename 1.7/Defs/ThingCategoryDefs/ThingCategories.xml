@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingCategoryDef>
+    <defName>Oil</defName>
+    <label>oil</label>
+    <parent>Root</parent>
+    <iconPath>Rimefeller/Things/Resource/OilBarrel</iconPath>
+  </ThingCategoryDef>
+
+  <StuffCategoryDef>
+    <defName>Plastic</defName>
+    <label>plastic</label>
+  </StuffCategoryDef>
+  
+  <StuffCategoryDef>
+    <defName>Composite</defName>
+    <label>composite</label>
+  </StuffCategoryDef>
+
+</Defs>
