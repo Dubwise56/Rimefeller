@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<AutoclaveEmpty>Empty, holds up to {0} {1}</AutoclaveEmpty>
+	<AutoclaveContains>Contains {0} / {1} {2}</AutoclaveContains>
+	<AutoclaveProgress>Curing progress: {0}</AutoclaveProgress>
+	<AutoclaveCured>Cured: {0} {1}, ready to take out</AutoclaveCured>
+</LanguageData>

@@ -243,6 +243,7 @@
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <workAmount>4000</workAmount>
+    <workerCounterClass>Rimefeller.RecipeWorkerCounter_Uncured</workerCounterClass>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <ingredients>
       <li>
@@ -301,6 +302,7 @@
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <workAmount>3000</workAmount>
+    <workerCounterClass>Rimefeller.RecipeWorkerCounter_Uncured</workerCounterClass>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <ingredients>
       <li>
